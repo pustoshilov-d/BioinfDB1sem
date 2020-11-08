@@ -1,18 +1,10 @@
-from bioservices import UniProt
-from Bio import SeqIO
+from Bio import SeqIO, AlignIO
 
-sorted_file = r"Proteins_sorted.fasta"
-named_file = r"Proteins_named.fasta"
-# open(sorted_file, 'w') as sorted,
+sorted_file = r"data/Proteins_sorted.fasta"
+named_file = r"data/Proteins_named.fasta"
 
-# with open(named_file, 'w') as named:
-#     records = SeqIO.parse(named_file, 'fasta')
-#     for record in records:
-#         print(record.id)
-
-records =  list(SeqIO.parse(named_file, "fasta"))
+records =  AlignIO.read(named_file, "fasta")
 records.sort()
-[print(rec) for rec in records]
+print(records)
+AlignIO.write(records, sorted_file, "fasta")
 
-# named.close()
-#
