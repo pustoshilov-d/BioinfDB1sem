@@ -11,8 +11,6 @@ from bioservices import UniProt
 
 u = UniProt()
 results = u.search("MCP_IIV6", columns="id, organism")
-# print(results)
-# results = u.search("organism:10090+and+reviewed:yes", columns="id,entry name", limit=2)
 # print(results['Organism'])
 
 from Bio import SeqIO
@@ -41,10 +39,12 @@ with open(original_file) as original, open(corrected_file, 'w') as corrected:
 
         record.id = organism.replace(' ', '_')+ "///"
 
-        # if record.id == 'foo':
-        #     record.id = 'bar'
-        print(record.id)  # prints 'bar' as expected
+        print(record.id)
         SeqIO.write(record, corrected, 'fasta')
+
+    original.close()
+    corrected.close()
+
 
 
 
