@@ -14,29 +14,33 @@ def split_mine(str):
 
 original_file = open(r"data/Proteins_origin.fasta", 'r')
 # original_file = open(r"data/Proteins_short.fasta", 'r')
-new_file = open(r"data/Proteins_named_sorted.fasta", 'w')
+new_file = open(r"data/Proteins_named_All.fasta", 'w')
 
 
 records = AlignIO.read(original_file, 'fasta')
 
 for record in records:
-    print(record.id)
+    # print(record.id)
+    # print(record.seq)
     organism = ''
+    description = ''
     try:
         find = record.id.split('/')[0]
-        results = split_mine(u.search(find, columns="id, organism"))
+        results = split_mine(u.search(find, columns="id, organism, lineage(SUPERKINGDOM), lineage(all)"))
         if results["Organism"] == '':
             organism = 'No_identified'
         else:
-            organism = results["Organism"]
+            organism = results["Taxonomic lineage (SUPERKINGDOM)"][:3] + './' + results["Organism"]
+            # description =results["Taxonomic lineage (all)"]
 
     except Exception as e:
         print('ошибка', e)
         organism = 'Error'
 
-    record.id = organism.replace(' ', '_')+ "/"+record.id
+    record.id = organism + "/"+record.id
+    # record.id = organism.replace(' ', '_')+ "/"+record.id
     record.name = ''
-    record.description = ''
+    record.description = description
     print(record.id)
 
 records.sort()

@@ -12,8 +12,8 @@ def split_mine(str):
     return dict
 
 
-results = u.search("MCP_IIV6", columns="id, organism")
-print(results['Organism'])
+results = u.search("MCP_IIV6", columns="id, organism, lineage(SUPERKINGDOM), lineage(all)")
+print(results)
 
 
 # [print(key,record.__getattribute__(key)) for key in record.__dict__.keys()]

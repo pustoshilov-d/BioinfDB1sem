@@ -1,4 +1,4 @@
->Euk./Acanthamoeba_castellanii_str._Neff/L8GMV5_ACACA/1-185 cellular organisms, Eukaryota, Amoebozoa, Discosea, Longamoebia, Centramoebida, Acanthamoebidae, Acanthamoeba, Acanthamoeba castellanii (Amoeba), Acanthamoeba castellanii str. Neff
+>Euk./Acanthamoeba castellanii str. Neff/L8GMV5_ACACA/1-185
 ------------------------------------------------------------
 -------------------------------------------------M---------H
 EYLIDE---VQ---HSSSE---------------S------HTP-G-HV-----------
@@ -15,7 +15,7 @@ H--P-----AQ--YFRTVHPREKHT-----------SKPS-----GF-------V-----
 Y--------NYS------FAL--YPEDKQPSGSCNFSRI--D--N--VTLRLIFPT----
 -----AY-NS-E-S--AA-------HATPF-N--------------GQIRVYAPNPNVVL
 VTSGMMG------------------------------
->Euk./Acanthamoeba_castellanii_str._Neff/L8GRF1_ACACA/238-298 cellular organisms, Eukaryota, Amoebozoa, Discosea, Longamoebia, Centramoebida, Acanthamoebidae, Acanthamoeba, Acanthamoeba castellanii (Amoeba), Acanthamoeba castellanii str. Neff
+>Euk./Acanthamoeba castellanii str. Neff/L8GRF1_ACACA/238-298
 ------------------------------------------------------------
 --------------------------------------------------ERRMFAQQMH
 EYLVDE---VQ---HSSSESH-------TAGV--S------SQH-V-RL-----------
@@ -32,7 +32,7 @@ EYLVDE---VQ---HSSSESH-------TAGV--S------SQH-V-RL-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------AITPTPYT----------------------
->Euk./Acanthamoeba_castellanii_str._Neff/L8GRM6_ACACA/105-294 cellular organisms, Eukaryota, Amoebozoa, Discosea, Longamoebia, Centramoebida, Acanthamoebidae, Acanthamoeba, Acanthamoeba castellanii (Amoeba), Acanthamoeba castellanii str. Neff
+>Euk./Acanthamoeba castellanii str. Neff/L8GRM6_ACACA/105-294
 ------------------------------------------------------------
 --------------------------------------------------ERRMFAQQMH
 EYLVDE---VQ---HSSSESH-------TAGV--S------SQH-V-RL-----------
@@ -49,7 +49,7 @@ H--P-----AQ--YYRTVHPREKHT-----------SKPS-----GF-------I-----
 Y--------NYS------FAL--YPEDKQPSGSCNFSRI--D--N--VTLRLIFPN----
 -----AY-NA-E-S--AA-------HATPF-N--------------GQIRVYAPNHN---
 -------Y-----------------------------
->Euk./Acanthamoeba_castellanii_str._Neff/L8HF82_ACACA/217-261 cellular organisms, Eukaryota, Amoebozoa, Discosea, Longamoebia, Centramoebida, Acanthamoebidae, Acanthamoeba, Acanthamoeba castellanii (Amoeba), Acanthamoeba castellanii str. Neff
+>Euk./Acanthamoeba castellanii str. Neff/L8HF82_ACACA/217-261
 ------------------------------------------------------------
 --------------------------------------------------ERRMFAQQMH
 EYLIDQ---VQ---FTGAE---------PHTGS-T------SQA-I-RL-----------
@@ -66,7 +66,7 @@ EYLIDQ---VQ---FTGAE---------PHTGS-T------SQA-I-RL-----------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------------------
->Euk./Catenaria_anguillulae_PL171/A0A1Y2H8B9_9FUNG/233-408 cellular organisms, Eukaryota, Opisthokonta, Fungi, Fungi incertae sedis, Blastocladiomycota, Blastocladiomycota incertae sedis, Blastocladiomycetes, Blastocladiales, Catenariaceae, Catenaria, Catenaria anguillulae, Catenaria anguillulae PL171
+>Euk./Catenaria anguillulae PL171/A0A1Y2H8B9_9FUNG/233-408
 ------------------------------------------------------------
 --------------------------------------------------ERKMFASKAH
 EYLIEQ---LQ---YVGS----------TSYSN-S------VVR-E-KI-----------
@@ -83,7 +83,7 @@ R--K-----AG--YFNLVQPYYHHS-----------RMPA-----TG-------I-----
 Y--------VYS------FAL--NPEQHQPSGTLNMSRV--E--S--LNLNMTLAT----
 -----GT-DP-V-----------------------------------QVYPFAVNYNVLR
 ITSGMGG------------------------------
->Euk./Chlamydomonas_eustigma/A0A250XK67_9CHLO/459-666 cellular organisms, Eukaryota, Viridiplantae, Chlorophyta, core chlorophytes, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas, Chlamydomonas eustigma
+>Euk./Chlamydomonas eustigma/A0A250XK67_9CHLO/459-666
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQVSH
 EYLIDQ---LQ---SVEES-----------TTI-R------NPK-V-KL-----------
@@ -100,7 +100,7 @@ R--D-----GR--YFNLVQPFQHHK-----------NIPT-----MG-------I-----
 N--------VYS------FAL--KPEEHQPSGTCNFSRI--D--T--AILDVVLSK----
 -----NV-PL-N-S--VT-----------------------------RVKIFTVNYNVLR
 IMSGMGG------------------------------
->Euk./Chlamydomonas_eustigma/A0A250XN90_9CHLO/401-665 cellular organisms, Eukaryota, Viridiplantae, Chlorophyta, core chlorophytes, Chlorophyceae, Chlamydomonadales, Chlamydomonadaceae, Chlamydomonas, Chlamydomonas eustigma
+>Euk./Chlamydomonas eustigma/A0A250XN90_9CHLO/401-665
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQAAH
 EYLIEQ---LQ---FTGDE----------STNQ-V------SNK-I-KM-----------
@@ -117,7 +117,7 @@ R--D-----GR--YFSLVQPYQHHE-----------NVPT-----QG-------I-----
 N--------VYS------FAL--KPEEHQPSGSCNFSRI--D--T--ATLNLTLTQ----
 -----NT-VQ-Y-S--NG------NQRSAI------------------VRIYAVNYNIMR
 IMSGMGG------------------------------
->Euk./Ectocarpus_siliculosus_(Brown_alga)_(Conferva_siliculosa)/D8LPE4_ECTSI/244-431 cellular organisms, Eukaryota, Sar, Stramenopiles, Ochrophyta, PX clade, Phaeophyceae, Ectocarpales, Ectocarpaceae, Ectocarpus, Ectocarpus siliculosus (Brown alga) (Conferva siliculosa)
+>Euk./Ectocarpus siliculosus (Brown alga) (Conferva siliculosa)/D8LPE4_ECTSI/244-431
 ------------------------------------------------------------
 --------------------------------------------------ERQAFASVQH
 EYLITT---TQ---RQMHS-I-------TSASA-K------SDQ-L-KL-----------
@@ -134,7 +134,7 @@ N-LP-----GL--FFRQVQPALKWP-----------NTPA-----GY-------T-----
 Y--------LFT------FAA--IGGVWNPTSTLNMSRI--D--H--VQLELKYGD----
 -----NI-PT-S-----D------------------------------VVVFNEAYNLLV
 IKEGMGG------------------------------
->Euk./Gonapodya_prolifera_(strain_JEL478)_(Monoblepharis_prolifera)/A0A138ZWU4_GONPJ/230-405 cellular organisms, Eukaryota, Opisthokonta, Fungi, Fungi incertae sedis, Chytridiomycota, Chytridiomycota incertae sedis, Monoblepharidomycetes, Monoblepharidales, Gonapodyaceae, Gonapodya, Gonapodya prolifera (Aquatic fungus), Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)
+>Euk./Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)/A0A138ZWU4_GONPJ/230-405
 ------------------------------------------------------------
 --------------------------------------------------ERKMFSQNSH
 EYLITQ---LQ---YNGGE----------SVTT-S------TAR-L-KL-----------
@@ -151,7 +151,7 @@ R--S-----SA--YYSRIVPLYCHT-----------RGPS-----TG-------I-----
 Y--------VYS------FAL--KPEEHQPSGSINLSRI--E--S--TTLFLNLTT----
 -----GT-RP-V-T----------------------------------VHVFAVSYNVLR
 IVSGLGG------------------------------
->Euk./Gonapodya_prolifera_(strain_JEL478)_(Monoblepharis_prolifera)/A0A139A9J7_GONPJ/166-340 cellular organisms, Eukaryota, Opisthokonta, Fungi, Fungi incertae sedis, Chytridiomycota, Chytridiomycota incertae sedis, Monoblepharidomycetes, Monoblepharidales, Gonapodyaceae, Gonapodya, Gonapodya prolifera (Aquatic fungus), Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)
+>Euk./Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)/A0A139A9J7_GONPJ/166-340
 ------------------------------------------------------------
 --------------------------------------------------ERDLLGAEAS
 QYLIGV---WQ---HNGLE----------SGST-P------NIK-P-QL-----------
@@ -168,7 +168,7 @@ R--A-----GQ--YHNYVSAYQNHS-----------RCPA-----VG-------V-----
 Y--------SYS------FAL--YPELATPTGSQNFSRI--D--T--AILALNLNT----
 -----AN-NV-G-------------------Y---------------KLGVYARSWNILR
 VRGGQSG------------------------------
->Euk./Klebsormidium_nitens_(Green_alga)_(Ulothrix_nitens)/A0A1Y1I2F8_KLENI/713-888 cellular organisms, Eukaryota, Viridiplantae, Streptophyta, Klebsormidiophyceae, Klebsormidiales, Klebsormidiaceae, Klebsormidium, Klebsormidium nitens (Green alga) (Ulothrix nitens)
+>Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1I2F8_KLENI/713-888
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAGDAH
 EYLIEQ---VQ---FTGDESI------PASVSS-S------TQK-I-RL-----------
@@ -185,7 +185,7 @@ R--P-----GT--YHRLVQPYQHHP-----------RVPS-----KP-------V-----
 Y--------VYS------FAL--ESSSHQPSGATNFSRI--D--N--AQLYLTTKP----
 -----NM-PA-A-R----------------------------------CKVLAINYNVFR
 IQGGMGG------------------------------
->Euk./Klebsormidium_nitens_(Green_alga)_(Ulothrix_nitens)/A0A1Y1IIV4_KLENI/264-439 cellular organisms, Eukaryota, Viridiplantae, Streptophyta, Klebsormidiophyceae, Klebsormidiales, Klebsormidiaceae, Klebsormidium, Klebsormidium nitens (Green alga) (Ulothrix nitens)
+>Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1IIV4_KLENI/264-439
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAGDAH
 EYLIEQ---VQ---FTGDESI------PASVSS-S------TQK-I-RL-----------
@@ -202,7 +202,7 @@ R--P-----GT--YHRLVQPYQHHP-----------RVPS-----RP-------V-----
 Y--------VYS------FAL--EASSHQPSGATNFSRI--D--N--AQLYLTTRP----
 -----NM-PA-A-----R------------------------------VKVLAINYNVFR
 IQGGMGG------------------------------
->Euk./Klebsormidium_nitens_(Green_alga)_(Ulothrix_nitens)/A0A1Y1IQZ1_KLENI/238-410 cellular organisms, Eukaryota, Viridiplantae, Streptophyta, Klebsormidiophyceae, Klebsormidiales, Klebsormidiaceae, Klebsormidium, Klebsormidium nitens (Green alga) (Ulothrix nitens)
+>Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1IQZ1_KLENI/238-410
 ------------------------------------------------------------
 --------------------------------------------------ERRKYASSSH
 EFLIEQ---LQ---FTGSDTW--------SGGS-G------TSK-I-RM-----------
@@ -219,7 +219,7 @@ R--A-----AP--YFRLVQPYQHHT-----------RIPN-----RF-------I-----
 Y--------VYS------FAL--KPEEHQPSGTCNFSRI--D--N--AALHLGLNT----
 -----ED-PA-K------------------------------------ISVYAVNYNISR
 ITS----VSF---------------------------
->Euk./Klebsormidium_nitens_(Green_alga)_(Ulothrix_nitens)/A0A1Y1IS02_KLENI/171-266 cellular organisms, Eukaryota, Viridiplantae, Streptophyta, Klebsormidiophyceae, Klebsormidiales, Klebsormidiaceae, Klebsormidium, Klebsormidium nitens (Green alga) (Ulothrix nitens)
+>Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1IS02_KLENI/171-266
 ------------------------------------------------------------
 --------------------------------------------------ERRKFASSSH
 EFLVEQ---VQ---FTGDESI------PASISA-S------TQK-I-RL-----------
@@ -236,7 +236,7 @@ S--AAVN--S--KTGN--------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------SSSTA-------------------------
->Euk./Phytophthora_cactorum/A0A329RC37_9STRA/8-140 cellular organisms, Eukaryota, Sar, Stramenopiles, Oomycota, Peronosporales, Peronosporaceae, Phytophthora, Phytophthora cactorum
+>Euk./Phytophthora cactorum/A0A329RC37_9STRA/8-140
 ------------------------------------------------------------
 ---------------------------CAVTTTSLSDGTVTGAGAMNIKY----------
 ------------------------------------------------------------
@@ -253,7 +253,7 @@ F--Q-----AQ--FFNPYIPYQFGRA--------GITAPT----NAG-------L-----
 Y--------FYS------FAL--HPTPYQPSGHFNASRE--R--E--LYLGYTSSF----
 -----IS-SE-S----------------GRTA---------------TFFVQAKAVNFIL
 VSEGS--CS----------------------------
->Euk./Phytophthora_cactorum/A0A329RMU2_9STRA/286-503 cellular organisms, Eukaryota, Sar, Stramenopiles, Oomycota, Peronosporales, Peronosporaceae, Phytophthora, Phytophthora cactorum
+>Euk./Phytophthora cactorum/A0A329RMU2_9STRA/286-503
 ------------------------------------------------------------
 --------------------------------------------MFVLPE--------VH
 DIFIDR---VA---FTLIRVLRR---QTQNLNK-S------SDS-I-HL-----------
@@ -270,7 +270,7 @@ F--P-----AQ--FFNSYIPYQFGGA--------GITAPT----DTG-------L-----
 Y--------FYS------FTL--HPTQYQPSGHFNASRA--R--E--LYLDYTSSF----
 -----IS-SE-G----------------GRTA---------------KFFVHAKAINFIL
 VSEGS--CS----------------------------
->Euk./Phytophthora_nicotianae_(Buckeye_rot_agent)/A0A0W8DYX8_PHYNI/284-502 cellular organisms, Eukaryota, Sar, Stramenopiles, Oomycota, Peronosporales, Peronosporaceae, Phytophthora, Phytophthora nicotianae (Buckeye rot agent)
+>Euk./Phytophthora nicotianae (Buckeye rot agent)/A0A0W8DYX8_PHYNI/284-502
 ------------------------------------------------------------
 ----------------------------------------------VLPE--------VH
 DIFIDR---VA---FALVRVHR-----RQTQNL-N------KSS-E-SI-----------
@@ -287,7 +287,7 @@ F--P-----AA--FFNSYIPYQFGGS--------ALTAPT----DPG-------L-----
 Y--------YYS------FAL--YPNQYQPSGHFNVSRA--R--E--LYLNYTSS-----
 -----FI-SS-D-A--NH------------TA---------------TFFVQAKTINFLL
 ISEGSA-S-----------------------------
->Euk./Phytophthora_parasitica_(strain_INRA-310)/W2PT61_PHYPN/284-502 cellular organisms, Eukaryota, Sar, Stramenopiles, Oomycota, Peronosporales, Peronosporaceae, Phytophthora, Phytophthora parasitica (Potato buckeye rot agent), Phytophthora parasitica (strain INRA-310)
+>Euk./Phytophthora parasitica (strain INRA-310)/W2PT61_PHYPN/284-502
 ------------------------------------------------------------
 ----------------------------------------------VLPE--------VH
 DIFIDR---VA---FTLVRVHRR---QTQNLNK-S------SES-I-HL-----------
@@ -389,7 +389,7 @@ R--G-----GF--WHDTVEPFLHHT-----------KTPH-----DG-------L-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFAD----
 -----FA-NN-K-M--AD--V-F-TDTDNKVL------------------IFAINYNVLR
 IMSGMGG------------------------------
->Vir./Acanthamoeba_polyphaga_mimivirus_(APMV)/CAPS1_MIMIV/242-588 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, Acanthamoeba polyphaga mimivirus (APMV)
+>Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS1_MIMIV/242-588
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---LQ---FTGEE---------SAGSS-N------SAK-Y-KL-----------
@@ -406,7 +406,7 @@ R--G-----GI--WYDTVNPTVHHT-----------KSPR-----DG-------V-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFQH----
 -----FT-NH-K-F--AD--V-F-ADNDNKVL------------------IFAVNYNVLR
 MLSGMAG------------------------------
->Vir./Acanthamoeba_polyphaga_mimivirus_(APMV)/CAPS2_MIMIV/402-585 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, Acanthamoeba polyphaga mimivirus (APMV)
+>Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS2_MIMIV/402-585
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQSAH
 EYLIEV---VQ---YQTF----------DNIDH-S------KYN-S-HL-----------
@@ -423,7 +423,7 @@ N--L-----GV-GYYNYVQPYWYFI-----------STPT-----DG-------L-----
 Y--------VYS------FSL--KPTEHQPSSTLNLSRI--H--D--FGIYLEFSK----
 -----EL-SK-I-I--ES--------NCS--S--------------IFFGTYIMSYNILR
 FMSGMAG------------------------------
->Vir./Acanthamoeba_polyphaga_mimivirus_(APMV)/CAPS3_MIMIV/1578-2150 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, Acanthamoeba polyphaga mimivirus (APMV)
+>Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS3_MIMIV/1578-2150
 ------------------------------------------------------------
 --------------------------------------------------ERQAFVTKHL
 QYLVDE---FQ---YSTTN---------ITDNN-L------TPV-Y-KIGTNKISCVVKK
@@ -440,7 +440,7 @@ N--S-----DH-TFWTACQTYQHFK-----------HDTE-----TG-------I-----
 N--------LYS------WAI--KPFNEQNSGSANLSRI--D--R--FMSILNIHP----
 -----II-SS-K-N--SA-----------------------------SIITMTLSINIIN
 YLSGLCG------------------------------
->Vir./Acanthamoeba_polyphaga_mimivirus_(APMV)/CAPS4_MIMIV/325-505 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, Acanthamoeba polyphaga mimivirus (APMV)
+>Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS4_MIMIV/325-505
 ------------------------------------------------------------
 --------------------------------------------------ERMMLIKNPQ
 EYLIEQ---IQ---YNQE----------INVKN-S------NVK-Q-KL-----------
@@ -457,7 +457,7 @@ R--D-----GK--YFNIVQPYQHHY-----------RGPD-----TG-------I-----
 N--------MYS------VSI--NSQCHQPSSTINMSRI--D--D--ISMEMQLKN----
 -----VN-PN-N-T--HK------------------------------IRSYTTSYNILR
 VCFNIGG------------------------------
->Vir./Acanthamoeba_polyphaga_moumouvirus/L7RCX8_9VIRU/410-594 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Acanthamoeba polyphaga moumouvirus
+>Vir./Acanthamoeba polyphaga moumouvirus/L7RCX8_9VIRU/410-594
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQSTH
 EYLIET---IQ---YNEY----------DDIMS-R------EYN-A-HL-----------
@@ -474,7 +474,7 @@ N--G-----DM-KYFNNIHPYLYFN-----------NSLS-----DG-------L-----
 N--------VYS------FSI--KPTIHQPSSSINLSRI--D--D--LSIAMKFTS----
 -----EF-EY-L----------I-NNEDIKGG---------------YFAAYIMNYNILR
 IMNGMAG------------------------------
->Vir./Acanthamoeba_polyphaga_moumouvirus/L7RG19_9VIRU/327-504 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Acanthamoeba polyphaga moumouvirus
+>Vir./Acanthamoeba polyphaga moumouvirus/L7RG19_9VIRU/327-504
 ------------------------------------------------------------
 --------------------------------------------------ERNRFIKGNH
 EYLIEQ---VQ---FNQEN----------LVNS-N------NVK-H-KL-----------
@@ -491,7 +491,7 @@ R--N-----WK--YYNYVQPFEHHY-----------RSPA-----LG-------I-----
 N--------VYS------PSV--NPEEYQPSSTINMSKI--D--D--AYIDLHLKK----
 -----SI-NN-Q-N--TA-----------------------------KIRSYTINYNIFR
 VILNMG-A-----------------------------
->Vir./Acanthocystis_turfacea_chlorella_virus_1/A7K8B1_9PHYC/334-516 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Acanthocystis turfacea chlorella virus 1
+>Vir./Acanthocystis turfacea chlorella virus 1/A7K8B1_9PHYC/334-516
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGTEPVTA---PSDPNGT-T------NRK-I-TL-----------
@@ -508,7 +508,7 @@ R--D-----GA--YFRLVQPYQHSV-----------RVPS-----KS-------V-----
 Y--------MYS------FAL-EDIDSKQPCGSANFTRY--D--S--AQLQMVLNS----
 -----SL-PS-G-----------------------------------QFQIFAPNYNILR
 VASGMGG------------------------------
->Vir./Acanthocystis_turfacea_chlorella_virus_1/A7K8P0_9PHYC/218-433 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Acanthocystis turfacea chlorella virus 1
+>Vir./Acanthocystis turfacea chlorella virus 1/A7K8P0_9PHYC/218-433
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----ISTTTQ-A------SQN-I-RM-----------
@@ -525,7 +525,7 @@ R--K-----GS--YFNKVQPYQTVG-----------SVVP-----AG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKT----
 -----AS--V-N-A--YD--V-I-ANVANGLGQSETVTA-NTAVALTNLNIYAKNYNVFR
 VMSGMGG------------------------------
->Vir./Acanthocystis_turfacea_chlorella_virus_1/A7K9B6_9PHYC/206-396 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Acanthocystis turfacea chlorella virus 1
+>Vir./Acanthocystis turfacea chlorella virus 1/A7K9B6_9PHYC/206-396
 ------------------------------------------------------------
 --------------------------------------------------ERTYFAQAPH
 EYNIEQ---VQ---LNTLNPL------FSETGV-T------PQS-I-DL-----------
@@ -542,7 +542,7 @@ R--P-----GS--YFNLVQTTQAVH-----------QAPS-----AG-------I-----
 Y--------MYS------FGV--NANDADSAGTMNFSRV--D--M--ATLSLTNKQ----
 -----AS-AT-T-I--AD--V-L-DTSTTLSTALT---------KFTKVSIFAVNFNVLR
 IQDGMGG------------------------------
->Vir./Acanthocystis_turfacea_chlorella_virus_1/A7K9G8_9PHYC/373-489 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Acanthocystis turfacea chlorella virus 1
+>Vir./Acanthocystis turfacea chlorella virus 1/A7K9G8_9PHYC/373-489
 ------------------------------------------------------------
 ----------------------------------ATVALMLNDFSSFVYY----------
 ------------------------------------------------------------
@@ -559,7 +559,7 @@ R--S-----GD--YWRLTQTYQHFT----------RSIPE-----DN-------I-----
 F--------AYS------FAL--NSGSFQPNGFVNFAPY--V--R--TFLSFQMDR----
 -----TQ-PP-M-----------------------------------RLKTVAVALNFLD
 FSSGTA-K-----------------------------
->Vir./Acanthocystis_turfacea_chlorella_virus_1/A7K9S4_9PHYC/211-403 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Acanthocystis turfacea chlorella virus 1
+>Vir./Acanthocystis turfacea chlorella virus 1/A7K9S4_9PHYC/211-403
 ------------------------------------------------------------
 --------------------------------------------------ERKWFAQTPH
 KYIIQQ---VQ---RNLSPAQ-------VSNTN-N------NYI-I-TL-----------
@@ -576,7 +576,7 @@ R--Q-----GR--YFQSYQPWYSAK----------GQWMT-----SG-------V-----
 Y--------LYS------FGT--NIKYGVPSGTMNFSRV--D--T--ALLHITTKAA---
 ---VVAD-TT-T-P--AV--V-T-ELMTTTTANA-----------LTTLLTYAVNFNVLR
 VDSGMGG------------------------------
->Vir./African_swine_fever_virus_(strain_Badajoz_1971_Vero-adapted)_(Ba71V)_(ASFV)/MCP_ASFB7/418-641 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Pokkesviricetes, Asfuvirales, Asfarviridae, Asfivirus, African swine fever virus (ASFV), African swine fever virus (strain Badajoz 1971 Vero-adapted) (Ba71V) (ASFV)
+>Vir./African swine fever virus (strain Badajoz 1971 Vero-adapted) (Ba71V) (ASFV)/MCP_ASFB7/418-641
 ------------------------------------------------------------
 ---------------------------------------------FVTPE--------IH
 NLFVKR---VR---FSLIRVHKT---QVTHTNN-N------HHD-E-KLMSALKWPIEYM
@@ -593,7 +593,7 @@ F--P-----SK--FCSSYIPFHYGGN--------AIKTPD----DPG-------A-----
 M--------MIT------FAL-KPREEYQPSGHINVSRA--R--E--FYISWDTDY----
 -----VG-SI-T-T--AD------------------------------LVVSASAINFLL
 LQNGSAV------------------------------
->Vir./Ambystoma_tigrinum_stebbensi_virus/Q6YHB1_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Ambystoma tigrinum virus, Ambystoma tigrinum stebbensi virus
+>Vir./Ambystoma tigrinum stebbensi virus/Q6YHB1_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -610,7 +610,7 @@ L--G-----VE--YYSLVQPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TA-A-A--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Ambystoma_tigrinum_virus/A0A0U2JD16_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Ambystoma tigrinum virus
+>Vir./Ambystoma tigrinum virus/A0A0U2JD16_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -627,7 +627,7 @@ L--G-----VE--YYSLVQPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TA-A-A--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Armadillidium_vulgare_iridescent_virus/A0A068QKK8_9VIRU/270-467 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Iridovirus (small iridescent insect viruses), Invertebrate iridescent virus 31, Armadillidium vulgare iridescent virus
+>Vir./Armadillidium vulgare iridescent virus/A0A068QKK8_9VIRU/270-467
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCSVR
 DILIEQ---VQ---TAPRHVY-------NPNTN-D------EPS-Y-DI-----------
@@ -644,7 +644,7 @@ M--G-----SD--YFSLVNPWYHAP-----------TIPG----LTG-------F-----
 H--------EYS------YSL--AFNEIDPMGSTNFGKL--T--N--VSIIPHASN----
 -----FA-KT-G-A--AG--T-G-PAGSGQNFAQ-----------SYEFIITALNNNIIR
 I------IKK---------------------------
->Vir./Aureococcus_anophagefferens_virus/A0A076FFR8_9PHYC/229-465 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, unclassified Phycodnaviridae, Aureococcus anophagefferens virus
+>Vir./Aureococcus anophagefferens virus/A0A076FFR8_9PHYC/229-465
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---VQ---FTGDE----------SVSS-V------SNK-I-KL-----------
@@ -661,7 +661,7 @@ R--M-----GR--YFNLVQPYQHHT-----------NVPA-----TG-------I-----
 N--------VYS------FGL--KPEEHQPSGTCNMSRI--D--N--ATLQLTLTA----
 -----AT-TA-S-G--D-----------A------------------KVRVYATNYNVLR
 IMSGMGG------------------------------
->Vir./Aureococcus_anophagefferens_virus/A0A076FG19_9PHYC/327-562 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, unclassified Phycodnaviridae, Aureococcus anophagefferens virus
+>Vir./Aureococcus anophagefferens virus/A0A076FG19_9PHYC/327-562
 ------------------------------------------------------------
 --------------------------------------------------ERTKFALGSH
 DYLIEQ---TF---KNS-----------FTGIK-G------TRS-V-KL-----------
@@ -678,7 +678,7 @@ G--S-----SI--YHQSLQAFQHKT-----------KIDK-----FG-------L-----
 N--------MYS------FEL--DASNLSPNGSCNFSRI--D--N--VQLEVITID----
 -----PP-PE-K-----D-------NANSYDF---------------NLDVYAINYNILR
 IQNGMG-S-----------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ES72_9PHYC/230-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ES72_9PHYC/230-339
 ------------------------------------------------------------
 ---------------------------------------LASSDTTTEGA----------
 ------------------------------------------------------------
@@ -695,7 +695,7 @@ K--W-----AK-PHFIDVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LYC------FCL--STSSLQPTGTLNFSRL--D--S--AKIVSQ-------
 --------SM-I-I--SD-------------------------------PIYAVNYNILR
 IENGMAG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ES74_9PHYC/220-323 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ES74_9PHYC/220-323
 ------------------------------------------------------------
 ------------------------------------------AVNDMSAA----------
 ------------------------------------------------------------
@@ -712,7 +712,7 @@ K--T-----VI-PHFTS-APIYYHTT--------AGNCTA-----DN-------V-----
 T--------LIP------FCL--DTAKVQPTGSLNFSRL--D--S--ARLVSDNTS----
 -----FA-NT----------------------------------------IYAVNYNILR
 IENGMGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ES95_9PHYC/278-386 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ES95_9PHYC/278-386
 ------------------------------------------------------------
 --------------------------------------------VSDDVY----------
 ------------------------------------------------------------
@@ -729,7 +729,7 @@ D--N-----L---MLSYEQPLKYYT-----------GVTG-----NN-------F-----
 G--------VYS------FSL--KPETYYPTGQVNMSRI--A--H--NLIDIELDT----
 -----PD-AS---F--GH-----------------------------KVYVYAVNYNVLR
 ISSGLGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ES96_9PHYC/253-440 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ES96_9PHYC/253-440
 ------------------------------------------------------------
 --------------------------------------------------EKQMLLSKKI
 DYIITQ---IQ---ESKSIIPQ----DSNVNSI-V------DVK-H-KL-----------
@@ -746,7 +746,7 @@ V--T-----GNVINLRAIQSGIHHS-----------RTQL----FRR-------Y-----
 Y--------SYS------FAL--EPERWYPTGQRNFSLI--K--E--QDIKLKILP----
 -----DN-LA-K-------------------R---------------ELRVLGLSYNILR
 VENGIA-K-----------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ESH2_9PHYC/198-404 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ESH2_9PHYC/198-404
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGAD-S-------LAAAD-A------TKQ-I-RL-----------
@@ -763,7 +763,7 @@ Q--G-----GK--YFNSVQPYVHHS-----------ASPM-----PG-------V-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVSIKTKA----
 -----GS-DK-T-----------------------------------TLNMFATNYNVLR
 IQSGMGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ESJ8_9PHYC/249-361 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ESJ8_9PHYC/249-361
 ------------------------------------------------------------
 ----------------------------------------AAGNHLNTSY----------
 ------------------------------------------------------------
@@ -780,7 +780,7 @@ M--T-----HE--YHRNVVPSRHCSV--------LNNTVD----SEQ-------I-----
 Y--------TWP------FCL--TMNKSQPTGTLNFSRI--D--N--AKININTPA----
 -----SS-NL-D-M----------------------------------IRAYAVNYNILR
 IKNGMGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV1/E5ESK2_9PHYC/249-437 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV1
+>Vir./Bathycoccus sp. RCC1105 virus BpV1/E5ESK2_9PHYC/249-437
 ------------------------------------------------------------
 --------------------------------------------------ERTYIANKRH
 VLVTDI---VK---KHPTL-D-------IQAGV-R------NAK-L-EL-----------
@@ -797,7 +797,7 @@ S--D-----HK--YFKYVVPFTSRL-----------SRPL-----RN-------I-----
 Y--------TYA------FSM--NPINVEPSGMLDFSQL--Q--S--NRTVL--------
 ------------------------------------------------------------
 -------DVNMEVGLTSDYTLHLYYVGYQTFI-----
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5EQZ3_9PHYC/192-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5EQZ3_9PHYC/192-339
 ------------------------------------------------------------
 --------------------------------------------------ERGNLVSRNH
 NLIITQ---VQ---KSIP--------------S-N------ELS-Q-EL-----------
@@ -814,7 +814,7 @@ K--W-----AK-PHFIDVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LYC------FCL--STSSLQPTGTLNFSRL--D--S--AKVVSQT------
 ---------M-I-I--SD-------------------------------PIYAVNYNILR
 IENGMAG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5EQZ5_9PHYC/220-326 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5EQZ5_9PHYC/220-326
 ------------------------------------------------------------
 ----------------------------------------AANDTNAIPG----------
 ------------------------------------------------------------
@@ -831,7 +831,7 @@ K--T-----VI-PHFTST-PIYYHTT--------AGNCSA-----DN-------L-----
 I--------LIP------FCL--DTAKVQPTGSLNFSRL--D--S--ARLVSDNTS----
 -----FA-NT----------------------------------------IYAVNYNILR
 IENGMGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5ER11_9PHYC/230-386 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5ER11_9PHYC/230-386
 ------------------------------------------------------------
 --------------------------------------------------ERNFLLTRPI
 EYVITQ---LQ---MSQFK---------FNPGE-S------KKS-G-ML-----------
@@ -848,7 +848,7 @@ D--N------L--MLSYEQPLKYYT-----------GVTD-----NN-------F-----
 G--------VYS------FSL--KPETYYPTGQVNMSRI--A--H--NLIDIELDT----
 -----PD-AS---F--GH-----------------------------KVYVYAVNYNVLR
 ISSGLGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5ER12_9PHYC/247-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5ER12_9PHYC/247-432
 ------------------------------------------------------------
 --------------------------------------------------EKQKLSNQKI
 DYIITQ---IQ---ENKSI---------IPAYV-T------EHK-H-KL-----------
@@ -865,7 +865,7 @@ K--T-----GNVINLRAIQSGIHHS-----------RTQL----FRR-------Y-----
 Y--------SYS------FAL--EPERWYPTGQRNFSLI--K--D--QYLKLNLNP----
 -----YN-GG-K-----R-----------------------------ELRVLGLSYNILR
 VENGIA-K-----------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5ER94_9PHYC/198-395 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5ER94_9PHYC/198-395
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGTD-S-------LAAAN-A------TKQ-V-RL-----------
@@ -882,7 +882,7 @@ Q--S-----GK--YFNQVQPFVHHS-----------GSPM-----PG-------I-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVSVKCNR----
 -----GD-SS--------------------------------------LHMFATNYNVLR
 IQSGMGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5ERB9_9PHYC/206-361 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5ERB9_9PHYC/206-361
 ------------------------------------------------------------
 --------------------------------------------------EREFFANGEH
 ELLITQ---TQ---HQPMS-------------A-S------DTS-I-DL-----------
@@ -899,7 +899,7 @@ M--T-----HE--YHRNVVPSRHCSV--------LNNTVD----SEQ-------I-----
 Y--------TWP------FCL--TMNKSQPTGTLNFSRI--D--N--AKININGPV----
 -----SA-NL-D-M----------------------------------IRAYAVNYNILR
 IKNGMGG------------------------------
->Vir./Bathycoccus_sp._RCC1105_virus_BpV2/E5ERC3_9PHYC/248-439 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Bathycoccus sp. RCC1105 virus BpV, Bathycoccus sp. RCC1105 virus BpV2
+>Vir./Bathycoccus sp. RCC1105 virus BpV2/E5ERC3_9PHYC/248-439
 ------------------------------------------------------------
 --------------------------------------------------ERSYIANKRH
 VLVTDI---VK---KHPT-LD-------IPAGV-Q------NAK-L-EL-----------
@@ -916,7 +916,7 @@ S--D-----HK--YFKYVVPFTSRL-----------SRPL-----RN-------I-----
 Y--------TYA------FSM--NPINVEPSGMLDFSQL--Q--S--NRT----------
 ------------------------------------------------------------
 -------VLDVTMKEGLTSDYTLHLYYVGYQTFIFEN
->Vir./Bodo_saltans_virus/A0A2H4UUF1_9VIRU/332-520 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Klosneuvirinae, Klosneuvirus, Bodo saltans virus
+>Vir./Bodo saltans virus/A0A2H4UUF1_9VIRU/332-520
 ------------------------------------------------------------
 --------------------------------------------------ERIKFMRSRH
 DYLIEQ---LF---YTPPI----------QITD-V------SSK-Q-KI-----------
@@ -933,7 +933,7 @@ R--D-----SE--YFEYIQQFQNNK-----------FSPQ-----TG-------M-----
 N--------TYS------YAL-YPYLTDQPSGSFNTSQI--E--D--IDIKMQFEN----
 -----KV-NI-N-F--PV-------------L----------------FKAYSICHNVLR
 IVDGLAG------------------------------
->Vir./Bodo_saltans_virus/A0A2H4UUG0_9VIRU/188-530 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Klosneuvirinae, Klosneuvirus, Bodo saltans virus
+>Vir./Bodo saltans virus/A0A2H4UUG0_9VIRU/188-530
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVGH
 EYLIEQ---LQ---YPGQSNIVS--QSTSANMT-S------NQS-F-TL-----------
@@ -950,7 +950,7 @@ R--E-----GN--YFNYVQPWQHHT-----------RSPA-----DG-------I-----
 N--------VYS------FAL--HPEQHQPTGTANMSRI--D--S--TKLNYKTAD----
 -----PL-RY-N-I--ST--V-A-TLNYTTET---------------VLNVFASNYNVLR
 VMSG---EFS---------------------------
->Vir./Bodo_saltans_virus/A0A2H4UUK7_9VIRU/476-675 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Klosneuvirinae, Klosneuvirus, Bodo saltans virus
+>Vir./Bodo saltans virus/A0A2H4UUK7_9VIRU/476-675
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAKSAH
 EYLIEA---VE---TQQL----------INLSN-V------SEQ-I-EL-----------
@@ -967,7 +967,7 @@ A--EFD-YATD--YLNVVSPYMRHS-----------NVPF-----KG-------I-----
 N--------DYS------FAL--YPEEHQPSGTCNFTRI--S--Y--PILDLTLNP----
 -----NIFQY-S-I--ID--V-D-PNITSANNVIL--------PTDISITVYSVKYRILR
 IINGMA-C-----------------------------
->Vir./Bodo_saltans_virus/A0A2H4UUL3_9VIRU/3999-4188 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Klosneuvirinae, Klosneuvirus, Bodo saltans virus
+>Vir./Bodo saltans virus/A0A2H4UUL3_9VIRU/3999-4188
 ------------------------------------------------------------
 ------------------------------LGRIDKWYFAMNAQNTITTK----------
 -------------------TQ-------QSYTP-T------QIS-I-RV-----------
@@ -984,7 +984,7 @@ R--E-----EN--YFNNVVPWRKFF-----------NSLG-----DG-------E-----
 Y--------IYS------FAL--FPTSMQPSGTCNYGEV--D--D--SFIILNFTN----
 -----EI-ET-M-M--RE--------NPNLAF---------------EFNLWGKANNILR
 ICSGMAG------------------------------
->Vir./Bohle_iridovirus/C5H9K5_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Frog virus 3 (FV-3), Bohle iridovirus
+>Vir./Bohle iridovirus/C5H9K5_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -1001,7 +1001,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Brazilian_marseillevirus/A0A142CKE3_9VIRU/273-470 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Marseillevirus, unclassified Marseillevirus, Brazilian marseillevirus
+>Vir./Brazilian marseillevirus/A0A142CKE3_9VIRU/273-470
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LIP-I-DI-----------
@@ -1018,7 +1018,7 @@ N--G-----VD--YYSLVVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPST----
 -----AA-VN-A-S--AG--V-T-NAGIPIPSATNPAV--VQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Cafeteria_roenbergensis_virus_(strain_BV-PW1)_(CroV)/E3T4U6_CROVB/312-501 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Cafeteriavirus, Cafeteria roenbergensis virus, Cafeteria roenbergensis virus (strain BV-PW1) (CroV)
+>Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T4U6_CROVB/312-501
 ------------------------------------------------------------
 --------------------------------------------------ERYLYLTKNH
 EYLV-Q---VP---QNLTE---------ESFSS-S------NIK-Y-NL-----------
@@ -1035,7 +1035,7 @@ D--N-----PY--FFNLLQNVKYYG-----------GRGN-----EF-------I-----
 Y--------KYS------FSI-NPLSKCQPFGSLNFSKI--D--D--SYLQLTLDG----
 -----VI-DY-Q-N--PV-----------------------------RIKGYAVNHNIFR
 IINGIG-K-----------------------------
->Vir./Cafeteria_roenbergensis_virus_(strain_BV-PW1)_(CroV)/E3T592_CROVB/476-648 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Cafeteriavirus, Cafeteria roenbergensis virus, Cafeteria roenbergensis virus (strain BV-PW1) (CroV)
+>Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T592_CROVB/476-648
 ------------------------------------------------------------
 --------------------------------------------------EREKFASSRL
 NYLIKL---HS---VNTFE-----------LDN-T------YFN-K-NL-----------
@@ -1052,7 +1052,7 @@ K--N-----SP-EYFQYITSFNHLN-----------SNFL-----NN-------I-----
 F--------FYS------FCL--YPEHVQPSGGISFNDI--N--G--KQFQINLKN----
 -----LT-VD----------------ENNKVV----------------FKIFYKKLSILT
 ISSGK--GK----------------------------
->Vir./Cafeteria_roenbergensis_virus_(strain_BV-PW1)_(CroV)/E3T5B3_CROVB/226-501 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Cafeteriavirus, Cafeteria roenbergensis virus, Cafeteria roenbergensis virus (strain BV-PW1) (CroV)
+>Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T5B3_CROVB/226-501
 ------------------------------------------------------------
 --------------------------------------------------ERKKFAQATH
 EYLIEQ---LQ---FTGAE----------SFKN-S------NES-Y-RL-----------
@@ -1069,7 +1069,7 @@ R--D-----GT--YFNYVQPYQHWA-----------NTPA-----DG-------I-----
 N--------SYS------FAL--NPMDHQPSGTCNFSRI--D--N--TTLKLELAQ----
 -----VQ-ND-D-------------------S---------------RIRIYDINYNVLR
 VMSGMGG------------------------------
->Vir./Cafeteria_roenbergensis_virus_(strain_BV-PW1)_(CroV)/E3T5G9_CROVB/245-456 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Cafeteriavirus, Cafeteria roenbergensis virus, Cafeteria roenbergensis virus (strain BV-PW1) (CroV)
+>Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T5G9_CROVB/245-456
 ------------------------------------------------------------
 --------------------------------------------------ERNQILIKDH
 EILITQ---VQ---RRQKS------------VN-T------DSF-I-EL-----------
@@ -1086,7 +1086,7 @@ K--N-----YK--YYYYLQNYEHYR-----------NSAD-----QY-------I-----
 Y--------LYS------FSV--NPLSNNPSGSCNFSRI--D--N--AQLQFKLRT----
 -----VP-KT-S-L--TI--T-N-SENNVE-VIKVNGS--IKDDNAGLLTLYATNYNYLI
 IKNGVAG------------------------------
->Vir./Cherax_quadricarinatus_iridovirus/A0A249Y6I2_9VIRU/273-473 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, unclassified Iridoviridae, Cherax quadricarinatus iridovirus
+>Vir./Cherax quadricarinatus iridovirus/A0A249Y6I2_9VIRU/273-473
 ------------------------------------------------------------
 --------------------------------------------------ERARMGCVHR
 DMLIES---IQ---TSSKLNF-------NPVLN-P------NPS-Y-DI-----------
@@ -1103,7 +1103,7 @@ M--T-----AD--YFSLIEPYYKAP-----------AIPE----LTG-------Y-----
 H--------MFS------YAL--KMNNVDPSGSANYSIL--N--N--VSIQLQCSE----
 -----AA-IK-A-A--KG--E-G-EAKTGTDYAQ-----------SFQFLVIAISQNVLT
 LKNGMLG------------------------------
->Vir./Chrysochromulina_ericina_virus_(CeV01)/A0A0N7G7L2_CEV01/289-578 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, unclassified Phycodnaviridae, Chrysochromulina ericina virus (CeV01)
+>Vir./Chrysochromulina ericina virus (CeV01)/A0A0N7G7L2_CEV01/289-578
 ------------------------------------------------------------
 --------------------------------------------------ERRRMAQNPH
 EYLIEQ---LQ---FTGDE----------SVGS-S------SNK-I-KL-----------
@@ -1120,7 +1120,7 @@ R--E-----GT--YFDLVQPYQHHT-----------RSPD-----TG-------I-----
 N--------LYS------FAL--RPEEHQPSGTCNFSRI--D--N--ATLQLVLSN----
 -----AT-VG-G-T------------NTAK------------------VRVYATNYNVLR
 IMSGMGG------------------------------
->Vir./Chrysochromulina_ericina_virus_(CeV01)/A0A0N9QWW3_CEV01/480-812 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, unclassified Phycodnaviridae, Chrysochromulina ericina virus (CeV01)
+>Vir./Chrysochromulina ericina virus (CeV01)/A0A0N9QWW3_CEV01/480-812
 ------------------------------------------------------------
 --------------------------------------------------EQRVFRSRPQ
 SYLIKQ---IQ---TILFE---------KVNHK-A------YAK-D-RF-----------
@@ -1137,7 +1137,7 @@ F--E-----SL--YFNTVEQLLRNN-----------GGWK-----EG-------L-----
 Y--------SYN------FSLNGSPYEIEPNGAMNLIHY--R--D--IDFEYETFPLLEI
 KDPSRVA-II-P-I--CD--S-S-GNSYGYNKTDWQI-----YDYTFNMKIFEEHYNILT
 IENGLA-S-----------------------------
->Vir./Common_midwife_toad_virus/A0A0A0VGI5_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Common midwife toad virus
+>Vir./Common midwife toad virus/A0A0A0VGI5_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -1154,7 +1154,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GNNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Diadromus_pulchellus_ascovirus_4a/F2NYU8_9VIRU/248-429 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Ascoviridae, Toursvirus, Diadromus pulchellus toursvirus, Diadromus pulchellus ascovirus 4a
+>Vir./Diadromus pulchellus ascovirus 4a/F2NYU8_9VIRU/248-429
 ------------------------------------------------------------
 --------------------------------------------------ERRTIGVRPS
 TMVFKQ---YQ---ILPRQ----------KVTD-E------KTK-I-QL-----------
@@ -1171,7 +1171,7 @@ T--D-----AS--YFKMIEPIYCNR-----------RVPE----KEG-------H-----
 F--------VYN------FDI--MSDSPYASGSLAVSRL--N--N--PTMELTVDR----
 -----EA-IR-S-----D-----------RQF---------------EFITIAENTNVIT
 ISEGNA-Q-----------------------------
->Vir./Dishui_lake_phycodnavirus_1/A0A2K9R570_9PHYC/240-434 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Dishui lake phycodnavirus 1
+>Vir./Dishui lake phycodnavirus 1/A0A2K9R570_9PHYC/240-434
 ------------------------------------------------------------
 ---------------------------------------EERLYFMNGRQ----------
 -TIVTS---VA---KKHPVVQ-------TEVGK-P------FVK-N-EL-----------
@@ -1188,7 +1188,7 @@ T--S-----TNHLFYKWLMPKHKYL-----------SRPI-----RN-------L-----
 Y--------TYA------FAT--YPGNAQPSGYLDFEKL--QGSK--TKIECTLE-----
 ------------------------------------------------------------
 -------NSEYTYSLHLYYTAIEVFLFEGG-------
->Vir./Dishui_lake_phycodnavirus_1/A0A2K9R7L7_9PHYC/251-441 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Dishui lake phycodnavirus 1
+>Vir./Dishui lake phycodnavirus 1/A0A2K9R7L7_9PHYC/251-441
 ------------------------------------------------------------
 --------------------------------------------------ERTKLQHTAV
 DYVIHQ---YQ---REVFT---------VPAGA-T------TAR-L-RT-----------
@@ -1205,7 +1205,7 @@ I--T-----GNALFLKAVMGGIHHS-----------KTQL----IRR-------F-----
 Y--------SYS------WAL--EPEKDTPSGSINMSFI--K--D--QLVDLVLHP----
 -----NP-NY-S-----R-----------------------------QIRLIAVSANVLR
 ISEGY--G-----------------------------
->Vir./Dishui_lake_phycodnavirus_1/A0A2K9R7N7_9PHYC/208-368 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Dishui lake phycodnavirus 1
+>Vir./Dishui lake phycodnavirus 1/A0A2K9R7N7_9PHYC/208-368
 ------------------------------------------------------------
 --------------------------------------------------ERSWFVNNVH
 ELLIRQ---VQ---YQLSS-------------Q-T------ETE-I-DL-----------
@@ -1222,7 +1222,7 @@ T--S-----NV--FHHTTVPLTHCT-----------NLPVA--SLDNS-----PT-----
 F--------TWP------FAL--YLNKSSPSGSLNYSRL--D--N--SKLQIYNPH----
 -----GN-GN-T-Q--H--------------------------------RVYAVNWNILK
 IKDGLAG------------------------------
->Vir./Dishui_lake_phycodnavirus_1/A0A2N9QVU7_9PHYC/188-370 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Dishui lake phycodnavirus 1
+>Vir./Dishui lake phycodnavirus 1/A0A2N9QVU7_9PHYC/188-370
 ------------------------------------------------------------
 --------------------------------------------------ERQSLVSRQM
 DLVITQ---VQ---SLSSDVL-------STVTN-NLTQVGGNNT-I-DL-----------
@@ -1239,7 +1239,7 @@ M--S-----PM--YFHTVQTYYNCPYGIIQ-FDESNYTPF----YTR-------Y-----
 Y--------SFH------FAL--NPEQYKSTGSLNFSRL--D--S--AKLVLRGVE----
 -----KG-VN-R-P--AN-------------Q---------------DLTVMAVSWNVLT
 IKDGVCG------------------------------
->Vir./Dishui_lake_phycodnavirus_1/A0A2N9QVX5_9PHYC/204-424 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Dishui lake phycodnavirus 1
+>Vir./Dishui lake phycodnavirus 1/A0A2N9QVX5_9PHYC/204-424
 ------------------------------------------------------------
 --------------------------------------------------ERRRFSQKAH
 EYLIEQ---VQ---HTGTD---------TVDAG-A------TKQ-V-RL-----------
@@ -1256,7 +1256,7 @@ Q--P-----GR--YFNQVQPFVHHS-----------GTPY-----PG-------I-----
 Y--------CYS------FAL--EPESHQPTGTCNFSRI--D--N--AQVAVTLKA----
 -----NT-GN-S-T--T-------------------------------MHLFATNYNILR
 IQSGMGG------------------------------
->Vir./Ectocarpus_siliculosus_virus_1_(isolate_New_Zealand/Kaikoura/1988)_(EsV-1)/Q8QNG3_ESV1K/244-431 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Phaeovirus, Ectocarpus siliculosus virus 1 (EsV-1), Ectocarpus siliculosus virus 1 (isolate New Zealand/Kaikoura/1988) (EsV-1)
+>Vir./Ectocarpus siliculosus virus 1 (isolate New Zealand/Kaikoura/1988) (EsV-1)/Q8QNG3_ESV1K/244-431
 ------------------------------------------------------------
 --------------------------------------------------ERQAFASVQH
 EYLITT---TQ---RQMHS-I-------TSASA-K------SDQ-L-KL-----------
@@ -1273,7 +1273,7 @@ L--P-----GL--FFRQVQPALKWP-----------NTPA-----GY-------T-----
 Y--------LFT------FAA--LGGVWNPTSTLNMSRI--D--H--VQLELKYGD----
 -----NI-PT-S-----D------------------------------VIVFNEAYNLLV
 IKEGMGG------------------------------
->Vir./Emiliania_huxleyi_virus_156/V5LQ66_9PHYC/320-491 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Coccolithovirus, unclassified Coccolithovirus, Emiliania huxleyi virus 156
+>Vir./Emiliania huxleyi virus 156/V5LQ66_9PHYC/320-491
 ------------------------------------------------------------
 --------------------------------------------------ERDALTANAG
 TQLI-----VQ---HQAHL---------QQVSS-N------NVT-A-RL-----------
@@ -1290,7 +1290,7 @@ K--P-----AV--WWRAVQALQFHS-----------SVPL-----TN-------I-----
 Y--------SYS------FSL-SPEDPITPSGSANFSRL--D--S--VELALTLQD----
 -----DF-GA-A----HD-----------ANS---------------ELFVFARSYNILK
 FTNGLAG------------------------------
->Vir./Emiliania_huxleyi_virus_18/V5LLX1_9PHYC/320-491 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Coccolithovirus, unclassified Coccolithovirus, Emiliania huxleyi virus 18
+>Vir./Emiliania huxleyi virus 18/V5LLX1_9PHYC/320-491
 ------------------------------------------------------------
 --------------------------------------------------ERDALTANAG
 TQLI-----VQ---HQAHL---------QQVSS-N------NVT-A-RL-----------
@@ -1307,7 +1307,7 @@ K--P-----AV--WWRAVQALQFHS-----------SVPL-----TN-------I-----
 Y--------SYS------FSL-SPEDPITPSGSANFSRL--D--S--VELALTLQD----
 -----DF-GA-A----HD-----------ANS---------------ELFVFARSYNILK
 FTNGLAG------------------------------
->Vir./Emiliania_huxleyi_virus_86_(isolate_United_Kingdom/English_Channel/1999)_(EhV-86)/Q4A348_EHV8U/320-491 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Coccolithovirus, Emiliania huxleyi virus 86 (EhV-86), Emiliania huxleyi virus 86 (isolate United Kingdom/English Channel/1999) (EhV-86)
+>Vir./Emiliania huxleyi virus 86 (isolate United Kingdom/English Channel/1999) (EhV-86)/Q4A348_EHV8U/320-491
 ------------------------------------------------------------
 --------------------------------------------------ERDALTANAG
 TQLI-----VQ---HQAHL---------QQVSS-N------NVT-A-RL-----------
@@ -1324,7 +1324,7 @@ K--P-----AV--WWRAVQALQFHS-----------SAPL-----TN-------I-----
 Y--------SYS------FSL-SPEDPITPSGSANFSRL--D--S--VELALTLQD----
 -----DF-GA-A----HD-----------ANS---------------ELFVFARSYNILK
 FTNGLAG------------------------------
->Vir./Emiliania_huxleyi_virus_PS401/G8DGH5_9PHYC/348-515 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, unclassified Phycodnaviridae, Emiliania huxleyi virus PS401
+>Vir./Emiliania huxleyi virus PS401/G8DGH5_9PHYC/348-515
 ------------------------------------------------------------
 ---------------------------------------------KAQGG---------L
 HYLITQ---SQ---AKKIT-----------VNS-S------NLD-V-QL-----------
@@ -1341,7 +1341,7 @@ H--P-----EV--WWRLVQPYMHWP-----------SLPL-----AR-------I-----
 Y--------SYS------FAL-QPSVVTEPSGCANFSRL--D--N--VSLELQLQD----
 -----EF-GA-G-S--QE------------DA---------------ELFVFARNFNLLK
 ICAGM--CS----------------------------
->Vir./Epizootic_haematopoietic_necrosis_virus/Q80QA0_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Epizootic haematopoietic necrosis virus
+>Vir./Epizootic haematopoietic necrosis virus/Q80QA0_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -1358,7 +1358,7 @@ L--G-----VE--YYSLVQPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-S--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./European_catfish_virus/C5H9K1_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Epizootic haematopoietic necrosis virus, European catfish virus
+>Vir./European catfish virus/C5H9K1_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -1375,7 +1375,7 @@ L--G-----VE--YYSLVQPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASINVTLSA----
 -----EA-AT-A-A--AG--G-G-GNNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Feldmannia_species_virus/B5LWE8_9PHYC/244-430 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Phaeovirus, Feldmannia species virus
+>Vir./Feldmannia species virus/B5LWE8_9PHYC/244-430
 ------------------------------------------------------------
 --------------------------------------------------ERDAFASTEH
 SYLITR---TQ---RQLHAI--------TSAGS-A------SDQ-I-KL-----------
@@ -1392,7 +1392,7 @@ M--P-----GL--FFRQTQPIMKWP-----------NCSD-----GF-------M-----
 Y--------VFS------FSL--QGGAWQPTSTLNMSRI--D--H--VQLELKYGS----
 -----NI-PT-S-----D------------------------------VFVFAESYNLLV
 VKDGMGG------------------------------
->Vir./Frog_virus_3_(isolate_Goorha)_(FV-3)/MCP_FRG3G/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Frog virus 3 (FV-3), Frog virus 3 (isolate Goorha) (FV-3)
+>Vir./Frog virus 3 (isolate Goorha) (FV-3)/MCP_FRG3G/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-T------TFH-T-DM-----------
@@ -1409,7 +1409,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GNNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./German_gecko_ranavirus/A0A0D3R3S9_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Frog virus 3 (FV-3), German gecko ranavirus
+>Vir./German gecko ranavirus/A0A0D3R3S9_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -1426,7 +1426,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Grouper_iridovirus/Q5GAH7_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Singapore grouper iridovirus, Grouper iridovirus
+>Vir./Grouper iridovirus/Q5GAH7_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERCAMAGTVR
 DMVVEQ---MQ---AAPTHIV-------NPQNT-N------NVH-V-DM-----------
@@ -1443,7 +1443,7 @@ M--G-----VE--YYSLVQPWYFSA-----------SIPV----YTG-------Y-----
 H--------MYS------YAL--NVGSVHPSGSTNYGRL--T--N--ASITVTMSP----
 -----ES-VV-A-A--AG--G-G-NNNSGYNEPQ-----------RFALVVIAVNHNVIR
 IMNGSMG------------------------------
->Vir./Heliothis_virescens_ascovirus_3e_(HvAV-3e)/CAPSD_HVAVE/259-445 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Ascoviridae, Ascovirus, Heliothis virescens ascovirus 3a, Heliothis virescens ascovirus 3e (HvAV-3e)
+>Vir./Heliothis virescens ascovirus 3e (HvAV-3e)/CAPSD_HVAVE/259-445
 ------------------------------------------------------------
 --------------------------------------------------EIDRTSCSPH
 YILMEK--PTD---IAATEIL-------KPTEAGS------TLS-Y-DI-----------
@@ -1460,7 +1460,7 @@ L--P-----AE--HFVFTEPYRAAC-----------RVPTR---NRG-------Q-----
 Y--------MYS------FAL--DLKTVDPKGSINPSNF--N--S---SISVVIEP----
 -----SE-AL-R--------------NSAETF---------------EFTAIALTSYILY
 IDNGS--L-----------------------------
->Vir./Heterosigma_akashiwo_virus_01_(HaV01)/Q4H484_HAV01/242-435 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Raphidovirus, Heterosigma akashiwo virus 01 (HaV01)
+>Vir./Heterosigma akashiwo virus 01 (HaV01)/Q4H484_HAV01/242-435
 ------------------------------------------------------------
 --------------------------------------------------ERKLFAATSH
 EYLVEQ---LQ---FTGAE-S-------LSFSQ-Q------NQK-L-RL-----------
@@ -1477,7 +1477,7 @@ R--P-----QT--YFRLVQPYQHHT-----------RIPD-----KH-------I-----
 Y--------LYS------FAI--RPEEHQPSGTCNFSRI--D--T--VQLVYDLTS----
 -----LS-TL-T-----G--I-G-TGMDTAST--------------GQISVFAVNYNVLR
 IVSGMAG------------------------------
->Vir./Infectious_spleen_and_kidney_necrosis_virus_(ISKNV)/Q8V5D9_ISKNV/251-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Megalocytivirus, Infectious spleen and kidney necrosis virus (ISKNV)
+>Vir./Infectious spleen and kidney necrosis virus (ISKNV)/Q8V5D9_ISKNV/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPADN-S------LVH-L-DL-----------
@@ -1494,7 +1494,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KT-T-A--AG--G-G-GNGSGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Infectious_spleen_and_kidney_necrosis_virus_(isolate_Mandarin_fish/China/Nanhai/1998)_(ISKNV)/Q77HV9_ISKNN/251-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Megalocytivirus, Infectious spleen and kidney necrosis virus (ISKNV), Infectious spleen and kidney necrosis virus (isolate Mandarin fish/China/Nanhai/1998) (ISKNV)
+>Vir./Infectious spleen and kidney necrosis virus (isolate Mandarin fish/China/Nanhai/1998) (ISKNV)/Q77HV9_ISKNN/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPADN-S------LVH-L-DL-----------
@@ -1511,7 +1511,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KT-T-A--AG--G-G-GNGSGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Insectomime_virus/S5R288_9VIRU/273-470 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Marseillevirus, unclassified Marseillevirus, Insectomime virus
+>Vir./Insectomime virus/S5R288_9VIRU/273-470
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LIP-I-DI-----------
@@ -1528,7 +1528,7 @@ N--G-----VD--YYSLVVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPSV----
 -----AA-VN-A-S--AG--V-T-NTGVP--IPSATNPAVVQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Invertebrate_iridescent_virus_22/W8W2P9_9VIRU/259-457 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Chloriridovirus, Invertebrate iridescent virus 22
+>Vir./Invertebrate iridescent virus 22/W8W2P9_9VIRU/259-457
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCAIR
 DILIEQ---VQ---TAPRQNY-------TPLTN-A------SPT-F-DI-----------
@@ -1545,24 +1545,7 @@ M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
 H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
 -----AA-VS-A-A--GGSGG-F-PGSDYAQS--------------YEFIIVAVNNNIVR
 ISGGALG------------------------------
->Vir./Invertebrate_iridescent_virus_30/W8W261_9VIRU/259-457 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Chloriridovirus, unclassified Chloriridovirus, Invertebrate iridescent virus 30
-------------------------------------------------------------
---------------------------------------------------ERRRMGCAIR
-DILIEQ---VQ---TAPRQNY-------TPLTN-A------SPT-F-DI-----------
-------------------------------------------------------------
----------------R-F-----SHAIKALF---------------------FSVRN-KT
-G--ASEW--S--------------------------------------------------
---------------NYATS--SP-V---VIGS-TVNFEP---------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
-------------------------------------------------------------
---------------------------AGSFDPI-AN-TTLIYENT--N--R--LG--A--
-M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
-H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
------AA-IS-A-A--GGSGG-F-PGSDYAQS--------------YEFIIVAVNNNIVR
-ISGGALG------------------------------
->Vir./Invertebrate_iridescent_virus_3_(IIV-3)_(Mosquito_iridescent_virus)/MCP_IIV3/264-462 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Chloriridovirus, Invertebrate iridescent virus 3 (IIV-3) (Mosquito iridescent virus)
+>Vir./Invertebrate iridescent virus 3 (IIV-3) (Mosquito iridescent virus)/MCP_IIV3/264-462
 ------------------------------------------------------------
 --------------------------------------------------ERKKMGCGVR
 DILIEQ---VQ---TAPRQNY-------TPSTN-P------MPS-F-DI-----------
@@ -1579,7 +1562,24 @@ M--G-----SD--YYSLVSPWYHAP-----------TIPS----FIG-------Y-----
 H--------MYS------YSL--NFFDLDPMGSTNYGKL--T--N--VSIVPHASDA---
 ---AVKA-ST-G-A--GD--G-A-GANYNQSY---------------EFIVMAVNNNIVR
 ISGGCLG------------------------------
->Vir./Invertebrate_iridescent_virus_6_(IIV-6)_(Chilo_iridescent_virus)/MCP_IIV6/263-463 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Iridovirus (small iridescent insect viruses), Invertebrate iridescent virus 6 (IIV-6) (Chilo iridescent virus)
+>Vir./Invertebrate iridescent virus 30/W8W261_9VIRU/259-457
+------------------------------------------------------------
+--------------------------------------------------ERRRMGCAIR
+DILIEQ---VQ---TAPRQNY-------TPLTN-A------SPT-F-DI-----------
+------------------------------------------------------------
+---------------R-F-----SHAIKALF---------------------FSVRN-KT
+G--ASEW--S--------------------------------------------------
+--------------NYATS--SP-V---VIGS-TVNFEP---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------AGSFDPI-AN-TTLIYENT--N--R--LG--A--
+M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
+H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
+-----AA-IS-A-A--GGSGG-F-PGSDYAQS--------------YEFIIVAVNNNIVR
+ISGGALG------------------------------
+>Vir./Invertebrate iridescent virus 6 (IIV-6) (Chilo iridescent virus)/MCP_IIV6/263-463
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCSVR
 DILVEQ---VQ---TAPRHVW-------NPTTN-D------APN-Y-DI-----------
@@ -1596,7 +1596,7 @@ M--G-----SD--YFSLVNPWYHAP-----------TIPG----LTG-------F-----
 H--------EYS------YSL--AFNEIDPMGSTNYGKL--T--N--ISIVPTASP----
 -----AA-KV-G-A--AG--T-G-PAGSGQNFPQ-----------TFEFIVTALNNNIIR
 ISGGALG------------------------------
->Vir./Invertebrate_iridovirus_22/S6DA63_9VIRU/259-457 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Chloriridovirus, unclassified Chloriridovirus, Invertebrate iridovirus 22
+>Vir./Invertebrate iridovirus 22/S6DA63_9VIRU/259-457
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCAIR
 DILIEQ---VQ---TAPRQNY-------TPLTN-A------SPT-F-DI-----------
@@ -1613,7 +1613,7 @@ M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
 H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
 -----AA-VS-A-A--GGSGG-F-PGSDYAQS--------------YEFIIVAVNNNIVR
 ISGGALG------------------------------
->Vir./Large_yellow_croaker_iridovirus/Q0IKK3_ISKNV/251-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Megalocytivirus, Infectious spleen and kidney necrosis virus (ISKNV), Large yellow croaker iridovirus
+>Vir./Large yellow croaker iridovirus/Q0IKK3_ISKNV/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPVDN-S------LVH-L-DL-----------
@@ -1630,7 +1630,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KT-T-A--AG--G-G-GNGTGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Lausannevirus/F2WLT1_9VIRU/273-470 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Lausannevirus
+>Vir./Lausannevirus/F2WLT1_9VIRU/273-470
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LIP-I-DI-----------
@@ -1647,7 +1647,7 @@ N--G-----SD--YYSLVVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--ETFASDPKGSTNYSKL--T--N--VSNQYVPST----
 -----AA-VN-A-S--AG--V-T-NTGIPIPSATNPAV--TQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Lymphocystis_disease_virus_-_isolate_China/Q6JLA3_9VIRU/255-455 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Lymphocystivirus, unclassified Lymphocystivirus, Lymphocystis disease virus - isolate China
+>Vir./Lymphocystis disease virus - isolate China/Q6JLA3_9VIRU/255-455
 ------------------------------------------------------------
 --------------------------------------------------ERRLMGTVPR
 DILVEQ---VQ---TAPKHVF-------QPLTI-P------SPN-F-DI-----------
@@ -1664,7 +1664,7 @@ M--G-----SE--YYSLVQPYYFGG-----------SIPV----DTG-------Y-----
 H--------MYC------YSL--NMMDVDPMGSTNYGRL--S--N--VSIKLKTSP----
 -----IA-VI-T-A--GG--N-G-GNTSGYKDAQ-----------KFEFLTMAVNHNVIR
 IKNGSMG------------------------------
->Vir./Lymphocystis_disease_virus_1_(isolate_Darai)_(LCDV-1)/MCP_LCDV1/255-455 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Lymphocystivirus, Fish lymphocystis disease virus (FLDV), Lymphocystis disease virus 1 (isolate Darai) (LCDV-1)
+>Vir./Lymphocystis disease virus 1 (isolate Darai) (LCDV-1)/MCP_LCDV1/255-455
 ------------------------------------------------------------
 --------------------------------------------------ERRLMGTTPR
 DILVEQ---VQ---TAPKHVF-------QPLTI-P------SPN-F-DI-----------
@@ -1681,7 +1681,7 @@ M--G-----SE--YYSLVQPYYFGG-----------SIPI----ETG-------Y-----
 H--------MYC------YSL--NMMDMDPMGSTNYGRL--S--N--VSMKLKTSD----
 -----KA-VV-N-A--GG--G-G-GNMSGYKDAQ-----------KFEFLTMAINHNVIR
 IKNGSMG------------------------------
->Vir./Lymphocystis_disease_virus_Sa/A0A1B2RVY7_9VIRU/255-455 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Lymphocystivirus, unclassified Lymphocystivirus, Lymphocystis disease virus Sa
+>Vir./Lymphocystis disease virus Sa/A0A1B2RVY7_9VIRU/255-455
 ------------------------------------------------------------
 --------------------------------------------------ERRLMGTVPR
 DILVEQ---VQ---TAPKHVF-------QPLTI-P------SPN-Y-DI-----------
@@ -1698,7 +1698,7 @@ M--G-----SE--YYSLIQPYYFGG-----------SIPV----ETG-------Y-----
 H--------MYC------YSL--NMMDVDPMGSTNYGRL--S--N--VSIKLKTSP----
 -----KA-IT-T-A--GG--N-G-ANTSGYKDSQ-----------KFEFLTMAVNHNVIR
 IKNGSMG------------------------------
->Vir./Marseillevirus_marseillevirus_(GBM)/D2XAY2_GBMV/276-473 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Marseillevirus, Marseillevirus marseillevirus (GBM)
+>Vir./Marseillevirus marseillevirus (GBM)/D2XAY2_GBMV/276-473
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LVP-I-DI-----------
@@ -1715,7 +1715,7 @@ N--G-----SD--YYSLMVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPST----
 -----AA-VN-A-S--AG--V-T-NTGIPIPSATNPAV--TQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Megavirus_chiliensis/G5CQ21_9VIRU/1673-2259 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, unclassified Mimivirus, Megavirus chiliensis
+>Vir./Megavirus chiliensis/G5CQ21_9VIRU/1673-2259
 ------------------------------------------------------------
 --------------------------------------------------ERKLFITSHL
 QYIMDE---LQ---FDTID---------STNIK-S------IPV-Y-KLGIEPEKYYIKE
@@ -1732,7 +1732,7 @@ N-ST-----GI--MWNNVKAYQYFN-----------HSPN-----CG-------V-----
 N--------LYS------WSL--DPLGNIIAGSVNLTRI--D--D--FTSIYHIDP----
 -----EI-NA-N-N--SA-----------------------------EIVTMIQSINMVN
 YLSGMCG------------------------------
->Vir./Megavirus_chiliensis/G5CQ22_9VIRU/416-602 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, unclassified Mimivirus, Megavirus chiliensis
+>Vir./Megavirus chiliensis/G5CQ22_9VIRU/416-602
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAKSTH
 EYLIET---IQ---MNEF----------DDIFS-E------KYN-A-NL-----------
@@ -1749,7 +1749,7 @@ N--G-----DM-KFFNYMHPYWYFN-----------HSPP-----DG-------L-----
 N--------VYS------FSI--KPTIHQPSATINLSRI--D--K--FSILMEFTK----
 -----KF-VN-I-I--ND--E-Y-QITKGA-----------------YMGAYTMNYNILR
 IMNGMAG------------------------------
->Vir./Megavirus_chiliensis/G5CQ36_9VIRU/242-584 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, unclassified Mimivirus, Megavirus chiliensis
+>Vir./Megavirus chiliensis/G5CQ36_9VIRU/242-584
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---LQ---FTGEE---------SIGTS-N------SAK-Y-KL-----------
@@ -1766,7 +1766,7 @@ R--S-----GF--WHDTVEPYMHHT-----------RTPT-----DG-------L-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFNH----
 -----FS-NN-K-Y--AD--I-F-ADNDNRVM------------------IFAINYNVLR
 IMSGMGG------------------------------
->Vir./Megavirus_chiliensis/G5CT90_9VIRU/327-508 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, Mimivirus, unclassified Mimivirus, Megavirus chiliensis
+>Vir./Megavirus chiliensis/G5CT90_9VIRU/327-508
 ------------------------------------------------------------
 --------------------------------------------------ERNMFIKTNH
 EYLIEQ---IQ---FNQEI----------SVKN-Q------NIK-Q-KL-----------
@@ -1783,7 +1783,7 @@ R--N-----WR--YFNYVQPLQHHF-----------RSPE-----IG-------I-----
 N--------TYS------PSI--NPEDYQPSSTINMSKI--D--K--AEMDIHLRK----
 -----FA-TP-ENT--A------------------------------KIRSYTINYNILR
 VFLNMG-A-----------------------------
->Vir./Melbournevirus/A0A097I267_9VIRU/273-470 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Marseillevirus, unclassified Marseillevirus, Melbournevirus
+>Vir./Melbournevirus/A0A097I267_9VIRU/273-470
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LVP-I-DI-----------
@@ -1800,7 +1800,7 @@ N--G-----SD--YYSLMVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPST----
 -----AA-VN-A-S--AG--V-T-NTGIPIPSATNPAV--TQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Micromonas_pusilla_virus_12T/M4QML0_9PHYC/236-344 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QML0_9PHYC/236-344
 ------------------------------------------------------------
 ---------------------------------------AASNVATDSVN----------
 ------------------------------------------------------------
@@ -1817,7 +1817,7 @@ K--F-----ID-PHYTTAASYYHAP-----------NSKT----DPQ-------L-----
 Y--------AFP------FCL--DTSRLQPTGSLNFSRL--D--S--ARIVSETSN----
 -----FK----------D-------------------------------TIYAVNFNILR
 VENGMGG------------------------------
->Vir./Micromonas_pusilla_virus_12T/M4QMT6_9PHYC/271-376 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QMT6_9PHYC/271-376
 ------------------------------------------------------------
 -------------------------------------------KGKEFYK----------
 ------------------------------------------------------------
@@ -1834,7 +1834,7 @@ C--D-----HL--FMTYEQPLLYHI-----------NCPE-----DGS-----PF-----
 G--------VYS------FAQ--NPESHYPSGHVNMSRI--I--H--KRMTVDIDP----
 -----TD-DK-V-------------------V----------------LKIFAVNFNILH
 IESGLGG------------------------------
->Vir./Micromonas_pusilla_virus_12T/M4QPV0_9PHYC/192-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QPV0_9PHYC/192-339
 ------------------------------------------------------------
 --------------------------------------------------ERGTFASRDI
 EMLIFQ---VQ---KN--------------IPS-N------ETI-Q-EL-----------
@@ -1851,7 +1851,7 @@ K--W-----AR-PHFIEVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LFC------FCL--TTSLMQPTGTLNFSRL--D--D--AKIFSETMP----
 -----IT----------D-------------------------------PIYAVNYNILK
 ISNGVAG------------------------------
->Vir./Micromonas_pusilla_virus_12T/M4QPV6_9PHYC/202-427 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QPV6_9PHYC/202-427
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGVD---------ALTVG-Q------TKQ-V-RL-----------
@@ -1868,7 +1868,7 @@ Q--T-----GK--YFNSVQPFNHHS-----------GCPM-----PG-------I-----
 Y--------AYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVAIKVKA----
 -----GM-DA-N-A--AT-----------------------------SLNMFATNYNVLR
 IQSGMGG------------------------------
->Vir./Micromonas_pusilla_virus_12T/M4QQD3_9PHYC/241-599 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QQD3_9PHYC/241-599
 ------------------------------------------------------------
 --------------------ERLYLKNKEYTMITDLVKKHPTIETLPGVD----------
 -----------------------------------------TVQ-T-NL-----------
@@ -1885,7 +1885,7 @@ T--T-----DG--YYKYMVPYQKRL-----------SRPV-----RN-------I-----
 Y--------TYS------FSI--NPINVNPSGSLDFSEI--Q--S--EKT----------
 ------------------------------------------------------------
 -------KIELKLDPGLTDVYTLYIYYTGYQT-----
->Vir./Micromonas_pusilla_virus_12T/M4QRD1_9PHYC/181-352 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QRD1_9PHYC/181-352
 ------------------------------------------------------------
 --------------------------------------------------ERKRFTSGKH
 DFIVTQ---TQ---SIKEKMV-------T-----G------YND-Y-DL-----------
@@ -1902,7 +1902,7 @@ M--S-----PT--YFHSVQNYYKSEYGVSG-FNEVYNTPF----YTR-------Y-----
 Y--------AYH------FCT--NASDYKSTGTCNFSRL--D--N--ANLQLRDIK----
 -----LG-TL-R-T--GE-----------------------------DIRIYAVNFNVLR
 VQDGMAG------------------------------
->Vir./Micromonas_pusilla_virus_12T/M4QRW0_9PHYC/204-362 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas pusilla virus 12T
+>Vir./Micromonas pusilla virus 12T/M4QRW0_9PHYC/204-362
 ------------------------------------------------------------
 --------------------------------------------------ERKFFTDKEH
 EILITQ---TQ---YQMVD-------------S-T------ASD-I-DL-----------
@@ -1919,7 +1919,7 @@ M--S-----SH--YHHSVVPKMHCQ-----------NLPDNLLETAP-------V-----
 Y--------TWP------FCL--NIGKSQPSGSLNFSRI--D--T--AKVALRNVF----
 -----GG-NA-T-----Q-------------------------------RMYAVNFNVLR
 VKDGLAG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E5W4_MPSP1/195-369 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5W4_MPSP1/195-369
 ------------------------------------------------------------
 --------------------------------------------------ERESFVNRQI
 EMMITQ---VQ---RVEYPID-------FATTN-N------NSL-D-IS-----------
@@ -1936,7 +1936,7 @@ M--S-----PM--YFHTVESYLKSKFAHI---DYRAE--------SK-------T-----
 M--------LYSRYFPFHFCV--NSSEYSPTGTCNFSRL--D--N--AKMIIRNAE----
 -----RG-SN-R-T--DT-----------------------------HIFVYALNHNILR
 IQNGMAG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E5W9_MPSP1/242-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5W9_MPSP1/242-339
 ------------------------------------------------------------
 --------------------TSRSNKVKMNVNGIDIGDYKWCQPHHVDAC----------
 ------------------------------------------------------------
@@ -1953,7 +1953,7 @@ IQNGMAG------------------------------
 F--------LYP------FCL--STSSLQPTGTLNFSRI--S--S--FKIMSKTLP----
 -------------I--ND-------------------------------PIYAVNYNILR
 IENGMAG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E5X8_MPSP1/234-344 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5X8_MPSP1/234-344
 ------------------------------------------------------------
 -------------------------------------SGKGSALAILNND----------
 ------------------------------------------------------------
@@ -1970,7 +1970,7 @@ K--F-----AD-PNFSHVPLYYHTSN---------ASKPAT---LKT-------L-----
 F--------VYP------FCL--DTGKLQPTGTLNFSRL--D--S--ARIVNDTQS----
 -----VG-D--------D--------------------------------IYAVNYNVLR
 IENGMGG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E5Z3_MPSP1/231-406 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5Z3_MPSP1/231-406
 ------------------------------------------------------------
 --------------------------------------------------ERNYLKSNPI
 DYLITQ---VQ---MSTFV---------MKAGE-T------EKS-V-ML-----------
@@ -1987,7 +1987,7 @@ R--D-----GL--FMMYQNQFMHHTNCSREYTNGGVTIP------FV-------F-----
 G--------TYS------FSL--NPEVHYPTGQVNMSRI--S--H--KLLKMKIDI----
 -----DP-SD-V-S--YT-----------KNN-----------------RVYAINYNILR
 FESGLAG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E5Z4_MPSP1/239-425 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5Z4_MPSP1/239-425
 ------------------------------------------------------------
 --------------------------------------------------ERLMIESKSS
 DYLITQ---IQ---DNIFN---------IDNNV-N------TLK-V-KL-----------
@@ -2004,7 +2004,7 @@ S--T-----GNVIFLKAIQSAIHHS-----------KTQL----LRR-------F-----
 Y--------SYS------FAL--QPEEWYPTGQVNMSHV--K--E--QILNLSLTP----
 -----CS-T----F--SR-----------------------------QLRVYAESYNILR
 VSGGFA-K-----------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E662_MPSP1/166-378 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E662_MPSP1/166-378
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGVDS--------VTASG-G------TKQ-V-RL-----------
@@ -2021,7 +2021,7 @@ Q--S-----GK--YFNQVQSYQHHS-----------GAPY-----AG-------I-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQMSITTTA----
 -----GA-DN-A-----T-----------------------------NLNMFAVNYNVLR
 IQSGMGG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E6B9_MPSP1/201-360 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E6B9_MPSP1/201-360
 ------------------------------------------------------------
 --------------------------------------------------ERKFFTENDH
 EILFTQ---TQ---YQPAT-------------N-T------DTD-V-DL-----------
@@ -2038,7 +2038,7 @@ T--S-----PV--YHHNVVPEMHST-----------DLPD-----DV-------LLDLPT
 F--------TWP------FCL--NLSKMQPSGTLNFSRI--D--N--AKLSIVGPT----
 -----GG-NA---L--HR--------------------------------VYAVNYNILR
 VKNGMAG------------------------------
->Vir./Micromonas_pusilla_virus_SP1_(MpV-SP1)/G9E6C3_MPSP1/241-454 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, Micromonas pusilla virus SP1 (MpV-SP1)
+>Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E6C3_MPSP1/241-454
 ------------------------------------------------------------
 ------------------------------------------------EE--KNFLLKER
 QTLITD---LV---RKHPSTI-------SVIGE-N------TIK-T-NL-----------
@@ -2055,7 +2055,7 @@ T--G-----HI--YYKYLVPSRNRL-----------ARPY-----RN-------I-----
 Y--------TYS------FSM--NPINVEPSGNFDFSEIKSD--K--TSIEVKLDT----
 -----TP-IN-P-V--YR--Q-A-VDVSSNTY---------------SLNMYYTGYQTFT
 FEKG---FMS---------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQA2_9PHYC/192-369 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQA2_9PHYC/192-369
 ------------------------------------------------------------
 --------------------------------------------------ERETLVKRSM
 DFVITQSQRVE---FPLNAIT-------DNTTE-S------GGY-N-TLD----------
@@ -2072,7 +2072,7 @@ M--S-----PV--YFHTVQNYYKSNYGRTH-FNNPTHSPT----FTR-------Y-----
 F--------AYH------FCM--NASEYNPSGSCNFSRL--D--N--AKLVLRGVE----
 -----AV-GR-S-----------------------------------YMYVYAVNYNVLR
 IKDGLAG------------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQA7_9PHYC/192-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQA7_9PHYC/192-339
 ------------------------------------------------------------
 --------------------------------------------------ERGNIASRKH
 DLLITQ---VQ---KNIA--------------S-G------EIV-Q-DL-----------
@@ -2089,7 +2089,7 @@ R--W-----GK-PHFIDVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LYC------FCL--STSSLQPTGTLNFSRL--D--S--AKIMS---E----
 -----S---M-P-I--ND-------------------------------PIYAVNYNILR
 IENGMAG------------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQB5_9PHYC/234-343 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQB5_9PHYC/234-343
 ------------------------------------------------------------
 --------------------------------------AANTTAVNIVTD----------
 ------------------------------------------------------------
@@ -2106,7 +2106,7 @@ K--F-----GN-PNFTSVPLYYHTSH--------GNSTPG-----AK-------L-----
 F--------TYP------FCL--DTGKLQPTGNLNFSRL--D--S--ARIISDT------
 --------AV-N-T--DD--------------------------------VYAVNYNVLR
 IENGMGG------------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQD1_9PHYC/245-434 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQD1_9PHYC/245-434
 ------------------------------------------------------------
 --------------------------------------------------ERIKIENTPV
 EYLITQ---NQ---EDVFD---------VGVGV-D------EGK-F-NL-----------
@@ -2123,7 +2123,7 @@ D--T-----GNVIFLKAVQGAIHHS-----------KTQL----IRR-------F-----
 Y--------SYS------FAL--QPEEWYPTGHVNFSLI--K--E--QILNLSLTA----
 -----CP----D-F--SR-----------------------------QIRVYAINYNILR
 VSEGTA-R-----------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQK6_9PHYC/204-415 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQK6_9PHYC/204-415
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGVD---------TVTEG-Q------AKQ-V-RL-----------
@@ -2140,7 +2140,7 @@ Q--K-----GK--YFNQVQAYNHHS-----------GCPM-----PG-------I-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVQVTQHP----
 -----SS-GG------AT-----------------------------NMHMFATNYNVLR
 IQSGMGG------------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQQ6_9PHYC/201-360 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQQ6_9PHYC/201-360
 ------------------------------------------------------------
 --------------------------------------------------ERKYFTDTEH
 ELLITQ---IQ---HQLTS-------------N-T------DTD-I-DL-----------
@@ -2157,7 +2157,7 @@ T--S-----NV--YHHDVVPEMHCT-----------DLPDN--ILDD-------L-----
 P--------TYSW----PFCL--TMSKMQPTGSLNFSRI--D--N--AKLVLNNPT----
 -----GG-NQ---L--HR--------------------------------VYGVNYNILR
 IKNGMAG------------------------------
->Vir./Micromonas_sp._RCC1109_virus_MpV1/E5EQR0_9PHYC/237-437 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Micromonas sp. RCC1109 virus MpV1
+>Vir./Micromonas sp. RCC1109 virus MpV1/E5EQR0_9PHYC/237-437
 ------------------------------------------------------------
 --------------------------EERNYLSSERQTLITDLVKKHPTT----------
 --------------------V-------SDLGI-D------TIV-N-NL-----------
@@ -2174,7 +2174,7 @@ T--T-----HE--YYKYLIPYRNRL-----------ARPI-----RN-------I-----
 Y--------TYS------FSM--NPINVEPSGNLDFSQI--Q--SDKTNIEVKLDT----
 -----TE-VD--------------------------------------------------
 -------ISAKTYSLNMYYTGYQTFVFDRGFM-----
->Vir./Mollivirus_sibericum/A0A0M4JK57_9VIRU/378-543 Viruses, unclassified viruses, Mollivirus sibericum
+>Vir./Mollivirus sibericum/A0A0M4JK57_9VIRU/378-543
 ------------------------------------------------------------
 ------------------------------------------------DA--RTFANGNQ
 IMVITQ---VQ---HHSTT---------LPQGK-Q------VVD-V-PV-----------
@@ -2191,7 +2191,7 @@ G-DE-----AR--VYRLLEPLQSFR-----------STPC-----GN-------I-----
 Y--------VKS------FAI--DATAVVPNGFLDATGK--S--T---SMRLTLQQ----
 -----AL-VH-E-E--V------------------------------EFIIMAR------
 -------SFEVAIFED---------------------
->Vir./Moumouvirus_australiensis/A0A2P1ELH5_9VIRU/325-499 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Moumouvirus australiensis
+>Vir./Moumouvirus australiensis/A0A2P1ELH5_9VIRU/325-499
 ------------------------------------------------------------
 --------------------------------------------------ERNRFLKGNH
 EYLIEQ---VQ---FNQEN----------LVNS-N------NIK-H-KL-----------
@@ -2208,7 +2208,7 @@ R--N-----WK--YYNYVQPYEHHQ-----------RSPV-----LG-------I-----
 N--------AYS------PSL--NPEEYQPSSTINMSKI--D--D--AYIDLHLKK----
 -----SI-NG-Q-N--TA-----------------------------KIRSYTISYNIFR
 VILNMG-A-----------------------------
->Vir./Moumouvirus_australiensis/A0A2P1ELJ4_9VIRU/410-594 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Moumouvirus australiensis
+>Vir./Moumouvirus australiensis/A0A2P1ELJ4_9VIRU/410-594
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQSTH
 EYLIET---IQ---YNEY----------DDIMS-K------EYN-A-HL-----------
@@ -2225,7 +2225,7 @@ N--G-----DM-KYFNNIHPYLYFN----------NSLP------DG-------L-----
 N--------VYS------FSI--KPTIHQPSSSINLSRI--D--D--LSIAMKFTK----
 -----EF-ER-M-I--D--------NEDIKGA---------------YFAAYVMSYNILR
 IMNGMAG------------------------------
->Vir./Moumouvirus_australiensis/A0A2P1ELM3_9VIRU/242-584 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Moumouvirus australiensis
+>Vir./Moumouvirus australiensis/A0A2P1ELM3_9VIRU/242-584
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---LQ---FTGEE---------SIGTS-N------SAK-Y-KL-----------
@@ -2242,7 +2242,7 @@ R--S-----GF--WHDTVEPYMHHT-----------KTPK-----DG-------L-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFNH----
 -----FA-NS-K-Y--AD--V-F-ADNDNKVL------------------IFAINYNVLR
 IMSGMGG------------------------------
->Vir./Moumouvirus_goulette/M1NMT4_9VIRU/242-584 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Moumouvirus goulette
+>Vir./Moumouvirus goulette/M1NMT4_9VIRU/242-584
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---LQ---FTGEE---------SIGTS-N------SAK-Y-KL-----------
@@ -2259,7 +2259,7 @@ R--S-----GF--WHDTVEPYMHHT-----------KSPK-----DG-------L-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFNH----
 -----FA-NS-K-Y--AD--V-F-ADNDNKVL------------------IFAINYNVLR
 IMSGMGG------------------------------
->Vir./Moumouvirus_goulette/M1PBR4_9VIRU/327-503 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Moumouvirus goulette
+>Vir./Moumouvirus goulette/M1PBR4_9VIRU/327-503
 ------------------------------------------------------------
 --------------------------------------------------ERNRFIKGHH
 EYLIEQ---IQ---FNQE----------NSVNS-N------NIK-H-KL-----------
@@ -2276,7 +2276,7 @@ R--N-----WK--YYNYVQPYEHHQ-----------KSPA-----LG-------I-----
 N--------VYS------PSL--NPEDYQPSSTINMSKI--D--D--AYIDLHLNE----
 -----LI-NN-Q-N--TA-----------------------------KIRSYTINYNIFR
 VILNMG-A-----------------------------
->Vir./Moumouvirus_goulette/M1PX99_9VIRU/410-594 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Moumouvirus goulette
+>Vir./Moumouvirus goulette/M1PX99_9VIRU/410-594
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQSTH
 EYLIET---IQ---YNEY----------DDIMS-K------EYN-A-HL-----------
@@ -2293,7 +2293,7 @@ N--G-----DM-KYFNNIHPYLYFN-----------NSPP-----DG-------L-----
 N--------VYS------FSI--KPTIHQPSSSINLSRI--D--D--LSIAMKFTS----
 -----EF-EQ-L-I--NG--------EDIKGG---------------YFAAYIMNYNILR
 IMNGMAG------------------------------
->Vir./Noumeavirus/A0A1Q1PNI8_9VIRU/273-470 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Marseillevirus, unclassified Marseillevirus, Noumeavirus
+>Vir./Noumeavirus/A0A1Q1PNI8_9VIRU/273-470
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LIP-I-DI-----------
@@ -2310,7 +2310,7 @@ N--G-----SD--YYSLVVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--ETFASDPKGSTNYSKL--T--N--VSNQYVPST----
 -----AA-VN-A-S--AG--V-T-NTGIPIPSATNPAV--TQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Only_Syngen_Nebraska_virus_5/A0A1J0F9D5_9PHYC/215-406 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Only Syngen Nebraska virus 5
+>Vir./Only Syngen Nebraska virus 5/A0A1J0F9D5_9PHYC/215-406
 ------------------------------------------------------------
 --------------------------------------------------ERVWFAQNPH
 EYLVTQ---LQ---YQKQSII-------VDALT-R------DYK-I-PI-----------
@@ -2327,7 +2327,7 @@ R--P-----GK--YFKDANPWLSQY----------GGYFT-----SG-------L-----
 Y--------AYN------FGL-NNCLGRGPAGTLNFSRI--D--N--SILRIVTKQ----
 -----AV-LT-G-S--ES--T-TTEAQTNVENSV-----------LGLVEMYALNYNVLR
 IMSGMGG------------------------------
->Vir./Only_Syngen_Nebraska_virus_5/A0A1J0F9N8_9PHYC/314-481 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Only Syngen Nebraska virus 5
+>Vir./Only Syngen Nebraska virus 5/A0A1J0F9N8_9PHYC/314-481
 ------------------------------------------------------------
 ----------EKYRFAQDPCVYLIEQTFSAESLSYATTTNGQTYNKKDVY----------
 ------------------------------------------------------------
@@ -2344,7 +2344,7 @@ R--S-----GE--YFTLVQPYQHFK----------RSDPA-----SN-------V-----
 S--------TFS------FAL--DAGSFQPNGYLNFAPY--V--R--TKFAFDINP----
 -----QT-EP-T-V--IR--------------------------------LFAVCLNWIK
 FESGM--C-----------------------------
->Vir./Only_Syngen_Nebraska_virus_5/A0A1J0F9Q9_9PHYC/215-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Only Syngen Nebraska virus 5
+>Vir./Only Syngen Nebraska virus 5/A0A1J0F9Q9_9PHYC/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -2361,7 +2361,7 @@ R--K-----GS--YFNKVQPYQTIG----------GATP------AG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTC---
 ---SIDA-TQ-G-A--AV--L-G-NTETTTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Only_Syngen_Nebraska_virus_5/A0A1J0F9X9_9PHYC/206-395 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Only Syngen Nebraska virus 5
+>Vir./Only Syngen Nebraska virus 5/A0A1J0F9X9_9PHYC/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERVYFAQAEH
 EYIIEQ---LQ---TFVTIPN-------VSNSV-N------TTM-V-DL-----------
@@ -2378,7 +2378,7 @@ R--P-----GG--YFNMVQTTQAVG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSKL--D--M--VTLSFTNKA----
 -----AT-AA-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 ITEGMGG------------------------------
->Vir./Only_Syngen_Nebraska_virus_5/A0A1J0FA58_9PHYC/331-520 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Only Syngen Nebraska virus 5
+>Vir./Only Syngen Nebraska virus 5/A0A1J0FA58_9PHYC/331-520
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPSGS-T------NRK-I-TL-----------
@@ -2395,7 +2395,7 @@ R--P-----GA--YFRLVQPYEHHV-----------RVPS-----KS-------V-----
 Y--------VYS------FAL-EDADSRQPNGSANFTRY--D--S--AQLQLTLNE----
 -----NL-AS-G-----------------------------------RVQIYAPNFNILR
 IAAGMGG------------------------------
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E4X9_9PHYC/191-373 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E4X9_9PHYC/191-373
 ------------------------------------------------------------
 --------------------------------------------------ERESLVKRQL
 DFVITQTQKID---FPMSNVF-------DNTIQ-T------AGG-YNDLD----------
@@ -2412,7 +2412,7 @@ M--S-----PT--YFHTVQNYYKSKYGK-----IDFRVDSEDLMYTR-------Y-----
 F--------AYH------FGL--NVSDYNPSGTCNFSRL--D--N--AKLILRGVE----
 -----KG-IF-R-A--DD-------------N---------------DISVFAVNYNVLR
 IKDGLAG------------------------------
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E4Z2_9PHYC/219-391 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E4Z2_9PHYC/219-391
 ------------------------------------------------------------
 --------------------------------------------------ERNFMMSRPL
 DYVITQ---VQ---MSKFV---------MNAGE-N------TKS-V-ML-----------
@@ -2429,7 +2429,7 @@ R--D-----ND--FLVYEQAFKHHV-----------NSPYN--YSAS-------------
 YNYLKSDFAMYS------FAL--QPEVYYPTGQVNMSRI--A--H--KLLTIEIDP----
 -----IN-SV-D-N--N-------------N-----------------TRIYAVNYNLLR
 VSGGLAG------------------------------
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E4Z3_9PHYC/236-420 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E4Z3_9PHYC/236-420
 ------------------------------------------------------------
 --------------------------------------------------ERLKIENEKR
 DYTITQ---VQ---QNIFD---------IAQGG-Q------SGR-F-KL-----------
@@ -2446,7 +2446,7 @@ E--T-----GNVIFLKAVQAAIHHS-----------KTQL----LRR-------F-----
 Y--------SYS------FAL--EPEKWYPTGQVNFSLV--K--E--QILNLSLTP----
 -----CA-DY-E-----R-----------------------------QVRVYALSHNILR
 VGEGTA-R-----------------------------
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E522_9PHYC/240-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E522_9PHYC/240-449
 ------------------------------------------------------------
 ------------------------------------------EEITVSPE--------ER
 NYLMSQ---RQ---VFITDLVRKHPTIVSDLGK-D------IIR-N-NL-----------
@@ -2463,7 +2463,7 @@ T--D-----HS--YYKYLIPFQKRL-----------SRPI-----RN-------I-----
 Y--------TYS------FSI--NPVNVEPSGNLDFSAI--Q--S--EKTNIEVKM----
 -----DT-SV--------------------------------------------------
 -------IDINTETFSLHMYYTGYQTFVFDKGFM---
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E591_9PHYC/213-427 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E591_9PHYC/213-427
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGSD---------TVTAG-S------TSN-K-RL-----------
@@ -2480,7 +2480,7 @@ Q--K-----GK--YFNQVQAYNHHS-----------GCPY-----PG-------V-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVAVTIPA----
 -----AA-AS-T-T--MH--------------------------------MFAVNYNVLR
 IQSGMGG------------------------------
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E596_9PHYC/243-344 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E596_9PHYC/243-344
 ------------------------------------------------------------
 ---------------------------------------------LNDDN----------
 ------------------------------------------------------------
@@ -2497,7 +2497,7 @@ K--F-----AD-PNFSHVPLYFHTTN---------AAKPAT---LKT-------L-----
 F--------VYP------FCL--DAGKLQPTGTLNFSRL--D--S--ARIVNDTRD----
 -----CD-D--------D--------------------------------IYAVNYNILR
 IENGMGG------------------------------
->Vir./Ostreococcus_lucimarinus_virus_OlV4/G9E5J7_9PHYC/7-114 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus lucimarinus virus OlV4
+>Vir./Ostreococcus lucimarinus virus OlV4/G9E5J7_9PHYC/7-114
 ------------------------------------------------------------
 --------------------------------------------DHYTFG----------
 ------------------------------------------------------------
@@ -2514,7 +2514,7 @@ M--S-----NV--YHHDVVPEMHCSAI-------GADTLD----EDT-------V-----
 Y--------TWP------FCL--NLAKSQPSGSLNFSRI--D--N--AKLLLNSVT----
 -----SA-DS-S-----K-----------------------------PARVYAVNYNVLR
 VKNGMAG------------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0BXC0_9PHYC/213-427 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0BXC0_9PHYC/213-427
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGSD---------TVTAG-S------TSN-K-RL-----------
@@ -2531,7 +2531,7 @@ Q--K-----GK--YFNQVQAYNHHS-----------GCPY-----PG-------V-----
 Y--------AYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVAVTLPA----
 -----AV-AN-T-T--MH--------------------------------MFAVNYNVLR
 IQSGMGG------------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0C0T1_9PHYC/230-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0C0T1_9PHYC/230-339
 ------------------------------------------------------------
 ---------------------------------------LASSDTTTDGA----------
 ------------------------------------------------------------
@@ -2548,7 +2548,7 @@ R--W-----GK-PHYIDVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LYC------FCL--MTSSLQPTGTLNFSRI--E--S--AKIMS---E----
 -----GT-V----I--ND-------------------------------PIYAVNYNILR
 IQNGMAG------------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0C657_9PHYC/216-380 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0C657_9PHYC/216-380
 ------------------------------------------------------------
 --------------------------------------------------ERNYMMSRPL
 DYVVTQ---VQ---MSKFV---------MKAGE-N------TKS-V-ML-----------
@@ -2565,7 +2565,7 @@ R--G-----RI--FLVYEQALKHHI-----------SPPEQ---QSE-------F-----
 G--------MYS------FAL--KPEVYYPTGQVNMSRI--F--H--KLLTIQIDP----
 -----ID-DV-N---------------DNNT------------------RVYAVNYNILR
 VESGLAG------------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0C6F7_9PHYC/200-361 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0C6F7_9PHYC/200-361
 ------------------------------------------------------------
 --------------------------------------------------ERKFFTDNEH
 ELLINQ---VQ---YQPGT-------------Q-A------DTE-F-DL-----------
@@ -2582,7 +2582,7 @@ M--S-----NV--YHHDVVPEMHCSAL------GVDSLVQ-----DS-------V-----
 Y--------TWP------FCL--NLDKSQPSGSLNFSRI--D--N--AKLLLNNVT----
 -----TA-DS-S-A--SA-------------------------------RIYAVNYNILR
 VKNGMAG------------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0CIN9_9PHYC/241-425 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0CIN9_9PHYC/241-425
 ------------------------------------------------------------
 --------------------------------------------------ERLKVENEKR
 DYVITQ---VQ---QNVFD---------VAQAV-Q------TAE-F-KL-----------
@@ -2599,7 +2599,7 @@ E--T-----GNVIFLKAVQAAIHHS-----------KTQL----IRR-------F-----
 Y--------SYS------FAL--EPEKWYPTGQINFSLV--K--E--QILNLSLTP----
 -----CT-DY-A-----R-----------------------------QVRVYALSHNILR
 VSEGTA-Q-----------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0CKZ8_9PHYC/235-344 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0CKZ8_9PHYC/235-344
 ------------------------------------------------------------
 -------------------------------------GKASALEILNDDN----------
 ------------------------------------------------------------
@@ -2616,7 +2616,7 @@ K--F-----AD-PNFSHVPLYYNTTN---------AGKPAT---LKT-------L-----
 F--------VYP------FCL--ETGKLQPTGTLNFSRL--D--S--ARIVNDTRD----
 -----CD-D--------D--------------------------------IYAVNYNILR
 VENGMGG------------------------------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0CLA9_9PHYC/246-439 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0CLA9_9PHYC/246-439
 ------------------------------------------------------------
 -------------------------------------------------E--RKFLASER
 QVFITD---LV---RKHPVTQ-------SELGK-N------IVR-T-NL-----------
@@ -2633,7 +2633,7 @@ T--N-----HE--YYKYLIPYQKRL-----------SRPI-----RN-------I-----
 Y--------TYS------FSL--NPVNVEPSGNLDFSAI--Q--SEKTNIEVTLD-----
 ------------------------------------------------------------
 -------SELVGANTYSLNMYYTGYQTFT--------
->Vir./Ostreococcus_mediterraneus_virus_1/A0A0P0CQK5_9PHYC/191-372 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus mediterraneus virus 1
+>Vir./Ostreococcus mediterraneus virus 1/A0A0P0CQK5_9PHYC/191-372
 ------------------------------------------------------------
 --------------------------------------------------ERESLVKRQM
 DFIITQTQRVE---FPLSNIV-------DNTIQ-T------GGY-N-DLD----------
@@ -2650,7 +2650,7 @@ M--S-----PT--YFHTVQNYYKSKYGKT---DFRVDSEDL--MYTR-------Y-----
 F--------VYH------FGM--NASDYNPSGTCNFSRL--D--N--AKLILRGVE----
 -----KG-NF-R-G--SQ-------------D---------------DISVFALNYNVLR
 IKDGLAG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WLT3_9PHYC/191-373 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WLT3_9PHYC/191-373
 ------------------------------------------------------------
 --------------------------------------------------ERESLVKRQM
 DFVITQ---TQKINFPMSNVFD----NSI--QT-A------GGY-N-DLD----------
@@ -2667,7 +2667,7 @@ M--S-----PT--YFHTIQNYYKSKYGK-----IDFRVDSEDLMYTR-------Y-----
 F--------AYH------FGL--NVSDYNPSGTCNFSRL--D--N--AKLILRGVE----
 -----KG-IF-R-A--DD-------------N---------------EMSVFAVNYNVLR
 IKDGLAG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WLT8_9PHYC/192-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WLT8_9PHYC/192-339
 ------------------------------------------------------------
 --------------------------------------------------ERGNIATRTH
 DLLITQ---VQ---KNIP--------------S-G------ETV-Q-DL-----------
@@ -2684,7 +2684,7 @@ R--W-----GK-PHYIDVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LYC------FCL--MTSSLQPTGTLNFSRI--E--S--AKIMS---E----
 -----GT-V----I--ND-------------------------------PIYAVNYNILR
 IQNGMAG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WLU2_9PHYC/237-344 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WLU2_9PHYC/237-344
 ------------------------------------------------------------
 ---------------------------------------ATALEILNDDN----------
 ------------------------------------------------------------
@@ -2701,7 +2701,7 @@ K--F-----AD-PNFSHVPLYFNTTN---------SAKPAT---VKT-------L-----
 F--------LYP------FCL--ETGKLQPTGTLNFSRL--D--S--ARIVNDTRD----
 -----CD-D--------D--------------------------------IYAVNYNILR
 VENGMGG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WLW1_9PHYC/216-387 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WLW1_9PHYC/216-387
 ------------------------------------------------------------
 --------------------------------------------------ERNYMMSRPL
 DYVITQ---VQ---MSKFV---------MKAGE-N------TKS-V-ML-----------
@@ -2718,7 +2718,7 @@ R--G-----RK--FLVYEQSLKHHI-----------SPPEY---VAG-------T-----
 NYKQ-SEFGMYS------FAL--KPEVYYPTGQVNMSRI--F--H--KLLTIQIDP----
 -----IN-DS-D----------------NNNT-----------------RVYAVNYNILR
 VDSGLAG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WLW2_9PHYC/241-426 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WLW2_9PHYC/241-426
 ------------------------------------------------------------
 -------------------------------------------ERIKIEN------EKMR
 DYIITQ---VQ---QNVFD---------VAQGV-Q------DAG-F-KL-----------
@@ -2735,7 +2735,7 @@ E--T-----GNVIFLKAVQAAIHHS-----------KTQL----IRR-------F-----
 Y--------SYS------FAL--EPEKWYPTGQINFSLV--K--E--QILNLSLTP----
 -----CA-DY------AR-----------------------------QVRVYAVSHNILR
 VSEGTA-R-----------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WM30_9PHYC/213-427 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WM30_9PHYC/213-427
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGSD---------TVTAG-S------TSN-K-RL-----------
@@ -2752,7 +2752,7 @@ Q--K-----GK--YFNQVQAYNHHS-----------GCPY-----PG-------V-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVAVTIPA----
 -----AA-AS-T-T--MH--------------------------------MFAVNYNVLR
 IQSGMGG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WM82_9PHYC/200-361 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WM82_9PHYC/200-361
 ------------------------------------------------------------
 --------------------------------------------------ERKFFTDNEH
 ELLINQ---VQ---YQPGT-------------Q-A------DTE-F-DL-----------
@@ -2769,7 +2769,7 @@ M--S-----NV--YHHDVVPEMHCSAL------GVDSLVQ-----DS-------V-----
 Y--------TWP------FCL--NLDKSQPSGSLNFSRI--D--N--AKLLLNGVT----
 -----TA-DS-S-----K-----------P------------------ARVYAVNYNVLR
 VKNGMAG------------------------------
->Vir./Ostreococcus_tauri_virus_2/E4WM86_9PHYC/240-439 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus 2
+>Vir./Ostreococcus tauri virus 2/E4WM86_9PHYC/240-439
 ------------------------------------------------------------
 --------------------------------------------------ERKFLASERQ
 TMITDL---VR---KHPVA-L-------SELNE-D------IIK-N-NL-----------
@@ -2786,7 +2786,7 @@ T--N-----HE--YYKFLIPYQKRL-----------SRPI-----RN-------I-----
 Y--------TYS------FSL--NPVNVEPSGNLDFSQI--Q--S--EKTSIEVKL----
 -----DT-NS-G-I--DI------------------------------------------
 -------STETFSLNMYYTGYQTFVFDRGFM------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJ64_9PHYC/191-372 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJ64_9PHYC/191-372
 ------------------------------------------------------------
 --------------------------------------------------ERESMVKRQM
 DFVITQ---TQ---KVEYPVSN----VFDNTIE-S------GGY-N-DLD----------
@@ -2803,7 +2803,7 @@ M--S-----PT--YFHTVQNYYKSKYGV-----SDFRVDSEDLMYTR-------Y-----
 F--------AYH------FGL--NASDYNPSGTCNFSRL--D--N--AKLILRGVE----
 -----KG-IL-R-G--D-------------QN---------------EINVFAVNYNVLR
 IKDGLAG------------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJ69_9PHYC/231-339 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJ69_9PHYC/231-339
 ------------------------------------------------------------
 ---------------------------------------ASSDTTVDGAL----------
 ------------------------------------------------------------
@@ -2820,7 +2820,7 @@ K--W-----GK-PHFIDVMNYYHTN-----------FVTS-----PD-------F-----
 F--------LYC------FCL--MTSSLQPTGTLNFSRI--E--S--AKLMS---E----
 -----GT-PI------ND-------------------------------PIYAVNYNILR
 IQNGMAG------------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJ73_9PHYC/194-350 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJ73_9PHYC/194-350
 ------------------------------------------------------------
 --------------------------------------------------ERDYFASTPQ
 NMIITQ---VQ---KATA--------------S-R------VKI-Q-EL-----------
@@ -2837,7 +2837,7 @@ V--------PL--YYHTTNASSSVA-----------SDTN-----KK-------L-----
 F--------FYP------FCL--DAGKLQPTGTLNFSRL--D--S--ARIVNDRND----
 -----SD---------ED--------------------------------IYAVNYNVLR
 IENGMGG------------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJ91_9PHYC/217-388 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJ91_9PHYC/217-388
 ------------------------------------------------------------
 --------------------------------------------------ERRYLMTRPI
 DYVVTQ---VQ---MSKFV---------MKAGE-N------TKS-V-ML-----------
@@ -2854,7 +2854,7 @@ R--D-----HK--FLVYEQALKHYI-----------SPPEY---VAGTDYRQSEF-----
 G--------MYS------FAL--NPEVYYPTGQVNMSRI--F--H--KLLTIQIDP----
 -----IN-AV-D----------------NNN-----------------TRVYAVNYNILR
 VSGGLAG------------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJ92_9PHYC/241-425 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJ92_9PHYC/241-425
 ------------------------------------------------------------
 -------------------------------------------------D-RIKLETEKK
 DYIITQ---VQ---QNVFD---------IAQGA-Q------EGN-F-KL-----------
@@ -2871,7 +2871,7 @@ E--T-----GNVIFLKAVQAAIHHS-----------KTQL----IRR-------F-----
 Y--------SYS------FAL--EPEKWYPTGQINFSLV--K--E--QILNLSLTP----
 -----CV-DY------AR-----------------------------QLRVYALSHNILR
 VGEGTA-R-----------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJG5_9PHYC/204-418 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJG5_9PHYC/204-418
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGSD---------TVTAG-Q------TSN-K-RL-----------
@@ -2888,7 +2888,7 @@ Q--K-----GK--YFNQVQAYNHHS-----------GCPY-----PG-------V-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQVAVTIPA----
 -----AA-AS-T-T--MH--------------------------------MFAVNYNVLR
 IQSGMGG------------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJQ2_9PHYC/201-360 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJQ2_9PHYC/201-360
 ------------------------------------------------------------
 --------------------------------------------------ERAYFTENEH
 EILFTQ---TQ---YQPAT-------------S-T------DTE-L-DL-----------
@@ -2905,7 +2905,7 @@ T--S-----NV--YHHNVVPQMHCT-----------DLPDD--VLDD-------L-----
 P--------TYSW----PFCL--SMSKAQPSGTLNFSRI--D--N--AKLIVNNVS----
 -----GG-NA---L--H--------------------------------RVYAVNYNILR
 IKNGMAG------------------------------
->Vir./Ostreococcus_tauri_virus_RT-2011/H8ZJQ6_9PHYC/239-442 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Ostreococcus tauri virus RT-2011
+>Vir./Ostreococcus tauri virus RT-2011/H8ZJQ6_9PHYC/239-442
 ------------------------------------------------------------
 -------------------------------------------------EERNFFASQRQ
 -TMITD---LV---RKHPVIV-------SDLNR-D------VIK-N-NL-----------
@@ -2922,7 +2922,7 @@ T--D-----HS--YYKYLIPFQKRL-----------ARPI-----RN-------I-----
 Y--------TYS------FSL--NPINVEPSGNLDFSRI--Q--S--EKTNIEVKL----
 -----DT-SV-I-----D--------ITTETF---------------SLHMYYTGYQTFV
 FQNG---FMS---------------------------
->Vir./Pacmanvirus_A23/A0A1X6WF55_9VIRU/402-628 Viruses, unclassified viruses, Pacmanvirus A23
+>Vir./Pacmanvirus A23/A0A1X6WF55_9VIRU/402-628
 ------------------------------------------------------------
 --------------------------------------------FVNPEI---------H
 DIYIKR---IG---FSLIRVHRF---QSTRTAV-S------SDN-I-LL-----------
@@ -2939,7 +2939,7 @@ F--A-----AQ--FFRDYMSYTFGGA--------NVITPE----DLG-------A-----
 Y--------MLN------FCL--YPGTYQPSGHINVSRA--R--E--FYLQFASSY----
 -----CT-SS-T-P--CD------------------------------LLVLAKAINFLL
 IL-----TKI---------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_1_(PBCV-1)/MCP_PBCV1/215-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus 1 (PBCV-1)
+>Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/MCP_PBCV1/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -2956,7 +2956,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_1_(PBCV-1)/O41040_PBCV1/206-395 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus 1 (PBCV-1)
+>Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/O41040_PBCV1/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERVYFAQTEH
 EYIIEQ---LQ---TFVTIPN-------MSNSV-N------TTM-V-DL-----------
@@ -2973,7 +2973,7 @@ R--P-----GG--YFNMVQTTQALG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSKL--D--M--VTLSYTNKA----
 -----AT-AA-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 IVEGQGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_1_(PBCV-1)/O41104_PBCV1/326-515 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus 1 (PBCV-1)
+>Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/O41104_PBCV1/326-515
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPNGS-T------NRK-I-TL-----------
@@ -2990,7 +2990,7 @@ R--P-----GA--YFRLVQPYEHHV-----------RVPS-----KS-------V-----
 Y--------VYS------FAL-EDADSRQPNGSANFTRY--D--S--VQLQLTLNE----
 -----NL-AS-G-----------------------------------RVQIYAPNFNILR
 IAAGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_1_(PBCV-1)/Q89345_PBCV1/207-396 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus 1 (PBCV-1)
+>Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/Q89345_PBCV1/207-396
 ------------------------------------------------------------
 --------------------------------------------------ERIKLVEKPL
 FYNIEQ---CN---FYRKDIT-------FPALS-S------TFK-L-DI-----------
@@ -3007,7 +3007,7 @@ R--E-----GM--YFNCVQPQQALG-----------RSPS-----SG-------I-----
 Y--------MYA------FGE--DVANATSKGALDMSRV--N--E--LSLQLTTKN----
 -----AT-AA-N-V--YT--V-Y-NPQETLASSTS---------TYKGITLFSTNWNVLQ
 VRSGLG-A-----------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_1_(PBCV-1)/Q89346_PBCV1/209-398 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus 1 (PBCV-1)
+>Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/Q89346_PBCV1/209-398
 ------------------------------------------------------------
 --------------------------------------------------EREWFARNTH
 MYVIEQ---LQ---HYNNVFS-------VAAVE-Q------TKR-L-NL-----------
@@ -3024,7 +3024,7 @@ R--P-----GY--YFTTVQPQDAFG-----------RSPS-----AG-------I-----
 Y--------VYS------FGL--DVTGMTSKGALNFSRM--D--N--ATLSITTKA----
 -----AT-AA-T-I--SD--V-Y-NQSTTLASAIT---------DFTSIAIYAKSFNVLK
 IDYGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_AR158_(PBCV-AR158)/A7RAK2_PBCVA/215-406 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)
+>Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RAK2_PBCVA/215-406
 ------------------------------------------------------------
 --------------------------------------------------ERVWFAQNPH
 EYLITQ---LQ---YQRQSIV-------VDAMM-R------DYK-I-PV-----------
@@ -3041,7 +3041,7 @@ R--P-----GK--YFKDANPWLSQF----------GGYFT-----SG-------L-----
 Y--------AYN------FGL-NNCLNKGPAGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENS----------VLQLVEIYALNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_AR158_(PBCV-AR158)/A7RBS3_PBCVA/313-480 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)
+>Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RBS3_PBCVA/313-480
 ------------------------------------------------------------
 ------------------EKFRFAQDPCVYLIEQVSSMDSLSYATTTNGQ----------
 ------------------------------------------------------------
@@ -3058,7 +3058,7 @@ R--E-----GE--YFTLVNPYQHFK----------RSNPT-----SN-------I-----
 S--------TFS------FAL--DACSFQPCGFLNFAPY--V--R--TRFAFKIHQ----
 -----QN-TP-H-V----------------------------------IRIFAVCLNWIK
 FDSGM--V-----------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_AR158_(PBCV-AR158)/A7RBY5_PBCVA/215-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)
+>Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RBY5_PBCVA/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -3075,7 +3075,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_AR158_(PBCV-AR158)/A7RC11_PBCVA/215-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)
+>Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RC11_PBCVA/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -3092,7 +3092,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_AR158_(PBCV-AR158)/A7RCC8_PBCVA/206-395 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)
+>Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RCC8_PBCVA/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERIYFAQAEH
 EYIIEQ---LQ---TFSTIPN-------VSGSV-N------TTM-I-DL-----------
@@ -3109,7 +3109,7 @@ R--P-----GG--YFNMVQTTQSLG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSRL--D--M--VTLSLTSKA----
 -----AT-AP-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 IVEGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_AR158_(PBCV-AR158)/A7RCJ4_PBCVA/326-515 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, unclassified Chlorovirus, Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)
+>Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RCJ4_PBCVA/326-515
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPNGS-T------NRK-I-TL-----------
@@ -3126,7 +3126,7 @@ R--P-----GA--YFRLVQPYEHHV-----------RVPS-----KS-------V-----
 Y--------VYS------FAL-EDADSRQPNGSANFTRY--D--S--VQLQLTLNE----
 -----NL-AS-G-----------------------------------RVQIYAPNFNILR
 IAAGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_FR483_(PBCV-FR483)/A7J6C8_PBCVF/214-405 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)
+>Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J6C8_PBCVF/214-405
 ------------------------------------------------------------
 --------------------------------------------------ERIWFAQNPH
 EYLVTQ---LQ---YQKQSIV-------VDALT-R------DYK-I-PV-----------
@@ -3143,7 +3143,7 @@ R--P-----GK--YFKDANPWLSQY----------GGYFT-----SG-------L-----
 Y--------VYN------FGL-NNCLGKGPAGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENN----------VLQLVELYALNYNVLR
 VMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_FR483_(PBCV-FR483)/A7J6V8_PBCVF/205-397 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)
+>Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J6V8_PBCVF/205-397
 ------------------------------------------------------------
 --------------------------------------------------ERVLFVKTPH
 KYIFEQ---TQ---TQDFPSR------ISTTSS-R------TTL-Y-TL-----------
@@ -3160,7 +3160,7 @@ Q--T-----GS--YFRLIEPYRTMQ-----------CVPP-----AG-------I-----
 Y--------SYF------FSK-APLNVHAASGTLNFSAL--D--T--VKLLVTTKA----
 -----AS-AA-T-I--AD--V-F-DEQTSVNSAA----------NLTTFTVIARSMNVLR
 IQDGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_FR483_(PBCV-FR483)/A7J6X8_PBCVF/241-430 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)
+>Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J6X8_PBCVF/241-430
 ------------------------------------------------------------
 --------------------------------------------------ERAHFAQAPH
 EYMIEQ---LQ---IFKANPV-------INATT-T------TQT-V-TL-----------
@@ -3177,7 +3177,7 @@ R--P-----GS--YFNLVQPTQAVN-----------QAPS-----AG-------I-----
 Y--------MYS------FGV--MANEQDSAGTLNFSQL--D--T--VTLQLTAKA----
 -----AS-AS-T-I--AQ--I-L-TPGVTLDTALT---------KFTTIAIFAVNYNVFR
 VMDGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_FR483_(PBCV-FR483)/A7J799_PBCVF/299-467 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)
+>Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J799_PBCVF/299-467
 ------------------------------------------------------------
 -------------------------------------------------E-KYRFAQNPV
 TYLIEQ---TP---IIDTPTYL-----TSNGGE-T------IQQ-D-KVDV---------
@@ -3194,7 +3194,7 @@ R--S-----GE--YWKLVQTYQHFT----------RSIPT-----NN-------I-----
 F--------TYS------FAL--DASSFQPNGLLNFAPY--V--R--TMLSFEIIK----
 -----QT-T---------------------------------------------------
 -------PMRLKTTAVCLNWLTFDSGTA---------
->Vir./Paramecium_bursaria_Chlorella_virus_FR483_(PBCV-FR483)/A7J7H4_PBCVF/212-427 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)
+>Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J7H4_PBCVF/212-427
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATSQ-S------TQN-I-RL-----------
@@ -3211,7 +3211,7 @@ R--K-----GS--YFNQVQPFQTIG-----------SLAP-----SG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTASV-
 -NAYAAT-AT-T-A--AA--L-Y-ASETVTANTAT---------SLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_FR483_(PBCV-FR483)/A7J891_PBCVF/334-516 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)
+>Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J891_PBCVF/334-516
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PSAPNGT-T------NRK-F-TL-----------
@@ -3228,7 +3228,7 @@ R--P-----GA--YFRLVQPYQHSL-----------RTPS-----KS-------I-----
 Y--------LYS------FAL-EDIDSKQPNGSANFTRY--D--S--AQLQMVLNP----
 -----NL-PS-G-----------------------------------RFQIYAPNYNILR
 VAAGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_MT325_(PBCV-MT325)/A7ITF8_PBCVM/214-405 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)
+>Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7ITF8_PBCVM/214-405
 ------------------------------------------------------------
 --------------------------------------------------ERIWFAQNPH
 EYLVTQ---LQ---YQKQSII-------VDALT-R------DYK-I-PV-----------
@@ -3245,7 +3245,7 @@ R--P-----GK--YFKDANPWLSQY----------GGYFT-----SG-------L-----
 Y--------VYN------FGL-NNCLGKGPSGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENN----------VLQLVELYALNYNVLR
 VMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_MT325_(PBCV-MT325)/A7ITZ9_PBCVM/206-395 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)
+>Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7ITZ9_PBCVM/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERAHFAQAPH
 EYMIEQ---LQ---IFKANPV-------INATT-T------TQT-V-TL-----------
@@ -3262,7 +3262,7 @@ R--P-----GS--YFNLVQPTQAVS-----------QAPS-----AG-------I-----
 Y--------MYS------FGV--MANEQDSAGTLNFSQL--D--T--VTLQLTAKA----
 -----AS-AS-T-I--AQ--I-L-TPGVTLDTALT---------KFTTIAIFAVNYNVFR
 VMDGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_MT325_(PBCV-MT325)/A7IUB1_PBCVM/299-467 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)
+>Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7IUB1_PBCVM/299-467
 ------------------------------------------------------------
 -------------------------------------------------E-KYRFAQNPV
 TYLIEQ---TP---IIDTPTYL-----TSNGGA-T------IQQ-D-KVDV---------
@@ -3279,7 +3279,7 @@ R--S-----GE--YWKLVQTYQHFT----------RSIPT-----NN-------I-----
 F--------TYS------FAL--DASSFQPNGFLNFAPY--V--R--TMLSFEIIK----
 -----QT-----------------------------------------------------
 -------TPMRLKTTAVCLNWITFASGTA--------
->Vir./Paramecium_bursaria_Chlorella_virus_MT325_(PBCV-MT325)/A7IUJ3_PBCVM/212-428 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)
+>Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7IUJ3_PBCVM/212-428
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSASSQ-S------TQN-I-RL-----------
@@ -3296,7 +3296,7 @@ R--K-----GS--YFNQVQPFQTIG-----------SLAP-----SG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTCSV-
 -AANTAT-TV-T-A--AA--L-Y-SGGETVTASTG--------TQLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_MT325_(PBCV-MT325)/A7IVC8_PBCVM/334-516 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus A1, Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)
+>Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7IVC8_PBCVM/334-516
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PSAPNGT-T------NRK-F-TL-----------
@@ -3313,7 +3313,7 @@ R--P-----GA--YFRLVQPYQHSL-----------RTPS-----KS-------I-----
 Y--------LYS------FAL-EDIDSKQPNGSANFTRY--D--S--AQLQMVLNP----
 -----NL-PS-G-----------------------------------RFQIYAPNYNILR
 VAAGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_NY2A_(PBCV-NY2A)/A7IVT4_PBCVN/215-406 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)
+>Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IVT4_PBCVN/215-406
 ------------------------------------------------------------
 --------------------------------------------------ERVWFAQNPH
 EYLITQ---LQ---YQRQSIV-------VDAMM-R------DYK-I-PV-----------
@@ -3330,7 +3330,7 @@ R--P-----GK--YFKNGNPWLSQY----------GGYCT-----SG-------L-----
 Y--------IYN------FGL-NNCLGKGPAGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENS----------VLQLVEIYALNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_NY2A_(PBCV-NY2A)/A7IX54_PBCVN/313-480 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)
+>Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IX54_PBCVN/313-480
 ------------------------------------------------------------
 ------------------EKFRFAQDPCVYLIEQVSSTDSLSYAITTNGQ----------
 ------------------------------------------------------------
@@ -3347,7 +3347,7 @@ R--A-----GE--YFSLVQPYQHFK----------RSNPT-----SN-------I-----
 S--------TFS------FAL--DSGSFQPCGFLNFAPY--V--R--TRFAFKIHQ----
 -----QN-TP-H-V----------------------------------IRIFAVCLNWIK
 FDSGM--V-----------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_NY2A_(PBCV-NY2A)/A7IXB0_PBCVN/215-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)
+>Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IXB0_PBCVN/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -3364,7 +3364,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_NY2A_(PBCV-NY2A)/A7IXE2_PBCVN/215-432 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)
+>Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IXE2_PBCVN/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -3381,7 +3381,7 @@ R--K-----GS--YFNTVQPYQSIG----------GATP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_NY2A_(PBCV-NY2A)/A7IXS3_PBCVN/206-395 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)
+>Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IXS3_PBCVN/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERIYFAQAEH
 EYIIEQ---LQ---TFSTIPN-------VSGSV-N------TTM-I-DL-----------
@@ -3398,7 +3398,7 @@ R--P-----GG--YFNMVQTTQSLG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSRL--D--M--VTLSLTSKA----
 -----AT-AP-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 IVEGIGG------------------------------
->Vir./Paramecium_bursaria_Chlorella_virus_NY2A_(PBCV-NY2A)/A7IY00_PBCVN/326-515 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Chlorovirus, Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)
+>Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IY00_PBCVN/326-515
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSQIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPNGS-T------NRK-I-TL-----------
@@ -3415,7 +3415,7 @@ R--P-----GA--YFRLVQPYEHHV-----------RVPS-----KS-------V-----
 Y--------VYS------FAL-EDADSRQPNGSANFTRY--D--S--AQLQLTLNE----
 -----NL-AS-G-----------------------------------RVQIYAPNFNILR
 IAAGMGG------------------------------
->Vir./Phaeocystis_globosa_virus/R4TF54_9PHYC/309-561 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prymnesiovirus, unclassified Prymnesiovirus, Phaeocystis globosa virus
+>Vir./Phaeocystis globosa virus/R4TF54_9PHYC/309-561
 ------------------------------------------------------------
 --------------------------------------------------ERTLFANNTQ
 EYLIKE---VY---EYKFE-----------KVN-K------SNK-I-NL-----------
@@ -3432,7 +3432,7 @@ L--P-----MG--VYDKIEKYNKTQ-----------GNSC-----DG-------L-----
 Y--------HYN------FSLSTDQRKYQPSGAFNTNKF--K--N--IEFEFNNHSNP--
 --PLDLS-NV-T-F--TT--I-C-DPETGDVIATSKEPT-SIYTYNYNLTVMEERFNILR
 FQSGTA-D-----------------------------
->Vir./Phaeocystis_globosa_virus/R4THT4_9PHYC/258-514 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prymnesiovirus, unclassified Prymnesiovirus, Phaeocystis globosa virus
+>Vir./Phaeocystis globosa virus/R4THT4_9PHYC/258-514
 ------------------------------------------------------------
 --------------------------------------------------ERRRMAQNPH
 EYLIEQ---LQ---FTGDE----------SVGS-S------SNK-I-KL-----------
@@ -3449,7 +3449,7 @@ R--E-----GT--YFDLVQPFQHHT-----------RAPD-----SG-------I-----
 N--------VYS------FAL--RPEEHQPSGSCNFSRI--D--N--ATLQLVLSN----
 -----AT-VQ-G-V--NT-------------A---------------KVRVYAVNYNVLR
 IMSGMGG------------------------------
->Vir./Pike_perch_iridovirus/A0A1B2ITQ5_FRG3V/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Frog virus 3 (FV-3), Pike perch iridovirus
+>Vir./Pike perch iridovirus/A0A1B2ITQ5_FRG3V/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -3466,7 +3466,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GDNSGYTTAQ-----------KYALVVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Pleurochrysis_sp._endemic_virus_1a/A0A2H4YB59_9VIRU/445-525 Viruses, unclassified viruses, Pleurochrysis sp. endemic virus 1a
+>Vir./Pleurochrysis sp. endemic virus 1a/A0A2H4YB59_9VIRU/445-525
 ------------------------------------------------------------
 -------------------------------------SVFDAKHLAEVLD----------
 ------------------------------------------------------------
@@ -3483,7 +3483,7 @@ IMNGSMG------------------------------
 Y--------VYP------FSL--NPEGANPSGAVNFSKV--S--H--AKLNISGVA----
 -----YS-TS-D-T--PV---------D---Y---------------QVDVYAVYYNWLQ
 IKDGRA-L-----------------------------
->Vir./Pleurochrysis_sp._endemic_virus_1b/A0A2I6J2R5_9VIRU/445-525 Viruses, unclassified viruses, Pleurochrysis sp. endemic virus 1b
+>Vir./Pleurochrysis sp. endemic virus 1b/A0A2I6J2R5_9VIRU/445-525
 ------------------------------------------------------------
 -------------------------------------SVFDAKHLAEALD----------
 ------------------------------------------------------------
@@ -3500,7 +3500,7 @@ IKDGRA-L-----------------------------
 Y--------VYP------FSL--NPEGANPSGAVNFSKV--S--H--AKLNISGVA----
 -----YS-TS-D-T--PV---------D---Y---------------QVDVYAVYYNWLQ
 IKDGRA-L-----------------------------
->Vir./Rana_tigrina_ranavirus/Q77HF2_RTRV/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Frog virus 3 (FV-3), Rana tigrina ranavirus
+>Vir./Rana tigrina ranavirus/Q77HF2_RTRV/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---VAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -3517,7 +3517,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SMQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Rock_bream_iridovirus/G3CLF3_ISKNV/251-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Megalocytivirus, Infectious spleen and kidney necrosis virus (ISKNV), Rock bream iridovirus
+>Vir./Rock bream iridovirus/G3CLF3_ISKNV/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPVDN-S------LVH-L-DL-----------
@@ -3534,7 +3534,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KT-T-A--AG--G-G-GNGTGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Saudi_moumouvirus/A0A1S5V0T6_MIMIV/327-504 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Saudi moumouvirus
+>Vir./Saudi moumouvirus/A0A1S5V0T6_MIMIV/327-504
 ------------------------------------------------------------
 --------------------------------------------------ERNRFIKGNH
 EYLIEQ---VQ---FNQEN----------LVNS-N------NVK-H-KL-----------
@@ -3551,7 +3551,7 @@ R--N-----WK--YYNYVQPFEHHY-----------RSPV-----LG-------I-----
 N--------VYS------PSL--NPEEYQPSSTINMSKI--D--D--AYIDLHLKK----
 -----SI-NN-Q-N--TA-----------------------------KIRSYTINYNIFR
 VILNMG-A-----------------------------
->Vir./Saudi_moumouvirus/A0A1S5V0V8_MIMIV/100-442 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Saudi moumouvirus
+>Vir./Saudi moumouvirus/A0A1S5V0V8_MIMIV/100-442
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---LQ---FTGEE---------SIGTS-N------SAK-Y-KL-----------
@@ -3568,7 +3568,7 @@ R--S-----GF--WHDTVEPYMHHT-----------KSPK-----DG-------L-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFNH----
 -----FA-NS-K-Y--AD--V-F-ADNDNKVL------------------IFAINYNVLR
 IMSGMGG------------------------------
->Vir./Saudi_moumouvirus/A0A1S5V1K3_MIMIV/410-594 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Imitervirales, Mimiviridae, unclassified Mimiviridae, Moumouvirus, Saudi moumouvirus
+>Vir./Saudi moumouvirus/A0A1S5V1K3_MIMIV/410-594
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQSTH
 EYLIET---IQ---YNEY----------DDIMS-R------EYN-A-HL-----------
@@ -3585,7 +3585,7 @@ N--G-----DM-KYFNNIHPYLYFN-----------NSLS-----DG-------L-----
 N--------VYS------FSI--KPTIHQPSSSINLSRI--D--D--LSIAMKFTS----
 -----EF-EY-L----------I-NNEDIKGG---------------YFAAYIMNYNILR
 IMNGMAG------------------------------
->Vir./Scale_drop_disease_virus/A0A0K1L763_9VIRU/250-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Megalocytivirus, Scale drop disease virus
+>Vir./Scale drop disease virus/A0A0K1L763_9VIRU/250-449
 ------------------------------------------------------------
 --------------------------------------------------EREAMSLVSR
 DMIIEQ---CQ---MAPRIPI-------RPLEN-E------MPH-I-DL-----------
@@ -3602,7 +3602,7 @@ M--G-----VD--YFSYVDPYFFAP-----------CIPK----IDG-------V-----
 M--------AYC------YTM--NMGHVDPMGSTNFGRL--S--N--ITLSAKVTA----
 -----NS-KT-T-S--AA--S-G-NTDGHKVAQ------------KFELVVIGVNHNVAR
 ISNGSFG------------------------------
->Vir./Singapore_grouper_iridovirus/Q5YFJ3_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Singapore grouper iridovirus
+>Vir./Singapore grouper iridovirus/Q5YFJ3_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERCAMAGTVR
 DMVVEQ---MQ---AAPTHIV-------NPQNT-N------NVH-V-DM-----------
@@ -3619,7 +3619,7 @@ M--G-----VE--YYSLVQPWYFSA-----------SIPV----YTG-------Y-----
 H--------MYS------YAL--NVGSVHPSGSTNYGRL--T--N--ASITVTMSP----
 -----ES-VV-A-A--AG--G-G-NNNSGYNEPQ-----------RFALVVIAVNHNVIR
 IMNGSMG------------------------------
->Vir./Spodoptera_frugiperda_ascovirus_1a_(SfAV-1a)/CAPSD_SFAVA/260-452 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Ascoviridae, Ascovirus, Spodoptera frugiperda ascovirus 1a (SfAV-1a)
+>Vir./Spodoptera frugiperda ascovirus 1a (SfAV-1a)/CAPSD_SFAVA/260-452
 ------------------------------------------------------------
 --------------------------------------------------EIDRTSCTPH
 YMYMEK--PVD---VPATELV-------KPTDG-T------TAP-D-TM-----------
@@ -3636,7 +3636,7 @@ L--P-----SE--HFVYTEPYHAAK-----------RVPTT---NNG-------L-----
 Y--------MYS------FAL--DLHTIDPKGSINPSNF--N--S---NISVVLRP----
 -----SE-TL-N-A--AT----------TERF---------------EFNATVLTGYILY
 VENGN--LR----------------------------
->Vir./Testudo_hermanni_ranavirus/A0A0D3R2R9_9VIRU/260-459 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Ranavirus, Common midwife toad virus, Testudo hermanni ranavirus
+>Vir./Testudo hermanni ranavirus/A0A0D3R2R9_9VIRU/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-A------TFH-T-DM-----------
@@ -3653,7 +3653,7 @@ M--G-----VE--YYSLVEPWYYAT-----------SIPV----STG-------H-----
 H--------LYS------YAL--SLQDPHPSGSTNYGRL--T--N--ASLNVTLSA----
 -----EA-TT-A-A--AG--G-G-GDNSGYTTAQ-----------KYALIVLAINHNIIR
 IMNGSMG------------------------------
->Vir./Tetraselmis_virus_1/A0A2P0VMH4_9VIRU/230-455 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, unclassified Phycodnaviridae, Tetraselmis virus 1
+>Vir./Tetraselmis virus 1/A0A2P0VMH4_9VIRU/230-455
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLITQ---LQ---FTGAE----------STTT-T------SNK-F-KL-----------
@@ -3670,7 +3670,7 @@ R--D-----GR--WFNLAIPYCTHE-----------NIPP-----TG-------I-----
 N--------VYS------FAL--RPEEHQPSGSINFSRI--D--T--ANMHINLSE----
 -----DA-VS-D-G--GA-----------------------------KVRIYAVNYNILR
 IMSGMGG------------------------------
->Vir./Tokyovirus_A1/A0A146JIZ9_9VIRU/273-470 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Marseilleviridae, Marseillevirus, unclassified Marseillevirus, Tokyovirus A1
+>Vir./Tokyovirus A1/A0A146JIZ9_9VIRU/273-470
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LVP-I-DI-----------
@@ -3687,7 +3687,7 @@ N--G-----SD--YYSLMVPWFWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPSV----
 -----AA-VN-A-S--AG--V-T-NTGIP--IPSATNPAVLQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Trichoplusia_ni_ascovirus_2c_(TnAV-2c)/CAPSD_TNAVC/231-465 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Ascoviridae, Ascovirus, unclassified Ascovirus, Trichoplusia ni ascovirus 2c (TnAV-2c)
+>Vir./Trichoplusia ni ascovirus 2c (TnAV-2c)/CAPSD_TNAVC/231-465
 --------------------------------------------EVLLLEDINNSKNKVI
 KADDIKDGEPKLTSIKLIGTYAVASKYEVNKTRCDDRRMLIEKPFKASEY----------
 -----------------------------------------------ELPVFDSGKL---
@@ -3704,7 +3704,7 @@ L--P-----IE--YYSYQQPYEHAK-----------RIPN----NRD-------L-----
 F--------MYS------FCL--DVGDVDPMGSINPKLL--A--K-----RLTFQI----
 -----KP-TK-D-L--AE------AT-KNKQT--------------FKFITYALCNRLVS
 IRQG---KF----------------------------
->Vir./Turbot_reddish_body_iridovirus/Q6PNE1_9VIRU/251-449 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Alphairidovirinae, Megalocytivirus, Infectious spleen and kidney necrosis virus (ISKNV), Turbot reddish body iridovirus
+>Vir./Turbot reddish body iridovirus/Q6PNE1_9VIRU/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPADN-S------LVH-L-DL-----------
@@ -3721,7 +3721,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KK-T-A--AG--G-G-TNGSGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Wiseana_iridescent_virus_(WIV)_(Insect_iridescent_virus_type_9)/G0T536_IRV9/259-456 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Pimascovirales, Iridoviridae, Betairidovirinae, Chloriridovirus, Invertebrate iridescent virus 9, Wiseana iridescent virus (WIV) (Insect iridescent virus type 9)
+>Vir./Wiseana iridescent virus (WIV) (Insect iridescent virus type 9)/G0T536_IRV9/259-456
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCAIR
 DILIEQ---VQ---TAPRQNY-------TPLTN-A------SPT-F-DI-----------
@@ -3738,7 +3738,7 @@ M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
 H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
 -----AA-VN-A-ASGAG--G-F-PGSDYPQS--------------YEFVIVAVNNNIVR
 ISGG---ET----------------------------
->Vir./Yellowstone_lake_phycodnavirus_1/A0A0P0YMB3_9PHYC/216-386 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 1
+>Vir./Yellowstone lake phycodnavirus 1/A0A0P0YMB3_9PHYC/216-386
 ------------------------------------------------------------
 --------------------------------------------------ERKFFAENAH
 DMLITQ---VQ---RIPIS---------------K------SAT-Q-EL-----------
@@ -3755,7 +3755,7 @@ L--PAFTDIAQ--YYNTPFGYQHGN-----------QS-------AN-------V-----
 A--------VIS------YAL--DTSKLQPTGTLNFSRI--D--T--YRLVVPVTL----
 -----SN-GV-Q-A--LT---------NAAVS---------------NPYLYAVNYNVLR
 IQNGVG-A-----------------------------
->Vir./Yellowstone_lake_phycodnavirus_1/A0A0P0YMI9_9PHYC/208-360 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 1
+>Vir./Yellowstone lake phycodnavirus 1/A0A0P0YMI9_9PHYC/208-360
 ------------------------------------------------------------
 --------------------------------------------GVQIYE----------
 ----------Q---VQRVEYV-------APSGC-N------HVR-C-NT-----------
@@ -3772,7 +3772,7 @@ E--I-----GSALYLRVLQPLEFHT-----------RVPS-----RP-------F-----
 Y--------MYS------FSI--DPETLAPSGQVNMSVI--K--N--QTFELILNP----
 -----SN-SA-R-----------------------------------EIRIYAVNYNFI-
 -------EKGQ--------------------------
->Vir./Yellowstone_lake_phycodnavirus_1/A0A0P0YML1_9PHYC/213-446 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 1
+>Vir./Yellowstone lake phycodnavirus 1/A0A0P0YML1_9PHYC/213-446
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGGDSI-------TNSTE-T-----GPSL-V-RL-----------
@@ -3789,7 +3789,7 @@ Q--L-----GK--YFNQYQPLVYHT-----------GTPY-----PG-------I-----
 Y--------VYS------FAL--QPEEHQPTGTCNFSRI--D--N--AQVSVALKS----
 -----GG-SA-A-Q--SN---------FSL------------------QKMFAVNYNILR
 IQSGMGG------------------------------
->Vir./Yellowstone_lake_phycodnavirus_1/A0A0P0YMN7_9PHYC/799-960 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 1
+>Vir./Yellowstone lake phycodnavirus 1/A0A0P0YMN7_9PHYC/799-960
 ------------------------------------------------------------
 --------------------------------------------------EINWMKKSRL
 DYIITQ---TQ---VASYT---------LQPGF-T------SGV-F-SL-----------
@@ -3806,7 +3806,7 @@ R--D-----TDALYLGTIEPYNHHV-----------HDPD-----RN-------F-----
 F--------MYS------FAQ--DPNDPRPNGQVNFSRV--N--Q--KLLEVNTLS----
 -----SD-V-------PR-----------------------------QLRVYALNYNIMR
 VENGLAG------------------------------
->Vir./Yellowstone_lake_phycodnavirus_1/A0A0P0YMU6_9PHYC/542-739 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 1
+>Vir./Yellowstone lake phycodnavirus 1/A0A0P0YMU6_9PHYC/542-739
 ------------------------------------------------------------
 -------------------------------------------ERLFYKT-------TPL
 RFIVNR---VR---KEST----------LSFTS-T------NPQ-I-QM-----------
@@ -3823,7 +3823,7 @@ F--Q-----GS-LYYSFKQPMEHGL-----------SIPS-----KS-------I-----
 Y--------MYS------FGL--NPKEYNQGGYINFSKL--N--SQTTRLALQFSQ----
 -----QY-SS-E-I--TQ--G----------Y---------------NLYVFYYGYSILE
 FQGGFA-R-----------------------------
->Vir./Yellowstone_lake_phycodnavirus_2/A0A0N7KVU5_9PHYC/1050-1212 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 2
+>Vir./Yellowstone lake phycodnavirus 2/A0A0N7KVU5_9PHYC/1050-1212
 ------------------------------------------------------------
 --------------------------------------------------EVKWMRRNRL
 EYLITQ---TQ---STSFL---------LPPGF-S------TGT-F-KL-----------
@@ -3840,7 +3840,7 @@ QVID-----AQ--YLQYVQAFQKYN-----------VTPI-----RQ-------F-----
 Y--------VYS------FAN--DPMNPRPTGQINFSRM--K--D--STIDITLAP----
 -----LA-GL-T-R---------------------------------SMRVYATNYNVLR
 IENGLAG------------------------------
->Vir./Yellowstone_lake_phycodnavirus_2/A0A0P0YMR9_9PHYC/235-462 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 2
+>Vir./Yellowstone lake phycodnavirus 2/A0A0P0YMR9_9PHYC/235-462
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGGDTI------TSSSET-S------SSL-V-RL-----------
@@ -3857,7 +3857,7 @@ Q--L-----GK--YFNQYQPFLYHT-----------GTPY-----VG-------V-----
 Y--------VYS------FAL--QPEEHQPTGTCNFSRI--D--N--AQVAVWLKT----
 -----AT-AT-N-A--NY----------NLQK------------------MFAVNYNILR
 IQSGMGG------------------------------
->Vir./Yellowstone_lake_phycodnavirus_2/A0A0P0YMV2_9PHYC/203-372 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 2
+>Vir./Yellowstone lake phycodnavirus 2/A0A0P0YMV2_9PHYC/203-372
 ------------------------------------------------------------
 ----------------------------------------VKIKRDVQVY----------
 ----EQ---VQ-----RVEFI-------APVGV-N------NVR-L-QL-----------
@@ -3874,7 +3874,7 @@ D--I-----GTPLFLRVIQPMEYHT-----------RVPD-----RK-------F-----
 Y--------MYS------FSL--DPENVIPTGQVNMSRI--S--N--QVMELSMVP----
 -----SA-QS-R-F--IR--------------------------------IYAVSYNFI-
 -------QKGK--------------------------
->Vir./Yellowstone_lake_phycodnavirus_2/A0A0P0YN54_9PHYC/577-773 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 2
+>Vir./Yellowstone lake phycodnavirus 2/A0A0P0YN54_9PHYC/577-773
 ------------------------------------------------------------
 ---------------------------------------------EKLYY-----TNTPL
 KYIVNR---VK---KESTL----------TFSA-G------NPQ-L-QL-----------
@@ -3891,7 +3891,7 @@ F--Q-----GS-LYYTFKQPLEHGL-----------SIPS-----KS-------I-----
 Y--------SYS------FGL--TPKEYNQGGYLNFSKL--NSQT--TTLTLVFNP----
 -----SY-AT-Q-I--SQ--G-Y-N-----------------------LYMFYYGYTLLE
 FQG----GFA---------------------------
->Vir./Yellowstone_lake_phycodnavirus_2/A0A0P0YN67_9PHYC/476-571 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 2
+>Vir./Yellowstone lake phycodnavirus 2/A0A0P0YN67_9PHYC/476-571
 ------------------------------------------------------------
 --------------------------------------------WVDVPQ----------
 ------------------------------------------------------------
@@ -3908,7 +3908,7 @@ FQG----GFA---------------------------
 A--------VIS------YCL--DTSKNQPTGTINFSRL--D--T--YRIVTPVQL----
 -----SD-PA-T-G--RT--GPL-ALASPLIT---------------NPYLYAVNYNVLR
 IQNGLA-S-----------------------------
->Vir./Yellowstone_lake_phycodnavirus_2/A0A0P0YNU1_9PHYC/558-762 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 2
+>Vir./Yellowstone lake phycodnavirus 2/A0A0P0YNU1_9PHYC/558-762
 ------------------------------------------------------------
 ----------------------------------EIKLTEEEKLYYKTKK---------L
 RYVVNR---LK---KEGV----------QAFNS-A------TTQ-L-QL-----------
@@ -3925,7 +3925,7 @@ F--Q-----GS-LYYAFKQPSEHNL-----------SIPA-----KN-------I-----
 Y--------MYS------FGL--NPKEYNAGGYINFSKL--D--S--QTTTLKLVF----
 -----VQ-QY-A-T--QV----------NQGY---------------NLYLFYYGYTILE
 FENGFA-R-----------------------------
->Vir./Yellowstone_lake_phycodnavirus_3/A0A0P0YN87_9PHYC/216-447 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 3
+>Vir./Yellowstone lake phycodnavirus 3/A0A0P0YN87_9PHYC/216-447
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGGDSI------TASGNP-G------AQT-I-RL-----------
@@ -3942,7 +3942,7 @@ Q--I-----GK--YFNQYQPYVYHS-----------GTPY-----PG-------V-----
 Y--------VYS------FAL--QPEEHQPTGTCNFSRI--D--N--AQVAINMKS----
 -----GY-ST-P-L--QR--------------------------------MFAVNYNILR
 IQSGMGG------------------------------
->Vir./Yellowstone_lake_phycodnavirus_3/A0A0P0YNA3_9PHYC/216-475 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 3
+>Vir./Yellowstone lake phycodnavirus 3/A0A0P0YNA3_9PHYC/216-475
 ------------------------------------------------------------
 --------------------------------------------------ERERYAKGSH
 EYLIEQ---VQ---HVAGDPV-------GSTNE-N------SPSVI-RL-----------
@@ -3959,7 +3959,7 @@ Q--S-----GK--YFNQYQPYQYHE-----------GSPY-----PG-------I-----
 Y--------VYS------FAL--KPGELQPSGTCNFSRI--D--M--AQTSVYLKT----
 -----GM-PS-N-I--LQ-------------------------------QMFAVNYNVFK
 VASGMGG------------------------------
->Vir./Yellowstone_lake_phycodnavirus_3/A0A0P0YNE8_9PHYC/211-386 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 3
+>Vir./Yellowstone lake phycodnavirus 3/A0A0P0YNE8_9PHYC/211-386
 ------------------------------------------------------------
 --------------------------------------------------ERDWFAKTSH
 DLLVTQ---VQ---RVLMG---------------S------APT-Q-EL-----------
@@ -3976,7 +3976,7 @@ Y--N-----TQ--W-GYLAPNTTTA-----------GLGT-----AN-------V-----
 A--------IIS------YCL--DTAKLQPTGTLNFSRL--D--T--FRIVVPPSL----
 -----TG-GLSN-L--AP--V-I-N----YPT----------------AYLYAVNYNVLR
 IQNGLG-S-----------------------------
->Vir./Yellowstone_lake_phycodnavirus_3/A0A0P0YNH8_9PHYC/211-385 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 3
+>Vir./Yellowstone lake phycodnavirus 3/A0A0P0YNH8_9PHYC/211-385
 ------------------------------------------------------------
 ------------------------------------------EVQFIKSK--------PQ
 LHPIEQ---VQ---RQAFF---------APVAT-S------NVQ-C-LL-----------
@@ -3993,7 +3993,7 @@ D--V-----GSPLFLSTIQALEYHT-----------RNPD-----RI-------F-----
 Y--------SYS------FSI--DPEGDVPTGSVNMSMI--K--N--QILQLSLAS----
 -----SL-SG-R-----D------------------------------IRIFASSYNFLH
 FENG---EV----------------------------
->Vir./Yellowstone_lake_phycodnavirus_3/A0A0P0YNI5_9PHYC/211-380 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 3
+>Vir./Yellowstone lake phycodnavirus 3/A0A0P0YNI5_9PHYC/211-380
 ------------------------------------------------------------
 --------------------------------------------------EREWFAKTSH
 DLLVTQ---VQ---RVLMG---------------T------APT-Q-EL-----------
@@ -4010,7 +4010,7 @@ D--V-----PQ--YYNTQWGYVHNN-----------AT-------AN-------V-----
 A--------IIS------YCL--DTSKLQPTGTLNFSRL--D--T--FRIVVPPAL----
 -----TG-GL-S-----G----L-APAINYPT----------------PYLYAVNYNVLR
 IQNGLG-S-----------------------------
->Vir./Yellowstone_lake_phycodnavirus_3/A0A0P0YNV3_9PHYC/1-95 Viruses, Varidnaviria, Bamfordvirae, Nucleocytoviricota, Megaviricetes, Algavirales, Phycodnaviridae, Prasinovirus, unclassified Prasinovirus, Yellowstone lake phycodnavirus 3
+>Vir./Yellowstone lake phycodnavirus 3/A0A0P0YNV3_9PHYC/1-95
 ------------------------------------------------------------
 --------------------------------------MSLNGAEAFTAD----------
 ------------------------------------------------------------
