@@ -14,7 +14,7 @@ def split_mine(str):
 
 original_file = open(r"data/Proteins_origin.fasta", 'r')
 # original_file = open(r"data/Proteins_short.fasta", 'r')
-new_file = open(r"data/Proteins_named_All.fasta", 'w')
+new_file = open(r"data/Proteins_named_Euk_Vir.fasta", 'w')
 
 
 records = AlignIO.read(original_file, 'fasta')

@@ -117,7 +117,7 @@ R--D-----GR--YFSLVQPYQHHE-----------NVPT-----QG-------I-----
 N--------VYS------FAL--KPEEHQPSGSCNFSRI--D--T--ATLNLTLTQ----
 -----NT-VQ-Y-S--NG------NQRSAI------------------VRIYAVNYNIMR
 IMSGMGG------------------------------
->Euk./Ectocarpus siliculosus (Brown alga) (Conferva siliculosa)/D8LPE4_ECTSI/244-431
+>Euk./Ectocarpus siliculosus Brown alga Conferva siliculosa/D8LPE4_ECTSI/244-431
 ------------------------------------------------------------
 --------------------------------------------------ERQAFASVQH
 EYLITT---TQ---RQMHS-I-------TSASA-K------SDQ-L-KL-----------
@@ -134,7 +134,7 @@ N-LP-----GL--FFRQVQPALKWP-----------NTPA-----GY-------T-----
 Y--------LFT------FAA--IGGVWNPTSTLNMSRI--D--H--VQLELKYGD----
 -----NI-PT-S-----D------------------------------VVVFNEAYNLLV
 IKEGMGG------------------------------
->Euk./Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)/A0A138ZWU4_GONPJ/230-405
+>Euk./Gonapodya prolifera strain JEL478 Monoblepharis prolifera/A0A138ZWU4_GONPJ/230-405
 ------------------------------------------------------------
 --------------------------------------------------ERKMFSQNSH
 EYLITQ---LQ---YNGGE----------SVTT-S------TAR-L-KL-----------
@@ -151,7 +151,7 @@ R--S-----SA--YYSRIVPLYCHT-----------RGPS-----TG-------I-----
 Y--------VYS------FAL--KPEEHQPSGSINLSRI--E--S--TTLFLNLTT----
 -----GT-RP-V-T----------------------------------VHVFAVSYNVLR
 IVSGLGG------------------------------
->Euk./Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)/A0A139A9J7_GONPJ/166-340
+>Euk./Gonapodya prolifera strain JEL478 Monoblepharis prolifera/A0A139A9J7_GONPJ/166-340
 ------------------------------------------------------------
 --------------------------------------------------ERDLLGAEAS
 QYLIGV---WQ---HNGLE----------SGST-P------NIK-P-QL-----------
@@ -168,7 +168,7 @@ R--A-----GQ--YHNYVSAYQNHS-----------RCPA-----VG-------V-----
 Y--------SYS------FAL--YPELATPTGSQNFSRI--D--T--AILALNLNT----
 -----AN-NV-G-------------------Y---------------KLGVYARSWNILR
 VRGGQSG------------------------------
->Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1I2F8_KLENI/713-888
+>Euk./Klebsormidium nitens Green alga Ulothrix nitens/A0A1Y1I2F8_KLENI/713-888
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAGDAH
 EYLIEQ---VQ---FTGDESI------PASVSS-S------TQK-I-RL-----------
@@ -185,7 +185,7 @@ R--P-----GT--YHRLVQPYQHHP-----------RVPS-----KP-------V-----
 Y--------VYS------FAL--ESSSHQPSGATNFSRI--D--N--AQLYLTTKP----
 -----NM-PA-A-R----------------------------------CKVLAINYNVFR
 IQGGMGG------------------------------
->Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1IIV4_KLENI/264-439
+>Euk./Klebsormidium nitens Green alga Ulothrix nitens/A0A1Y1IIV4_KLENI/264-439
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAGDAH
 EYLIEQ---VQ---FTGDESI------PASVSS-S------TQK-I-RL-----------
@@ -202,7 +202,7 @@ R--P-----GT--YHRLVQPYQHHP-----------RVPS-----RP-------V-----
 Y--------VYS------FAL--EASSHQPSGATNFSRI--D--N--AQLYLTTRP----
 -----NM-PA-A-----R------------------------------VKVLAINYNVFR
 IQGGMGG------------------------------
->Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1IQZ1_KLENI/238-410
+>Euk./Klebsormidium nitens Green alga Ulothrix nitens/A0A1Y1IQZ1_KLENI/238-410
 ------------------------------------------------------------
 --------------------------------------------------ERRKYASSSH
 EFLIEQ---LQ---FTGSDTW--------SGGS-G------TSK-I-RM-----------
@@ -219,7 +219,7 @@ R--A-----AP--YFRLVQPYQHHT-----------RIPN-----RF-------I-----
 Y--------VYS------FAL--KPEEHQPSGTCNFSRI--D--N--AALHLGLNT----
 -----ED-PA-K------------------------------------ISVYAVNYNISR
 ITS----VSF---------------------------
->Euk./Klebsormidium nitens (Green alga) (Ulothrix nitens)/A0A1Y1IS02_KLENI/171-266
+>Euk./Klebsormidium nitens Green alga Ulothrix nitens/A0A1Y1IS02_KLENI/171-266
 ------------------------------------------------------------
 --------------------------------------------------ERRKFASSSH
 EFLVEQ---VQ---FTGDESI------PASISA-S------TQK-I-RL-----------
@@ -270,7 +270,7 @@ F--P-----AQ--FFNSYIPYQFGGA--------GITAPT----DTG-------L-----
 Y--------FYS------FTL--HPTQYQPSGHFNASRA--R--E--LYLDYTSSF----
 -----IS-SE-G----------------GRTA---------------KFFVHAKAINFIL
 VSEGS--CS----------------------------
->Euk./Phytophthora nicotianae (Buckeye rot agent)/A0A0W8DYX8_PHYNI/284-502
+>Euk./Phytophthora nicotianae Buckeye rot agent/A0A0W8DYX8_PHYNI/284-502
 ------------------------------------------------------------
 ----------------------------------------------VLPE--------VH
 DIFIDR---VA---FALVRVHR-----RQTQNL-N------KSS-E-SI-----------
@@ -287,7 +287,7 @@ F--P-----AA--FFNSYIPYQFGGS--------ALTAPT----DPG-------L-----
 Y--------YYS------FAL--YPNQYQPSGHFNVSRA--R--E--LYLNYTSS-----
 -----FI-SS-D-A--NH------------TA---------------TFFVQAKTINFLL
 ISEGSA-S-----------------------------
->Euk./Phytophthora parasitica (strain INRA-310)/W2PT61_PHYPN/284-502
+>Euk./Phytophthora parasitica strain INRA-310/W2PT61_PHYPN/284-502
 ------------------------------------------------------------
 ----------------------------------------------VLPE--------VH
 DIFIDR---VA---FTLVRVHRR---QTQNLNK-S------SES-I-HL-----------

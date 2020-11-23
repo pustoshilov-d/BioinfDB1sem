@@ -1,7 +1,7 @@
 from Bio import AlignIO
 
 
-original_file = open(r"data/Homologues_origin_aligned.fasta", 'r')
+original_file = open(r"data/Homologues_aligned.fasta", 'r')
 new_file = open(r"data/Homologues_named.fasta", 'w')
 
 
@@ -9,7 +9,6 @@ records = AlignIO.read(original_file, 'fasta')
 
 for record in records:
     print(record.description)
-    # print(record.id)
     spl1 = str(record.description).split(' ', maxsplit=1)
     end = spl1[0].split('/')[-1]
     # print(end)

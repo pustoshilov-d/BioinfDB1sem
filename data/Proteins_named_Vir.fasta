@@ -83,7 +83,7 @@ R--G-----GF--WHDTVEPFLHHT-----------KTPH-----DG-------L-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFAD----
 -----FA-NN-K-M--AD--V-F-TDTDNKVL------------------IFAINYNVLR
 IMSGMGG------------------------------
->Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS1_MIMIV/242-588
+>Vir./Acanthamoeba polyphaga mimivirus APMV/CAPS1_MIMIV/242-588
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQVSH
 EYLIEQ---LQ---FTGEE---------SAGSS-N------SAK-Y-KL-----------
@@ -100,7 +100,7 @@ R--G-----GI--WYDTVNPTVHHT-----------KSPR-----DG-------V-----
 N--------VFS------FAL--NPEEHQPSCTCNFSRI--D--T--AQLNLWFQH----
 -----FT-NH-K-F--AD--V-F-ADNDNKVL------------------IFAVNYNVLR
 MLSGMAG------------------------------
->Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS2_MIMIV/402-585
+>Vir./Acanthamoeba polyphaga mimivirus APMV/CAPS2_MIMIV/402-585
 ------------------------------------------------------------
 --------------------------------------------------ERKRFAQSAH
 EYLIEV---VQ---YQTF----------DNIDH-S------KYN-S-HL-----------
@@ -117,7 +117,7 @@ N--L-----GV-GYYNYVQPYWYFI-----------STPT-----DG-------L-----
 Y--------VYS------FSL--KPTEHQPSSTLNLSRI--H--D--FGIYLEFSK----
 -----EL-SK-I-I--ES--------NCS--S--------------IFFGTYIMSYNILR
 FMSGMAG------------------------------
->Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS3_MIMIV/1578-2150
+>Vir./Acanthamoeba polyphaga mimivirus APMV/CAPS3_MIMIV/1578-2150
 ------------------------------------------------------------
 --------------------------------------------------ERQAFVTKHL
 QYLVDE---FQ---YSTTN---------ITDNN-L------TPV-Y-KIGTNKISCVVKK
@@ -134,7 +134,7 @@ N--S-----DH-TFWTACQTYQHFK-----------HDTE-----TG-------I-----
 N--------LYS------WAI--KPFNEQNSGSANLSRI--D--R--FMSILNIHP----
 -----II-SS-K-N--SA-----------------------------SIITMTLSINIIN
 YLSGLCG------------------------------
->Vir./Acanthamoeba polyphaga mimivirus (APMV)/CAPS4_MIMIV/325-505
+>Vir./Acanthamoeba polyphaga mimivirus APMV/CAPS4_MIMIV/325-505
 ------------------------------------------------------------
 --------------------------------------------------ERMMLIKNPQ
 EYLIEQ---IQ---YNQE----------INVKN-S------NVK-Q-KL-----------
@@ -270,7 +270,7 @@ R--Q-----GR--YFQSYQPWYSAK----------GQWMT-----SG-------V-----
 Y--------LYS------FGT--NIKYGVPSGTMNFSRV--D--T--ALLHITTKAA---
 ---VVAD-TT-T-P--AV--V-T-ELMTTTTANA-----------LTTLLTYAVNFNVLR
 VDSGMGG------------------------------
->Vir./African swine fever virus (strain Badajoz 1971 Vero-adapted) (Ba71V) (ASFV)/MCP_ASFB7/418-641
+>Vir./African swine fever virus strain Badajoz 1971 Vero-adapted Ba71V ASFV/MCP_ASFB7/418-641
 ------------------------------------------------------------
 ---------------------------------------------FVTPE--------IH
 NLFVKR---VR---FSLIRVHKT---QVTHTNN-N------HHD-E-KLMSALKWPIEYM
@@ -712,7 +712,7 @@ N--G-----VD--YYSLVVPWYWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPST----
 -----AA-VN-A-S--AG--V-T-NAGIPIPSATNPAV--VQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T4U6_CROVB/312-501
+>Vir./Cafeteria roenbergensis virus strain BV-PW1 CroV/E3T4U6_CROVB/312-501
 ------------------------------------------------------------
 --------------------------------------------------ERYLYLTKNH
 EYLV-Q---VP---QNLTE---------ESFSS-S------NIK-Y-NL-----------
@@ -729,7 +729,7 @@ D--N-----PY--FFNLLQNVKYYG-----------GRGN-----EF-------I-----
 Y--------KYS------FSI-NPLSKCQPFGSLNFSKI--D--D--SYLQLTLDG----
 -----VI-DY-Q-N--PV-----------------------------RIKGYAVNHNIFR
 IINGIG-K-----------------------------
->Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T592_CROVB/476-648
+>Vir./Cafeteria roenbergensis virus strain BV-PW1 CroV/E3T592_CROVB/476-648
 ------------------------------------------------------------
 --------------------------------------------------EREKFASSRL
 NYLIKL---HS---VNTFE-----------LDN-T------YFN-K-NL-----------
@@ -746,7 +746,7 @@ K--N-----SP-EYFQYITSFNHLN-----------SNFL-----NN-------I-----
 F--------FYS------FCL--YPEHVQPSGGISFNDI--N--G--KQFQINLKN----
 -----LT-VD----------------ENNKVV----------------FKIFYKKLSILT
 ISSGK--GK----------------------------
->Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T5B3_CROVB/226-501
+>Vir./Cafeteria roenbergensis virus strain BV-PW1 CroV/E3T5B3_CROVB/226-501
 ------------------------------------------------------------
 --------------------------------------------------ERKKFAQATH
 EYLIEQ---LQ---FTGAE----------SFKN-S------NES-Y-RL-----------
@@ -763,7 +763,7 @@ R--D-----GT--YFNYVQPYQHWA-----------NTPA-----DG-------I-----
 N--------SYS------FAL--NPMDHQPSGTCNFSRI--D--N--TTLKLELAQ----
 -----VQ-ND-D-------------------S---------------RIRIYDINYNVLR
 VMSGMGG------------------------------
->Vir./Cafeteria roenbergensis virus (strain BV-PW1) (CroV)/E3T5G9_CROVB/245-456
+>Vir./Cafeteria roenbergensis virus strain BV-PW1 CroV/E3T5G9_CROVB/245-456
 ------------------------------------------------------------
 --------------------------------------------------ERNQILIKDH
 EILITQ---VQ---RRQKS------------VN-T------DSF-I-EL-----------
@@ -797,7 +797,7 @@ M--T-----AD--YFSLIEPYYKAP-----------AIPE----LTG-------Y-----
 H--------MFS------YAL--KMNNVDPSGSANYSIL--N--N--VSIQLQCSE----
 -----AA-IK-A-A--KG--E-G-EAKTGTDYAQ-----------SFQFLVIAISQNVLT
 LKNGMLG------------------------------
->Vir./Chrysochromulina ericina virus (CeV01)/A0A0N7G7L2_CEV01/289-578
+>Vir./Chrysochromulina ericina virus CeV01/A0A0N7G7L2_CEV01/289-578
 ------------------------------------------------------------
 --------------------------------------------------ERRRMAQNPH
 EYLIEQ---LQ---FTGDE----------SVGS-S------SNK-I-KL-----------
@@ -814,7 +814,7 @@ R--E-----GT--YFDLVQPYQHHT-----------RSPD-----TG-------I-----
 N--------LYS------FAL--RPEEHQPSGTCNFSRI--D--N--ATLQLVLSN----
 -----AT-VG-G-T------------NTAK------------------VRVYATNYNVLR
 IMSGMGG------------------------------
->Vir./Chrysochromulina ericina virus (CeV01)/A0A0N9QWW3_CEV01/480-812
+>Vir./Chrysochromulina ericina virus CeV01/A0A0N9QWW3_CEV01/480-812
 ------------------------------------------------------------
 --------------------------------------------------EQRVFRSRPQ
 SYLIKQ---IQ---TILFE---------KVNHK-A------YAK-D-RF-----------
@@ -950,7 +950,7 @@ Q--P-----GR--YFNQVQPFVHHS-----------GTPY-----PG-------I-----
 Y--------CYS------FAL--EPESHQPTGTCNFSRI--D--N--AQVAVTLKA----
 -----NT-GN-S-T--T-------------------------------MHLFATNYNILR
 IQSGMGG------------------------------
->Vir./Ectocarpus siliculosus virus 1 (isolate New Zealand/Kaikoura/1988) (EsV-1)/Q8QNG3_ESV1K/244-431
+>Vir./Ectocarpus siliculosus virus 1 isolate New Zealand/Kaikoura/1988 EsV-1/Q8QNG3_ESV1K/244-431
 ------------------------------------------------------------
 --------------------------------------------------ERQAFASVQH
 EYLITT---TQ---RQMHS-I-------TSASA-K------SDQ-L-KL-----------
@@ -1001,7 +1001,7 @@ K--P-----AV--WWRAVQALQFHS-----------SVPL-----TN-------I-----
 Y--------SYS------FSL-SPEDPITPSGSANFSRL--D--S--VELALTLQD----
 -----DF-GA-A----HD-----------ANS---------------ELFVFARSYNILK
 FTNGLAG------------------------------
->Vir./Emiliania huxleyi virus 86 (isolate United Kingdom/English Channel/1999) (EhV-86)/Q4A348_EHV8U/320-491
+>Vir./Emiliania huxleyi virus 86 isolate United Kingdom/English Channel/1999 EhV-86/Q4A348_EHV8U/320-491
 ------------------------------------------------------------
 --------------------------------------------------ERDALTANAG
 TQLI-----VQ---HQAHL---------QQVSS-N------NVT-A-RL-----------
@@ -1086,7 +1086,7 @@ M--P-----GL--FFRQTQPIMKWP-----------NCSD-----GF-------M-----
 Y--------VFS------FSL--QGGAWQPTSTLNMSRI--D--H--VQLELKYGS----
 -----NI-PT-S-----D------------------------------VFVFAESYNLLV
 VKDGMGG------------------------------
->Vir./Frog virus 3 (isolate Goorha) (FV-3)/MCP_FRG3G/260-459
+>Vir./Frog virus 3 isolate Goorha FV-3/MCP_FRG3G/260-459
 ------------------------------------------------------------
 --------------------------------------------------ERQAMSSTVR
 DMVVEQ---VQ---AAPVHMV-------NPRNA-T------TFH-T-DM-----------
@@ -1137,7 +1137,7 @@ M--G-----VE--YYSLVQPWYFSA-----------SIPV----YTG-------Y-----
 H--------MYS------YAL--NVGSVHPSGSTNYGRL--T--N--ASITVTMSP----
 -----ES-VV-A-A--AG--G-G-NNNSGYNEPQ-----------RFALVVIAVNHNVIR
 IMNGSMG------------------------------
->Vir./Heliothis virescens ascovirus 3e (HvAV-3e)/CAPSD_HVAVE/259-445
+>Vir./Heliothis virescens ascovirus 3e HvAV-3e/CAPSD_HVAVE/259-445
 ------------------------------------------------------------
 --------------------------------------------------EIDRTSCSPH
 YILMEK--PTD---IAATEIL-------KPTEAGS------TLS-Y-DI-----------
@@ -1154,7 +1154,7 @@ L--P-----AE--HFVFTEPYRAAC-----------RVPTR---NRG-------Q-----
 Y--------MYS------FAL--DLKTVDPKGSINPSNF--N--S---SISVVIEP----
 -----SE-AL-R--------------NSAETF---------------EFTAIALTSYILY
 IDNGS--L-----------------------------
->Vir./Heterosigma akashiwo virus 01 (HaV01)/Q4H484_HAV01/242-435
+>Vir./Heterosigma akashiwo virus 01 HaV01/Q4H484_HAV01/242-435
 ------------------------------------------------------------
 --------------------------------------------------ERKLFAATSH
 EYLVEQ---LQ---FTGAE-S-------LSFSQ-Q------NQK-L-RL-----------
@@ -1171,7 +1171,7 @@ R--P-----QT--YFRLVQPYQHHT-----------RIPD-----KH-------I-----
 Y--------LYS------FAI--RPEEHQPSGTCNFSRI--D--T--VQLVYDLTS----
 -----LS-TL-T-----G--I-G-TGMDTAST--------------GQISVFAVNYNVLR
 IVSGMAG------------------------------
->Vir./Infectious spleen and kidney necrosis virus (ISKNV)/Q8V5D9_ISKNV/251-449
+>Vir./Infectious spleen and kidney necrosis virus ISKNV/Q8V5D9_ISKNV/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPADN-S------LVH-L-DL-----------
@@ -1188,7 +1188,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KT-T-A--AG--G-G-GNGSGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Infectious spleen and kidney necrosis virus (isolate Mandarin fish/China/Nanhai/1998) (ISKNV)/Q77HV9_ISKNN/251-449
+>Vir./Infectious spleen and kidney necrosis virus isolate Mandarin fish/China/Nanhai/1998 ISKNV/Q77HV9_ISKNN/251-449
 ------------------------------------------------------------
 --------------------------------------------------EREVVAQSSR
 SMLIEQ---CQ---VAPRVPV-------TPADN-S------LVH-L-DL-----------
@@ -1239,7 +1239,7 @@ M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
 H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
 -----AA-VS-A-A--GGSGG-F-PGSDYAQS--------------YEFIIVAVNNNIVR
 ISGGALG------------------------------
->Vir./Invertebrate iridescent virus 3 (IIV-3) (Mosquito iridescent virus)/MCP_IIV3/264-462
+>Vir./Invertebrate iridescent virus 3 IIV-3 Mosquito iridescent virus/MCP_IIV3/264-462
 ------------------------------------------------------------
 --------------------------------------------------ERKKMGCGVR
 DILIEQ---VQ---TAPRQNY-------TPSTN-P------MPS-F-DI-----------
@@ -1273,7 +1273,7 @@ M--G-----SD--YFSLINPFYHAP-----------TIPS----FIG-------Y-----
 H--------LYS------YSL--HFYDLDPMGSTNYGKL--T--N--VSVVPQASP----
 -----AA-IS-A-A--GGSGG-F-PGSDYAQS--------------YEFIIVAVNNNIVR
 ISGGALG------------------------------
->Vir./Invertebrate iridescent virus 6 (IIV-6) (Chilo iridescent virus)/MCP_IIV6/263-463
+>Vir./Invertebrate iridescent virus 6 IIV-6 Chilo iridescent virus/MCP_IIV6/263-463
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCSVR
 DILVEQ---VQ---TAPRHVW-------NPTTN-D------APN-Y-DI-----------
@@ -1358,7 +1358,7 @@ M--G-----SE--YYSLVQPYYFGG-----------SIPV----DTG-------Y-----
 H--------MYC------YSL--NMMDVDPMGSTNYGRL--S--N--VSIKLKTSP----
 -----IA-VI-T-A--GG--N-G-GNTSGYKDAQ-----------KFEFLTMAVNHNVIR
 IKNGSMG------------------------------
->Vir./Lymphocystis disease virus 1 (isolate Darai) (LCDV-1)/MCP_LCDV1/255-455
+>Vir./Lymphocystis disease virus 1 isolate Darai LCDV-1/MCP_LCDV1/255-455
 ------------------------------------------------------------
 --------------------------------------------------ERRLMGTTPR
 DILVEQ---VQ---TAPKHVF-------QPLTI-P------SPN-F-DI-----------
@@ -1392,7 +1392,7 @@ M--G-----SE--YYSLIQPYYFGG-----------SIPV----ETG-------Y-----
 H--------MYC------YSL--NMMDVDPMGSTNYGRL--S--N--VSIKLKTSP----
 -----KA-IT-T-A--GG--N-G-ANTSGYKDSQ-----------KFEFLTMAVNHNVIR
 IKNGSMG------------------------------
->Vir./Marseillevirus marseillevirus (GBM)/D2XAY2_GBMV/276-473
+>Vir./Marseillevirus marseillevirus GBM/D2XAY2_GBMV/276-473
 ------------------------------------------------------------
 --------------------------------------------------ERVKMGKNPR
 DMVIKQ---VQ---KVNETTI------NLSQLN-A------LVP-I-DI-----------
@@ -1613,7 +1613,7 @@ M--S-----SH--YHHSVVPKMHCQ-----------NLPDNLLETAP-------V-----
 Y--------TWP------FCL--NIGKSQPSGSLNFSRI--D--T--AKVALRNVF----
 -----GG-NA-T-----Q-------------------------------RMYAVNFNVLR
 VKDGLAG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5W4_MPSP1/195-369
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E5W4_MPSP1/195-369
 ------------------------------------------------------------
 --------------------------------------------------ERESFVNRQI
 EMMITQ---VQ---RVEYPID-------FATTN-N------NSL-D-IS-----------
@@ -1630,7 +1630,7 @@ M--S-----PM--YFHTVESYLKSKFAHI---DYRAE--------SK-------T-----
 M--------LYSRYFPFHFCV--NSSEYSPTGTCNFSRL--D--N--AKMIIRNAE----
 -----RG-SN-R-T--DT-----------------------------HIFVYALNHNILR
 IQNGMAG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5W9_MPSP1/242-339
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E5W9_MPSP1/242-339
 ------------------------------------------------------------
 --------------------TSRSNKVKMNVNGIDIGDYKWCQPHHVDAC----------
 ------------------------------------------------------------
@@ -1647,7 +1647,7 @@ IQNGMAG------------------------------
 F--------LYP------FCL--STSSLQPTGTLNFSRI--S--S--FKIMSKTLP----
 -------------I--ND-------------------------------PIYAVNYNILR
 IENGMAG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5X8_MPSP1/234-344
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E5X8_MPSP1/234-344
 ------------------------------------------------------------
 -------------------------------------SGKGSALAILNND----------
 ------------------------------------------------------------
@@ -1664,7 +1664,7 @@ K--F-----AD-PNFSHVPLYYHTSN---------ASKPAT---LKT-------L-----
 F--------VYP------FCL--DTGKLQPTGTLNFSRL--D--S--ARIVNDTQS----
 -----VG-D--------D--------------------------------IYAVNYNVLR
 IENGMGG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5Z3_MPSP1/231-406
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E5Z3_MPSP1/231-406
 ------------------------------------------------------------
 --------------------------------------------------ERNYLKSNPI
 DYLITQ---VQ---MSTFV---------MKAGE-T------EKS-V-ML-----------
@@ -1681,7 +1681,7 @@ R--D-----GL--FMMYQNQFMHHTNCSREYTNGGVTIP------FV-------F-----
 G--------TYS------FSL--NPEVHYPTGQVNMSRI--S--H--KLLKMKIDI----
 -----DP-SD-V-S--YT-----------KNN-----------------RVYAINYNILR
 FESGLAG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E5Z4_MPSP1/239-425
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E5Z4_MPSP1/239-425
 ------------------------------------------------------------
 --------------------------------------------------ERLMIESKSS
 DYLITQ---IQ---DNIFN---------IDNNV-N------TLK-V-KL-----------
@@ -1698,7 +1698,7 @@ S--T-----GNVIFLKAIQSAIHHS-----------KTQL----LRR-------F-----
 Y--------SYS------FAL--QPEEWYPTGQVNMSHV--K--E--QILNLSLTP----
 -----CS-T----F--SR-----------------------------QLRVYAESYNILR
 VSGGFA-K-----------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E662_MPSP1/166-378
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E662_MPSP1/166-378
 ------------------------------------------------------------
 --------------------------------------------------ERRRFAQKGH
 EYLIEQ---VQ---HTGVDS--------VTASG-G------TKQ-V-RL-----------
@@ -1715,7 +1715,7 @@ Q--S-----GK--YFNQVQSYQHHS-----------GAPY-----AG-------I-----
 Y--------SYS------FAL--KPEEHQPTGTCNFSRI--D--N--AQMSITTTA----
 -----GA-DN-A-----T-----------------------------NLNMFAVNYNVLR
 IQSGMGG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E6B9_MPSP1/201-360
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E6B9_MPSP1/201-360
 ------------------------------------------------------------
 --------------------------------------------------ERKFFTENDH
 EILFTQ---TQ---YQPAT-------------N-T------DTD-V-DL-----------
@@ -1732,7 +1732,7 @@ T--S-----PV--YHHNVVPEMHST-----------DLPD-----DV-------LLDLPT
 F--------TWP------FCL--NLSKMQPSGTLNFSRI--D--N--AKLSIVGPT----
 -----GG-NA---L--HR--------------------------------VYAVNYNILR
 VKNGMAG------------------------------
->Vir./Micromonas pusilla virus SP1 (MpV-SP1)/G9E6C3_MPSP1/241-454
+>Vir./Micromonas pusilla virus SP1 MpV-SP1/G9E6C3_MPSP1/241-454
 ------------------------------------------------------------
 ------------------------------------------------EE--KNFLLKER
 QTLITD---LV---RKHPSTI-------SVIGE-N------TIK-T-NL-----------
@@ -2633,7 +2633,7 @@ F--A-----AQ--FFRDYMSYTFGGA--------NVITPE----DLG-------A-----
 Y--------MLN------FCL--YPGTYQPSGHINVSRA--R--E--FYLQFASSY----
 -----CT-SS-T-P--CD------------------------------LLVLAKAINFLL
 IL-----TKI---------------------------
->Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/MCP_PBCV1/215-432
+>Vir./Paramecium bursaria Chlorella virus 1 PBCV-1/MCP_PBCV1/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -2650,7 +2650,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/O41040_PBCV1/206-395
+>Vir./Paramecium bursaria Chlorella virus 1 PBCV-1/O41040_PBCV1/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERVYFAQTEH
 EYIIEQ---LQ---TFVTIPN-------MSNSV-N------TTM-V-DL-----------
@@ -2667,7 +2667,7 @@ R--P-----GG--YFNMVQTTQALG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSKL--D--M--VTLSYTNKA----
 -----AT-AA-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 IVEGQGG------------------------------
->Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/O41104_PBCV1/326-515
+>Vir./Paramecium bursaria Chlorella virus 1 PBCV-1/O41104_PBCV1/326-515
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPNGS-T------NRK-I-TL-----------
@@ -2684,7 +2684,7 @@ R--P-----GA--YFRLVQPYEHHV-----------RVPS-----KS-------V-----
 Y--------VYS------FAL-EDADSRQPNGSANFTRY--D--S--VQLQLTLNE----
 -----NL-AS-G-----------------------------------RVQIYAPNFNILR
 IAAGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/Q89345_PBCV1/207-396
+>Vir./Paramecium bursaria Chlorella virus 1 PBCV-1/Q89345_PBCV1/207-396
 ------------------------------------------------------------
 --------------------------------------------------ERIKLVEKPL
 FYNIEQ---CN---FYRKDIT-------FPALS-S------TFK-L-DI-----------
@@ -2701,7 +2701,7 @@ R--E-----GM--YFNCVQPQQALG-----------RSPS-----SG-------I-----
 Y--------MYA------FGE--DVANATSKGALDMSRV--N--E--LSLQLTTKN----
 -----AT-AA-N-V--YT--V-Y-NPQETLASSTS---------TYKGITLFSTNWNVLQ
 VRSGLG-A-----------------------------
->Vir./Paramecium bursaria Chlorella virus 1 (PBCV-1)/Q89346_PBCV1/209-398
+>Vir./Paramecium bursaria Chlorella virus 1 PBCV-1/Q89346_PBCV1/209-398
 ------------------------------------------------------------
 --------------------------------------------------EREWFARNTH
 MYVIEQ---LQ---HYNNVFS-------VAAVE-Q------TKR-L-NL-----------
@@ -2718,7 +2718,7 @@ R--P-----GY--YFTTVQPQDAFG-----------RSPS-----AG-------I-----
 Y--------VYS------FGL--DVTGMTSKGALNFSRM--D--N--ATLSITTKA----
 -----AT-AA-T-I--SD--V-Y-NQSTTLASAIT---------DFTSIAIYAKSFNVLK
 IDYGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RAK2_PBCVA/215-406
+>Vir./Paramecium bursaria Chlorella virus AR158 PBCV-AR158/A7RAK2_PBCVA/215-406
 ------------------------------------------------------------
 --------------------------------------------------ERVWFAQNPH
 EYLITQ---LQ---YQRQSIV-------VDAMM-R------DYK-I-PV-----------
@@ -2735,7 +2735,7 @@ R--P-----GK--YFKDANPWLSQF----------GGYFT-----SG-------L-----
 Y--------AYN------FGL-NNCLNKGPAGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENS----------VLQLVEIYALNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RBS3_PBCVA/313-480
+>Vir./Paramecium bursaria Chlorella virus AR158 PBCV-AR158/A7RBS3_PBCVA/313-480
 ------------------------------------------------------------
 ------------------EKFRFAQDPCVYLIEQVSSMDSLSYATTTNGQ----------
 ------------------------------------------------------------
@@ -2752,7 +2752,7 @@ R--E-----GE--YFTLVNPYQHFK----------RSNPT-----SN-------I-----
 S--------TFS------FAL--DACSFQPCGFLNFAPY--V--R--TRFAFKIHQ----
 -----QN-TP-H-V----------------------------------IRIFAVCLNWIK
 FDSGM--V-----------------------------
->Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RBY5_PBCVA/215-432
+>Vir./Paramecium bursaria Chlorella virus AR158 PBCV-AR158/A7RBY5_PBCVA/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -2769,7 +2769,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RC11_PBCVA/215-432
+>Vir./Paramecium bursaria Chlorella virus AR158 PBCV-AR158/A7RC11_PBCVA/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -2786,7 +2786,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RCC8_PBCVA/206-395
+>Vir./Paramecium bursaria Chlorella virus AR158 PBCV-AR158/A7RCC8_PBCVA/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERIYFAQAEH
 EYIIEQ---LQ---TFSTIPN-------VSGSV-N------TTM-I-DL-----------
@@ -2803,7 +2803,7 @@ R--P-----GG--YFNMVQTTQSLG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSRL--D--M--VTLSLTSKA----
 -----AT-AP-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 IVEGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus AR158 (PBCV-AR158)/A7RCJ4_PBCVA/326-515
+>Vir./Paramecium bursaria Chlorella virus AR158 PBCV-AR158/A7RCJ4_PBCVA/326-515
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPNGS-T------NRK-I-TL-----------
@@ -2820,7 +2820,7 @@ R--P-----GA--YFRLVQPYEHHV-----------RVPS-----KS-------V-----
 Y--------VYS------FAL-EDADSRQPNGSANFTRY--D--S--VQLQLTLNE----
 -----NL-AS-G-----------------------------------RVQIYAPNFNILR
 IAAGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J6C8_PBCVF/214-405
+>Vir./Paramecium bursaria Chlorella virus FR483 PBCV-FR483/A7J6C8_PBCVF/214-405
 ------------------------------------------------------------
 --------------------------------------------------ERIWFAQNPH
 EYLVTQ---LQ---YQKQSIV-------VDALT-R------DYK-I-PV-----------
@@ -2837,7 +2837,7 @@ R--P-----GK--YFKDANPWLSQY----------GGYFT-----SG-------L-----
 Y--------VYN------FGL-NNCLGKGPAGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENN----------VLQLVELYALNYNVLR
 VMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J6V8_PBCVF/205-397
+>Vir./Paramecium bursaria Chlorella virus FR483 PBCV-FR483/A7J6V8_PBCVF/205-397
 ------------------------------------------------------------
 --------------------------------------------------ERVLFVKTPH
 KYIFEQ---TQ---TQDFPSR------ISTTSS-R------TTL-Y-TL-----------
@@ -2854,7 +2854,7 @@ Q--T-----GS--YFRLIEPYRTMQ-----------CVPP-----AG-------I-----
 Y--------SYF------FSK-APLNVHAASGTLNFSAL--D--T--VKLLVTTKA----
 -----AS-AA-T-I--AD--V-F-DEQTSVNSAA----------NLTTFTVIARSMNVLR
 IQDGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J6X8_PBCVF/241-430
+>Vir./Paramecium bursaria Chlorella virus FR483 PBCV-FR483/A7J6X8_PBCVF/241-430
 ------------------------------------------------------------
 --------------------------------------------------ERAHFAQAPH
 EYMIEQ---LQ---IFKANPV-------INATT-T------TQT-V-TL-----------
@@ -2871,7 +2871,7 @@ R--P-----GS--YFNLVQPTQAVN-----------QAPS-----AG-------I-----
 Y--------MYS------FGV--MANEQDSAGTLNFSQL--D--T--VTLQLTAKA----
 -----AS-AS-T-I--AQ--I-L-TPGVTLDTALT---------KFTTIAIFAVNYNVFR
 VMDGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J799_PBCVF/299-467
+>Vir./Paramecium bursaria Chlorella virus FR483 PBCV-FR483/A7J799_PBCVF/299-467
 ------------------------------------------------------------
 -------------------------------------------------E-KYRFAQNPV
 TYLIEQ---TP---IIDTPTYL-----TSNGGE-T------IQQ-D-KVDV---------
@@ -2888,7 +2888,7 @@ R--S-----GE--YWKLVQTYQHFT----------RSIPT-----NN-------I-----
 F--------TYS------FAL--DASSFQPNGLLNFAPY--V--R--TMLSFEIIK----
 -----QT-T---------------------------------------------------
 -------PMRLKTTAVCLNWLTFDSGTA---------
->Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J7H4_PBCVF/212-427
+>Vir./Paramecium bursaria Chlorella virus FR483 PBCV-FR483/A7J7H4_PBCVF/212-427
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATSQ-S------TQN-I-RL-----------
@@ -2905,7 +2905,7 @@ R--K-----GS--YFNQVQPFQTIG-----------SLAP-----SG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTASV-
 -NAYAAT-AT-T-A--AA--L-Y-ASETVTANTAT---------SLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus FR483 (PBCV-FR483)/A7J891_PBCVF/334-516
+>Vir./Paramecium bursaria Chlorella virus FR483 PBCV-FR483/A7J891_PBCVF/334-516
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PSAPNGT-T------NRK-F-TL-----------
@@ -2922,7 +2922,7 @@ R--P-----GA--YFRLVQPYQHSL-----------RTPS-----KS-------I-----
 Y--------LYS------FAL-EDIDSKQPNGSANFTRY--D--S--AQLQMVLNP----
 -----NL-PS-G-----------------------------------RFQIYAPNYNILR
 VAAGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7ITF8_PBCVM/214-405
+>Vir./Paramecium bursaria Chlorella virus MT325 PBCV-MT325/A7ITF8_PBCVM/214-405
 ------------------------------------------------------------
 --------------------------------------------------ERIWFAQNPH
 EYLVTQ---LQ---YQKQSII-------VDALT-R------DYK-I-PV-----------
@@ -2939,7 +2939,7 @@ R--P-----GK--YFKDANPWLSQY----------GGYFT-----SG-------L-----
 Y--------VYN------FGL-NNCLGKGPSGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENN----------VLQLVELYALNYNVLR
 VMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7ITZ9_PBCVM/206-395
+>Vir./Paramecium bursaria Chlorella virus MT325 PBCV-MT325/A7ITZ9_PBCVM/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERAHFAQAPH
 EYMIEQ---LQ---IFKANPV-------INATT-T------TQT-V-TL-----------
@@ -2956,7 +2956,7 @@ R--P-----GS--YFNLVQPTQAVS-----------QAPS-----AG-------I-----
 Y--------MYS------FGV--MANEQDSAGTLNFSQL--D--T--VTLQLTAKA----
 -----AS-AS-T-I--AQ--I-L-TPGVTLDTALT---------KFTTIAIFAVNYNVFR
 VMDGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7IUB1_PBCVM/299-467
+>Vir./Paramecium bursaria Chlorella virus MT325 PBCV-MT325/A7IUB1_PBCVM/299-467
 ------------------------------------------------------------
 -------------------------------------------------E-KYRFAQNPV
 TYLIEQ---TP---IIDTPTYL-----TSNGGA-T------IQQ-D-KVDV---------
@@ -2973,7 +2973,7 @@ R--S-----GE--YWKLVQTYQHFT----------RSIPT-----NN-------I-----
 F--------TYS------FAL--DASSFQPNGFLNFAPY--V--R--TMLSFEIIK----
 -----QT-----------------------------------------------------
 -------TPMRLKTTAVCLNWITFASGTA--------
->Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7IUJ3_PBCVM/212-428
+>Vir./Paramecium bursaria Chlorella virus MT325 PBCV-MT325/A7IUJ3_PBCVM/212-428
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSASSQ-S------TQN-I-RL-----------
@@ -2990,7 +2990,7 @@ R--K-----GS--YFNQVQPFQTIG-----------SLAP-----SG-------V-----
 Y--------LYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLSLTYKTCSV-
 -AANTAT-TV-T-A--AA--L-Y-SGGETVTASTG--------TQLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus MT325 (PBCV-MT325)/A7IVC8_PBCVM/334-516
+>Vir./Paramecium bursaria Chlorella virus MT325 PBCV-MT325/A7IVC8_PBCVM/334-516
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSEIQH
 EYLVTQ---LQ---WQGSEPVTA---PSAPNGT-T------NRK-F-TL-----------
@@ -3007,7 +3007,7 @@ R--P-----GA--YFRLVQPYQHSL-----------RTPS-----KS-------I-----
 Y--------LYS------FAL-EDIDSKQPNGSANFTRY--D--S--AQLQMVLNP----
 -----NL-PS-G-----------------------------------RFQIYAPNYNILR
 VAAGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IVT4_PBCVN/215-406
+>Vir./Paramecium bursaria Chlorella virus NY2A PBCV-NY2A/A7IVT4_PBCVN/215-406
 ------------------------------------------------------------
 --------------------------------------------------ERVWFAQNPH
 EYLITQ---LQ---YQRQSIV-------VDAMM-R------DYK-I-PV-----------
@@ -3024,7 +3024,7 @@ R--P-----GK--YFKNGNPWLSQY----------GGYCT-----SG-------L-----
 Y--------IYN------FGL-NNCLGKGPAGTLNFSRI--D--N--SILRLVTKQ----
 -----AV-LT-G-A--ET--T-T-TEAQTNVENS----------VLQLVEIYALNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IX54_PBCVN/313-480
+>Vir./Paramecium bursaria Chlorella virus NY2A PBCV-NY2A/A7IX54_PBCVN/313-480
 ------------------------------------------------------------
 ------------------EKFRFAQDPCVYLIEQVSSTDSLSYAITTNGQ----------
 ------------------------------------------------------------
@@ -3041,7 +3041,7 @@ R--A-----GE--YFSLVQPYQHFK----------RSNPT-----SN-------I-----
 S--------TFS------FAL--DSGSFQPCGFLNFAPY--V--R--TRFAFKIHQ----
 -----QN-TP-H-V----------------------------------IRIFAVCLNWIK
 FDSGM--V-----------------------------
->Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IXB0_PBCVN/215-432
+>Vir./Paramecium bursaria Chlorella virus NY2A PBCV-NY2A/A7IXB0_PBCVN/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -3058,7 +3058,7 @@ R--K-----GS--YFNKVQPYQSIG----------GVTP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IXE2_PBCVN/215-432
+>Vir./Paramecium bursaria Chlorella virus NY2A PBCV-NY2A/A7IXE2_PBCVN/215-432
 ------------------------------------------------------------
 --------------------------------------------------ERTRFAQLPH
 EYLIEQ---LQ---FTGSETAT-----PSATTQ-A------SQN-I-RL-----------
@@ -3075,7 +3075,7 @@ R--K-----GS--YFNTVQPYQSIG----------GATP------AG-------V-----
 Y--------IYS------FAL--KPAGRQPSGTCNFSRI--D--N--ATLTLTYKTC---
 ---SIDA-TS-P-A--AV--L-G-NTETVTANTAT---------LLTALNIYAKNYNVLR
 IMSGMGG------------------------------
->Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IXS3_PBCVN/206-395
+>Vir./Paramecium bursaria Chlorella virus NY2A PBCV-NY2A/A7IXS3_PBCVN/206-395
 ------------------------------------------------------------
 --------------------------------------------------ERIYFAQAEH
 EYIIEQ---LQ---TFSTIPN-------VSGSV-N------TTM-I-DL-----------
@@ -3092,7 +3092,7 @@ R--P-----GG--YFNMVQTTQSLG-----------QAPS-----CG-------I-----
 Y--------MYS------FGV--NADKQDPEGTLNFSRL--D--M--VTLSLTSKA----
 -----AT-AP-D-I--SQ--V-F-DLSTTLENGIT---------KFKNITIFSKNFNVLR
 IVEGIGG------------------------------
->Vir./Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)/A7IY00_PBCVN/326-515
+>Vir./Paramecium bursaria Chlorella virus NY2A PBCV-NY2A/A7IY00_PBCVN/326-515
 ------------------------------------------------------------
 --------------------------------------------------ERIRMSQIQH
 EYLVTQ---LQ---WQGSEPVTA---PGDPNGS-T------NRK-I-TL-----------
@@ -3313,7 +3313,7 @@ M--G-----VE--YYSLVQPWYFSA-----------SIPV----YTG-------Y-----
 H--------MYS------YAL--NVGSVHPSGSTNYGRL--T--N--ASITVTMSP----
 -----ES-VV-A-A--AG--G-G-NNNSGYNEPQ-----------RFALVVIAVNHNVIR
 IMNGSMG------------------------------
->Vir./Spodoptera frugiperda ascovirus 1a (SfAV-1a)/CAPSD_SFAVA/260-452
+>Vir./Spodoptera frugiperda ascovirus 1a SfAV-1a/CAPSD_SFAVA/260-452
 ------------------------------------------------------------
 --------------------------------------------------EIDRTSCTPH
 YMYMEK--PVD---VPATELV-------KPTDG-T------TAP-D-TM-----------
@@ -3381,7 +3381,7 @@ N--G-----SD--YYSLMVPWFWHK-----------SIPE----ETG-------Y-----
 H--------AYS------YSL--DTFASDPKGSTNYSKL--T--N--VSNQYVPSV----
 -----AA-VN-A-S--AG--V-T-NTGIP--IPSATNPAVLQQNQTFQHIFRVLNFNVLR
 LSGGSLG------------------------------
->Vir./Trichoplusia ni ascovirus 2c (TnAV-2c)/CAPSD_TNAVC/231-465
+>Vir./Trichoplusia ni ascovirus 2c TnAV-2c/CAPSD_TNAVC/231-465
 --------------------------------------------EVLLLEDINNSKNKVI
 KADDIKDGEPKLTSIKLIGTYAVASKYEVNKTRCDDRRMLIEKPFKASEY----------
 -----------------------------------------------ELPVFDSGKL---
@@ -3415,7 +3415,7 @@ M--G-----VD--YFTSVDPYYFAP-----------SMPE----MDG-------V-----
 M--------TYC------YTL--DMGNINPMGSTNYGRL--S--N--VTLSCKVSD----
 -----NA-KK-T-A--AG--G-G-TNGSGYTVAQ-----------KFELVVIAVNHNIMK
 IADGAAG------------------------------
->Vir./Wiseana iridescent virus (WIV) (Insect iridescent virus type 9)/G0T536_IRV9/259-456
+>Vir./Wiseana iridescent virus WIV Insect iridescent virus type 9/G0T536_IRV9/259-456
 ------------------------------------------------------------
 --------------------------------------------------ERRRMGCAIR
 DILIEQ---VQ---TAPRQNY-------TPLTN-A------SPT-F-DI-----------

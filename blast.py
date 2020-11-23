@@ -1,7 +1,7 @@
 from Bio.Blast import NCBIWWW
 from Bio import AlignIO
 
-new_file = open(r"data/Proteins_named_All.fasta", 'r')
+new_file = open(r"data/Proteins_named_Euk_Vir.fasta", 'r')
 
 records = AlignIO.read(new_file, format="fasta")
 record = records[9]
