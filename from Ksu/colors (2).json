@@ -1,0 +1,34 @@
+{
+  "Opisthokonta+Fungi+Dikarya+Ascomycota": {
+    "color":  "#fdeba2",
+    "label": "Ascomycota"
+  },
+  "Opisthokonta+Fungi+Dikarya+Basidiomycota": {
+    "color":  "#ff8d00",
+    "label": "Basidiomycota"
+  },
+  "Opisthokonta+Metazoa+Eumetazoa+Bilateria+Protostomia+Ecdysozoa+Panarthropoda+Arthropoda+Mandibulata+Pancrustacea+Hexapoda+Insecta":  {
+    "color":  "#621514",
+    "label": "Insecta"
+  },
+  "Viridiplantae+Streptophyta+Streptophytina+Embryophyta+Tracheophyta+Euphyllophyta+Spermatophyta":  {
+    "color":  "#10a34d",
+    "label": "Spermatophyta"
+  },
+  "Viridiplantae+Chlorophyta":  {
+    "color":  "#c1fda2",
+    "label": "Chlorophyta"
+  },
+  "Discoba+Euglenozoa": {
+    "color":  "#dca2fd",
+    "label": "Euglenozoa"
+  },
+  "Opisthokonta+Metazoa+Eumetazoa+Bilateria+Protostomia+Ecdysozoa+Nematoda": {
+    "color":  "#ee1536",
+    "label": "Nematoda"
+  },
+  "Opisthokonta+Metazoa+Eumetazoa+Bilateria+Deuterostomia+Chordata+Craniata+Vertebrata": {
+    "color":  "#197edb",
+    "label": "Vertebrata"
+  }
+}

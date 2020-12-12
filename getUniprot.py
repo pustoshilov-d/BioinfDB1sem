@@ -12,7 +12,7 @@ def split_mine(str):
     return dict
 
 
-results = u.search("MCP_IIV6", columns="id, organism, lineage(SUPERKINGDOM), lineage(all)")
+results = u.search("Blyttiomyces helicus", columns="id, organism, lineage(SUPERKINGDOM), lineage(all)", limit=1)
 print(results)
 
 

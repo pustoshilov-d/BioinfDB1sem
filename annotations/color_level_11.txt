@@ -1,0 +1,44 @@
+TREE_COLORS
+SEPARATOR SPACE
+DATA
+'Euk./Catenaria/1-176_anguillulae_PL171/A0A1Y2H8B9_9FUNG/233-408' range #ff7f0e Catenaria anguillulae
+'Euk./Gonapodya/1-176_prolifera_strain_JEL478_Monoblepharis_prolifera/A0A138ZWU4_GONPJ/230-405' range #2ca02c Gonapodya prolifera (Aquatic fungus)
+'Euk./Gonapodya/1-175_prolifera_strain_JEL478_Monoblepharis_prolifera/A0A139A9J7_GONPJ/166-340' range #2ca02c Gonapodya prolifera (Aquatic fungus)
+'Vir./Ambystoma/1-200_tigrinum_stebbensi_virus/Q6YHB1_9VIRU/260-459' range #d62728 Ambystoma tigrinum stebbensi virus
+'Vir./Armadillidium/1-198_vulgare_iridescent_virus/A0A068QKK8_9VIRU/270-467' range #9467bd Armadillidium vulgare iridescent virus
+'Vir./Bathycoccus/1-188_sp._RCC1105_virus_BpV1/E5ES96_9PHYC/253-440' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bathycoccus/1-207_sp._RCC1105_virus_BpV1/E5ESH2_9PHYC/198-404' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bathycoccus/1-148_sp._RCC1105_virus_BpV2/E5EQZ3_9PHYC/192-339' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-186_sp._RCC1105_virus_BpV2/E5ER12_9PHYC/247-432' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-109_sp._RCC1105_virus_BpV1/E5ES95_9PHYC/278-386' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bathycoccus/1-110_sp._RCC1105_virus_BpV1/E5ES72_9PHYC/230-339' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bathycoccus/1-157_sp._RCC1105_virus_BpV2/E5ER11_9PHYC/230-386' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-198_sp._RCC1105_virus_BpV2/E5ER94_9PHYC/198-395' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-156_sp._RCC1105_virus_BpV2/E5ERB9_9PHYC/206-361' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-189_sp._RCC1105_virus_BpV1/E5ESK2_9PHYC/249-437' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bathycoccus/1-192_sp._RCC1105_virus_BpV2/E5ERC3_9PHYC/248-439' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-107_sp._RCC1105_virus_BpV2/E5EQZ5_9PHYC/220-326' range #e377c2 Bathycoccus sp. RCC1105 virus BpV2
+'Vir./Bathycoccus/1-104_sp._RCC1105_virus_BpV1/E5ES74_9PHYC/220-323' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bathycoccus/1-113_sp._RCC1105_virus_BpV1/E5ESJ8_9PHYC/249-361' range #8c564b Bathycoccus sp. RCC1105 virus BpV1
+'Vir./Bodo/1-190_saltans_virus/A0A2H4UUL3_9VIRU/3999-4188' range #7f7f7f Bodo saltans virus
+'Vir./Bodo/1-343_saltans_virus/A0A2H4UUG0_9VIRU/188-530' range #7f7f7f Bodo saltans virus
+'Vir./Bodo/1-189_saltans_virus/A0A2H4UUF1_9VIRU/332-520' range #7f7f7f Bodo saltans virus
+'Vir./Bodo/1-200_saltans_virus/A0A2H4UUK7_9VIRU/476-675' range #7f7f7f Bodo saltans virus
+'Vir./Bohle/1-200_iridovirus/C5H9K5_9VIRU/260-459' range #bcbd22 Bohle iridovirus
+'Vir./European/1-200_catfish_virus/C5H9K1_9VIRU/260-459' range #17becf European catfish virus
+'Vir./Frog/1-200_virus_3_isolate_Goorha_FV-3/MCP_FRG3G/260-459' range #1f77b4 Frog virus 3 (isolate Goorha) (FV-3)
+'Vir./German/1-200_gecko_ranavirus/A0A0D3R3S9_9VIRU/260-459' range #ff7f0e German gecko ranavirus
+'Vir./Grouper/1-200_iridovirus/Q5GAH7_9VIRU/260-459' range #2ca02c Grouper iridovirus
+'Vir./Infectious/1-199_spleen_and_kidney_necrosis_virus_isolate_Mandarin_fish/China/Nanhai/1998_ISKNV/Q77HV9_ISKNN/251-449' range #d62728 Infectious spleen and kidney necrosis virus (isolate Mandarin fish/China/Nanhai/1998) (ISKNV)
+'Vir./Invertebrate/1-199_iridovirus_22/S6DA63_9VIRU/259-457' range #9467bd Invertebrate iridovirus 22
+'Vir./Invertebrate/1-199_iridescent_virus_30/W8W261_9VIRU/259-457' range #8c564b Invertebrate iridescent virus 30
+'Vir./Large/1-199_yellow_croaker_iridovirus/Q0IKK3_ISKNV/251-449' range #e377c2 Large yellow croaker iridovirus
+'Vir./Lymphocystis/1-201_disease_virus_Sa/A0A1B2RVY7_9VIRU/255-455' range #7f7f7f Lymphocystis disease virus Sa
+'Vir./Lymphocystis/1-201_disease_virus_1_isolate_Darai_LCDV-1/MCP_LCDV1/255-455' range #bcbd22 Lymphocystis disease virus 1 (isolate Darai) (LCDV-1)
+'Vir./Lymphocystis/1-201_disease_virus_-_isolate_China/Q6JLA3_9VIRU/255-455' range #17becf Lymphocystis disease virus - isolate China
+'Vir./Pike/1-200_perch_iridovirus/A0A1B2ITQ5_FRG3V/260-459' range #1f77b4 Pike perch iridovirus
+'Vir./Rana/1-200_tigrina_ranavirus/Q77HF2_RTRV/260-459' range #ff7f0e Rana tigrina ranavirus
+'Vir./Rock/1-199_bream_iridovirus/G3CLF3_ISKNV/251-449' range #2ca02c Rock bream iridovirus
+'Vir./Testudo/1-200_hermanni_ranavirus/A0A0D3R2R9_9VIRU/260-459' range #d62728 Testudo hermanni ranavirus
+'Vir./Turbot/1-199_reddish_body_iridovirus/Q6PNE1_9VIRU/251-449' range #9467bd Turbot reddish body iridovirus
+'Vir./Wiseana/1-198_iridescent_virus_WIV_Insect_iridescent_virus_type_9/G0T536_IRV9/259-456' range #8c564b Wiseana iridescent virus (WIV) (Insect iridescent virus type 9)

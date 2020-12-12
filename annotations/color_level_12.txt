@@ -1,0 +1,6 @@
+TREE_COLORS
+SEPARATOR SPACE
+DATA
+'Euk./Catenaria/1-176_anguillulae_PL171/A0A1Y2H8B9_9FUNG/233-408' range #ff7f0e Catenaria anguillulae PL171
+'Euk./Gonapodya/1-176_prolifera_strain_JEL478_Monoblepharis_prolifera/A0A138ZWU4_GONPJ/230-405' range #2ca02c Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)
+'Euk./Gonapodya/1-175_prolifera_strain_JEL478_Monoblepharis_prolifera/A0A139A9J7_GONPJ/166-340' range #2ca02c Gonapodya prolifera (strain JEL478) (Monoblepharis prolifera)
